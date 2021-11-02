@@ -1,0 +1,525 @@
+[{
+    "id": 1,
+    "title": "Invasore",
+    "min_rank": 1
+  },
+  {
+    "id": 2,
+    "title": "Assalitore",
+    "min_rank": 5
+  },
+  {
+    "id": 3,
+    "title": "Incursore",
+    "min_rank": 10
+  },
+  {
+    "id": 4,
+    "title": "Recruta",
+    "min_rank": 15
+  },
+  {
+    "id": 5,
+    "title": "Ricognitore",
+    "min_rank": 20
+  },
+  {
+    "id": 6,
+    "title": "Soldato",
+    "min_rank": 30
+  },
+  {
+    "id": 7,
+    "title": "Scudiero",
+    "min_rank": 40
+  },
+  {
+    "id": 8,
+    "title": "Fante",
+    "min_rank": 50
+  },
+  {
+    "id": 9,
+    "title": "Cavaliere",
+    "min_rank": 60
+  },
+  {
+    "id": 10,
+    "title": "Maggiore",
+    "min_rank": 70
+  },
+  {
+    "id": 11,
+    "title": "Colonnello",
+    "min_rank": 80
+  },
+  {
+    "id": 12,
+    "title": "Generale",
+    "min_rank": 90
+  },
+  {
+    "id": 13,
+    "title": "Veterano",
+    "min_rank": 100
+  },
+  {
+    "id": 14,
+    "title": "Campione",
+    "min_rank": 110
+  },
+  {
+    "id": 15,
+    "title": "Leggenda",
+    "min_rank": 120
+  },
+  {
+    "id": 16,
+    "title": "Invasore di Bronzo",
+    "min_rank": 150
+  },
+  {
+    "id": 17,
+    "title": "Assalitore di Bronzo",
+    "min_rank": 180
+  },
+  {
+    "id": 18,
+    "title": "Incursore di Bronzo",
+    "min_rank": 210
+  },
+  {
+    "id": 19,
+    "title": "Recruta di Bronzo",
+    "min_rank": 240
+  },
+  {
+    "id": 20,
+    "title": "Ricognitore di Bronzo",
+    "min_rank": 270
+  },
+  {
+    "id": 21,
+    "title": "Soldato di Bronzo",
+    "min_rank": 300
+  },
+  {
+    "id": 22,
+    "title": "Scudiero di Bronzo",
+    "min_rank": 330
+  },
+  {
+    "id": 23,
+    "title": "Fante di Bronzo",
+    "min_rank": 360
+  },
+  {
+    "id": 24,
+    "title": "Cavaliere di Bronzo",
+    "min_rank": 390
+  },
+  {
+    "id": 25,
+    "title": "Maggiore di Bronzo",
+    "min_rank": 420
+  },
+  {
+    "id": 26,
+    "title": "Colonnello di Bronzo",
+    "min_rank": 450
+  },
+  {
+    "id": 27,
+    "title": "Generale di Bronzo",
+    "min_rank": 480
+  },
+  {
+    "id": 28,
+    "title": "Veterano di Bronzo",
+    "min_rank": 510
+  },
+  {
+    "id": 29,
+    "title": "Campione di Bronzo",
+    "min_rank": 540
+  },
+  {
+    "id": 30,
+    "title": "Leggenda di Bronzo",
+    "min_rank": 570
+  },
+  {
+    "id": 31,
+    "title": "Invasore d'Argento",
+    "min_rank": 620
+  },
+  {
+    "id": 32,
+    "title": "Assalitore d'Argento",
+    "min_rank": 670
+  },
+  {
+    "id": 33,
+    "title": "Incursore d'Argento",
+    "min_rank": 720
+  },
+  {
+    "id": 34,
+    "title": "Recruta d'Argento",
+    "min_rank": 770
+  },
+  {
+    "id": 35,
+    "title": "Ricognitore d'Argento",
+    "min_rank": 820
+  },
+  {
+    "id": 36,
+    "title": "Soldato d'Argento",
+    "min_rank": 870
+  },
+  {
+    "id": 37,
+    "title": "Scudiero d'Argento",
+    "min_rank": 920
+  },
+  {
+    "id": 38,
+    "title": "Fante d'Argento",
+    "min_rank": 970
+  },
+  {
+    "id": 39,
+    "title": "Cavaliere d'Argento",
+    "min_rank": 1020
+  },
+  {
+    "id": 40,
+    "title": "Maggiore d'Argento",
+    "min_rank": 1070
+  },
+  {
+    "id": 41,
+    "title": "Colonnello d'Argento",
+    "min_rank": 1120
+  },
+  {
+    "id": 42,
+    "title": "Generale d'Argento",
+    "min_rank": 1170
+  },
+  {
+    "id": 43,
+    "title": "Veterano d'Argento",
+    "min_rank": 1220
+  },
+  {
+    "id": 44,
+    "title": "Campione d'Argento",
+    "min_rank": 1270
+  },
+  {
+    "id": 45,
+    "title": "Leggenda d'Argento",
+    "min_rank": 1320
+  },
+  {
+    "id": 46,
+    "title": "Invasore d'Oro",
+    "min_rank": 1395
+  },
+  {
+    "id": 47,
+    "title": "Assalitore d'Oro",
+    "min_rank": 1470
+  },
+  {
+    "id": 48,
+    "title": "Incursore d'Oro",
+    "min_rank": 1545
+  },
+  {
+    "id": 49,
+    "title": "Recruta d'Oro",
+    "min_rank": 1620
+  },
+  {
+    "id": 50,
+    "title": "Ricognitore d'Oro",
+    "min_rank": 1695
+  },
+  {
+    "id": 51,
+    "title": "Soldato d'Oro",
+    "min_rank": 1770
+  },
+  {
+    "id": 52,
+    "title": "Scudiero d'Oro",
+    "min_rank": 1845
+  },
+  {
+    "id": 53,
+    "title": "Fante d'Oro",
+    "min_rank": 1920
+  },
+  {
+    "id": 54,
+    "title": "Cavaliere d'Oro",
+    "min_rank": 1995
+  },
+  {
+    "id": 55,
+    "title": "Maggiore d'Oro",
+    "min_rank": 2070
+  },
+  {
+    "id": 56,
+    "title": "Colonnello d'Oro",
+    "min_rank": 2145
+  },
+  {
+    "id": 57,
+    "title": "Generale d'Oro",
+    "min_rank": 2220
+  },
+  {
+    "id": 58,
+    "title": "Veterano d'Oro",
+    "min_rank": 2295
+  },
+  {
+    "id": 59,
+    "title": "Campione d'Oro",
+    "min_rank": 2370
+  },
+  {
+    "id": 60,
+    "title": "Leggenda d'Oro",
+    "min_rank": 2445
+  },
+  {
+    "id": 61,
+    "title": "Invasore di Platino",
+    "min_rank": 2545
+  },
+  {
+    "id": 62,
+    "title": "Assalitore di Platino",
+    "min_rank": 2645
+  },
+  {
+    "id": 63,
+    "title": "Incursore di Platino",
+    "min_rank": 2745
+  },
+  {
+    "id": 64,
+    "title": "Recruta di Platino",
+    "min_rank": 2845
+  },
+  {
+    "id": 65,
+    "title": "Ricognitore di Platino",
+    "min_rank": 2945
+  },
+  {
+    "id": 66,
+    "title": "Soldato di Platino",
+    "min_rank": 3045
+  },
+  {
+    "id": 67,
+    "title": "Scudiero di Platino",
+    "min_rank": 3145
+  },
+  {
+    "id": 68,
+    "title": "Fante di Platino",
+    "min_rank": 3245
+  },
+  {
+    "id": 69,
+    "title": "Cavaliere di Platino",
+    "min_rank": 3345
+  },
+  {
+    "id": 70,
+    "title": "Maggiore di Platino",
+    "min_rank": 3445
+  },
+  {
+    "id": 71,
+    "title": "Colonnello di Platino",
+    "min_rank": 3545
+  },
+  {
+    "id": 72,
+    "title": "Generale di Platino",
+    "min_rank": 3645
+  },
+  {
+    "id": 73,
+    "title": "Veterano di Platino",
+    "min_rank": 3745
+  },
+  {
+    "id": 74,
+    "title": "Campione di Platino",
+    "min_rank": 3845
+  },
+  {
+    "id": 75,
+    "title": "Leggenda di Platino",
+    "min_rank": 3945
+  },
+  {
+    "id": 76,
+    "title": "Invasore di Mithril",
+    "min_rank": 4095
+  },
+  {
+    "id": 77,
+    "title": "Assalitore di Mithril",
+    "min_rank": 4245
+  },
+  {
+    "id": 78,
+    "title": "Incursore di Mithril",
+    "min_rank": 4395
+  },
+  {
+    "id": 79,
+    "title": "Recruta di Mithril",
+    "min_rank": 4545
+  },
+  {
+    "id": 80,
+    "title": "Ricognitore di Mithril",
+    "min_rank": 4695
+  },
+  {
+    "id": 81,
+    "title": "Soldato di Mithril",
+    "min_rank": 4845
+  },
+  {
+    "id": 82,
+    "title": "Scudiero di Mithril",
+    "min_rank": 4995
+  },
+  {
+    "id": 83,
+    "title": "Fante di Mithril",
+    "min_rank": 5145
+  },
+  {
+    "id": 84,
+    "title": "Cavaliere di Mithril",
+    "min_rank": 5295
+  },
+  {
+    "id": 85,
+    "title": "Maggiore di Mithril",
+    "min_rank": 5445
+  },
+  {
+    "id": 86,
+    "title": "Colonnello di Mithril",
+    "min_rank": 5595
+  },
+  {
+    "id": 87,
+    "title": "Generale di Mithril",
+    "min_rank": 5745
+  },
+  {
+    "id": 88,
+    "title": "Veterano di Mithril",
+    "min_rank": 5895
+  },
+  {
+    "id": 89,
+    "title": "Campione di Mithril",
+    "min_rank": 6045
+  },
+  {
+    "id": 90,
+    "title": "Leggenda di Mithril",
+    "min_rank": 6195
+  },
+  {
+    "id": 91,
+    "title": "Invasore di Diamante",
+    "min_rank": 6445
+  },
+  {
+    "id": 92,
+    "title": "Assalitore di Diamante",
+    "min_rank": 6695
+  },
+  {
+    "id": 93,
+    "title": "Incursore di Diamante",
+    "min_rank": 6945
+  },
+  {
+    "id": 94,
+    "title": "Recruta di Diamante",
+    "min_rank": 7195
+  },
+  {
+    "id": 95,
+    "title": "Ricognitore di Diamante",
+    "min_rank": 7445
+  },
+  {
+    "id": 96,
+    "title": "Soldato di Diamante",
+    "min_rank": 7695
+  },
+  {
+    "id": 97,
+    "title": "Scudiero di Diamante",
+    "min_rank": 7945
+  },
+  {
+    "id": 98,
+    "title": "Fante di Diamante",
+    "min_rank": 8195
+  },
+  {
+    "id": 99,
+    "title": "Cavaliere di Diamante",
+    "min_rank": 8445
+  },
+  {
+    "id": 100,
+    "title": "Maggiore di Diamante",
+    "min_rank": 8695
+  },
+  {
+    "id": 101,
+    "title": "Colonnello di Diamante",
+    "min_rank": 8945
+  },
+  {
+    "id": 102,
+    "title": "Generale di Diamante",
+    "min_rank": 9195
+  },
+  {
+    "id": 103,
+    "title": "Veterano di Diamante",
+    "min_rank": 9445
+  },
+  {
+    "id": 104,
+    "title": "Campione di Diamante",
+    "min_rank": 9695
+  },
+  {
+    "id": 105,
+    "title": "Leggenda di Diamante",
+    "min_rank": 9945
+  }]

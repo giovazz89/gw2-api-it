@@ -1,0 +1,392 @@
+[{
+    "id": 1,
+    "name": "Moneta",
+    "description": "La valuta principale di Tyria. Spese presso venditori in tutto il mondo.",
+    "order": 101,
+    "icon": "https://render.guildwars2.com/file/98457F504BA2FAC8457F532C4B30EDC23929ACF9/619316.png"
+  },
+  {
+    "id": 2,
+    "name": "Karma",
+    "description": "Guadagnato attraverso varie attività. Speso presso venditori in tutto il mondo.",
+    "order": 102,
+    "icon": "https://render.guildwars2.com/file/94953FA23D3E0D23559624015DFEA4CFAA07F0E5/155026.png"
+  },
+  {
+    "id": 3,
+    "name": "Lauro",
+    "description": "Guadagnato tramite il forziere delle ricompense di accesso. Speso nelle città principali. Usato per acquistare vari premi.",
+    "order": 104,
+    "icon": "https://render.guildwars2.com/file/A1BD345AD9192C3A585BE2F6CB0617C5A797A1E2/619317.png"
+  },
+  {
+    "id": 4,
+    "name": "Gemme",
+    "description": "Acquistate e spese tramite la Società Commerciante del Leone Nero.",
+    "order": 100,
+    "icon": "https://render.guildwars2.com/file/220061640ECA41C0577758030357221B4ECCE62C/502065.png"
+  },
+  {
+    "id": 5,
+    "name": "Lacrima Ascaloniana",
+    "description": "Guadagnato nelle Catacombe Ascaloniane. Spese all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono di Ascalon\" utilizzato nella creazione di armi leggendarie.",
+    "order": 402,
+    "icon": "https://render.guildwars2.com/file/2AA9C0B030BE152B915E0174D7F0495FDA711C54/619318.png"
+  },
+  {
+    "id": 6,
+    "name": "Frammento di Zhaitan ",
+    "description": "Guadagnato nella Città in Rovina di Arah. Spesi all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono di Zhaitan\" utilizzato nella creazione di armi leggendarie.",
+    "order": 409,
+    "icon": "https://render.guildwars2.com/file/06083C4F7321512918E23D57B999F04E94C8D9A3/619319.png"
+  },
+  {
+    "id": 7,
+    "name": "Reliquia Frattale",
+    "description": "Guadagnato e speso nei Frattali delle Nebbie. Usato anche come ingrediente artigianale.",
+    "order": 400,
+    "icon": "https://render.guildwars2.com/file/0204DAD0D40674035F9F5F5270043C3207EEA7E8/619320.png"
+  },
+  {
+    "id": 9,
+    "name": "Sigillo di Beetletun",
+    "description": "Guadagnato nel maniero di Caudecus. Spesi all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono del Nobiluomo\" utilizzato nella creazione di armi leggendarie.",
+    "order": 403,
+    "icon": "https://render.guildwars2.com/file/C97B0607A6DB1FA1469D1DBBF2F107A057F8A313/619322.png"
+  },
+  {
+    "id": 10,
+    "name": "Manifesto del Talpatariato",
+    "description": "Guadagnato nell'Abbraccio della Sofferenza. Spesi all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono del Forgiatore\" utilizzato nella creazione di armi leggendarie.",
+    "order": 405,
+    "icon": "https://render.guildwars2.com/file/B83A4ED528FC237D4D1862CDD0250B773EAB36AA/619323.png"
+  },
+  {
+    "id": 11,
+    "name": "Bocciolo Mortale",
+    "description": "Guadagnato alla Pergola del Crepuscolo. Spesi all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono di Spine\" utilizzato nella creazione di armi leggendarie.",
+    "order": 404,
+    "icon": "https://render.guildwars2.com/file/F6F4F39212AF3324223D73BAA807026BD863997C/619324.png"
+  },
+  {
+    "id": 12,
+    "name": "Simbolo di Koda",
+    "description": "Guadagnato in Onore delle Onde. Spesi all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono del Santuario\" utilizzato nella creazione di armi leggendarie.",
+    "order": 407,
+    "icon": "https://render.guildwars2.com/file/2B9E2BC9D5D080C54C17E27CECACEFFC0D64EE22/619325.png"
+  },
+  {
+    "id": 13,
+    "name": "Intaglio Charr della Legione della Fiamma",
+    "description": "Guadagnato nella Cittadella della Fiamma. Spesi all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono di Baelfire\" utilizzato nella creazione di armi leggendarie.",
+    "order": 406,
+    "icon": "https://render.guildwars2.com/file/310CA245DBF61A54BD0C5D5361E26F0821FCAAFD/619326.png"
+  },
+  {
+    "id": 14,
+    "name": "Cristallo della Conoscenza",
+    "description": "Guadagnato nel Crogiolo dell'Eternità. Spesi all'Arco del Leone per acquistare equipaggiamento raro ed esotico, rune e sigilli, materiali artigianali e il componente \"Dono di Conoscenza\" utilizzato nella creazione di armi leggendarie.",
+    "order": 408,
+    "icon": "https://render.guildwars2.com/file/37CCE672250A3170B71760949C4C9C9B186517B1/619327.png"
+  },
+  {
+    "id": 15,
+    "name": "Distintivo d'Onore",
+    "description": "Guadagnato e speso in WvW per acquistare diversi oggetti.",
+    "order": 203,
+    "icon": "https://render.guildwars2.com/file/AC3178E7BD066BC597F9D4247848E6033A047EDE/699004.png"
+  },
+  {
+    "id": 16,
+    "name": "Encomio della Gilda",
+    "description": "Guadagnato mediante le Missioni di Gilda. Spesi all'Arco del Leone. Usato per acquistare vari premi.",
+    "order": 105,
+    "icon": "https://render.guildwars2.com/file/1DB12CF3E9D8D3CF77DA805B2008D417EA32C172/699005.png"
+  },
+  {
+    "id": 18,
+    "name": "Carica di Trasmutazione",
+    "description": "Acquistato via Società Commerciale del Leone Nero. Speso nel guardaroba per cambiare aspetto.",
+    "order": 106,
+    "icon": "https://render.guildwars2.com/file/66A42690C2EA05235C4090372B975117F60EE7E3/779571.png"
+  },
+  {
+    "id": 19,
+    "name": "Parte di Dirigibile",
+    "description": "Guadagnato e speso al Ciglio Verdeggiante. Allena l'abilità Maestria Linguaggio Itzel per commerciare con venditori Itzel per armatura a lame e altri beni.",
+    "order": 304,
+    "icon": "https://render.guildwars2.com/file/07EC38BCBE979B7F4557057F51785F0930075F35/1029833.png"
+  },
+  {
+    "id": 20,
+    "name": "Cristallo delle Linee Energetiche",
+    "description": "Guadagnato e speso nelle Profondità Aggrovigliate. Allena l'abilità Maestria Linguaggio Nuhoch per commerciare con venditori Nuhoch per armi chak e altri beni.",
+    "order": 308,
+    "icon": "https://render.guildwars2.com/file/DD02946A3AB4076C500836533F67303EE464A6AC/1206837.png"
+  },
+  {
+    "id": 22,
+    "name": "Ammasso di Aurillium",
+    "description": "Guadagnato e speso nella Conca Aurea. Train the Exalted Acceptance Mastery line per commerciare con mercanti Exalted per ricette di armi auree e altri beni.",
+    "order": 306,
+    "icon": "https://render.guildwars2.com/file/5D74D6D3D8179FC49D572975CC5E0CC701025508/1206836.png"
+  },
+  {
+    "id": 23,
+    "name": "Frammento di Spirito",
+    "description": "Usato da Miyani per mantenere la Forgia Mistica.",
+    "order": 103,
+    "icon": "https://render.guildwars2.com/file/0AD608DE7FDEE0B909905C0AF9401321CF65CD94/1010701.png"
+  },
+  {
+    "id": 24,
+    "name": "Reliquia Frattale Incontaminata",
+    "description": "Guadagnato e speso nei Frattali delle Nebbie. Usato per acquistare anelli ascesi.",
+    "order": 401,
+    "icon": "https://render.guildwars2.com/file/77B0F842ED036D71E46B80570D6CFE25CB4C0677/619321.png"
+  },
+  {
+    "id": 25,
+    "name": "Geode",
+    "description": "Guadagnato completando eventi a Cima Secca. Accettato dai venditori in tutta la zona.\nPuò essere scambiato con oggetti di valore tra cui ricette per cibi, equipaggiamento Nomade e armi di ambrite.",
+    "order": 300,
+    "icon": "https://render.guildwars2.com/file/11C6D8AB5FD04866BF3D751771F90C392739B5DF/1010699.png"
+  },
+  {
+    "id": 26,
+    "name": "Biglietto di Diritto Schermaglia WvW",
+    "description": "Guadagnato partecipando in schermaglie WvW. Scambiato per vari premi con il Supervisore di Schermaglia WvW.",
+    "order": 204,
+    "icon": "https://render.guildwars2.com/file/0F911F55FF800FC0589970FF9137BF050699392F/1010702.png"
+  },
+  {
+    "id": 27,
+    "name": "Stemma di Bandito",
+    "description": "Guadagnato completando eventi nelle Distese d'Argento. Accettati dai venditori a Accampamento Risoluto e in avamposti sicuri.\nPuò essere scambiato con oggetti di valore, tra cui armatura Carapace e le ricette per equipaggiamento Sinistro .",
+    "order": 302,
+    "icon": "https://render.guildwars2.com/file/B8E963AF6D4C66237D44194A6570A1492D1F5EE4/1010697.png"
+  },
+  {
+    "id": 28,
+    "name": "Frammento di Magnetite",
+    "description": "Guadagnato da boss ed eventi all'interno dei raid di Cuore di Spine.",
+    "order": 312,
+    "icon": "https://render.guildwars2.com/file/95F8F70D97186780CE45B54600B90BE356D8EA7C/1302741.png"
+  },
+  {
+    "id": 29,
+    "name": "Gettone del Fornitore",
+    "description": "Guadagnato aiutando i Fornitori di Fazione.",
+    "order": 311,
+    "icon": "https://render.guildwars2.com/file/5CF6FC0B62554EBECAC6752AAFA2B8D80F726077/1302745.png"
+  },
+  {
+    "id": 30,
+    "name": "Biglietto Campionato PvP",
+    "description": "Guadagnato quando si superano le soglie di divisione durante le stagioni del campionato PvP. Spendi nel Cuore delle Nebbie e scambia per varie ricompense presso il venditore del Campionato PvP.",
+    "order": 200,
+    "icon": "https://render.guildwars2.com/file/DB05F5F20B94A3D12AF11041F60E194D66584957/1313248.png"
+  },
+  {
+    "id": 31,
+    "name": "Prova di Eroismo",
+    "description": "Guadagnato salendo di grado in Mondo vs Mondo. Speso presso qualsiasi Notaio dell'Eroismo in Mondo vs Mondo per ottenere punti eroe.",
+    "order": 205,
+    "icon": "https://render.guildwars2.com/file/0D971EF54A6FA5146AC9F60A0702DD640CBB8011/1207142.png"
+  },
+  {
+    "id": 32,
+    "name": "Magia Svincolata",
+    "description": "Guadagnato da creature potenziate da magia svincolata.",
+    "order": 313,
+    "icon": "https://render.guildwars2.com/file/55CBF5154BC749F0BE7B01F9C75C04F2CD4BC561/1465799.png"
+  },
+  {
+    "id": 33,
+    "name": "Frammenti di Gloria Ascesi",
+    "description": "Guadagnato dai Forzieri di Divisione della Lega PvP.",
+    "order": 201,
+    "icon": "https://render.guildwars2.com/file/1AAD230BF65AE92C000E0C18D26D404022092C35/1614710.png"
+  },
+  {
+    "id": 34,
+    "name": "Contratto Commerciale",
+    "description": "Guadagnato nel Deserto di Cristallo. Spendi presso i mercanti di karma per acquistare casse commerciali con materiali artigianali, nuove ricette e altre ricompense uniche per il Deserto di Cristallo.",
+    "order": 314,
+    "icon": "https://render.guildwars2.com/file/DEC2276FB1D5637BE563F618A012DEE63402170C/1767459.png"
+  },
+  {
+    "id": 35,
+    "name": "Mosaico Elegia",
+    "description": "Guadagnato completando taglie leggendarie nel Deserto di Cristallo. Spendi alla Tomba degli Antichi Re.\n\n<c=@Flavor>Questi segni venivano usati per commemorare grandi gesta nell'Era Dinastica dell'antica Elona.</c>",
+    "order": 315,
+    "icon": "https://render.guildwars2.com/file/4C5D08BCD7F55B250B413F98A9FB4C323E3B0F93/1766338.png"
+  },
+  {
+    "id": 36,
+    "name": "Testimonianza di Eroismo",
+    "description": "Guadagnato salendo in classifica in Mondo vs Mondo. Speso presso qualsiasi Notaio dell'Eroismo in Mondo vs Mondo per ottenere punti eroe.",
+    "order": 206,
+    "icon": "https://render.guildwars2.com/file/29A2465AE376091D3871B42D14D90B453060B69C/1822313.png"
+  },
+  {
+    "id": 37,
+    "name": "Chiave Esaltata",
+    "description": "Usato per aprire le casse Esaltate nella Conca Aurea. I forzieri possono contenere armature, armi e ricette.",
+    "order": 307,
+    "icon": "https://render.guildwars2.com/file/D8A351CBB13B24E49F9755BD290F710964B8FD99/1203022.png"
+  },
+  {
+    "id": 38,
+    "name": "Macete",
+    "description": "Usato per aprire baccelli nocivi a Resistenza del Drago. I baccelli possono contenere armature, armi e ricette.",
+    "order": 310,
+    "icon": "https://render.guildwars2.com/file/2539DA0C2F1259A20DEE6707B8D8BCDA050372E2/1203080.png"
+  },
+  {
+    "id": 39,
+    "name": "Cristallo Gaetante",
+    "description": "Guadagnato da boss ed eventi all'interno dei raid di Sentiero di Fuoco.",
+    "order": 317,
+    "icon": "https://render.guildwars2.com/file/B31002F9772C0DDF7428A7A16BD14945C34AB4A8/1896039.png"
+  },
+  {
+    "id": 40,
+    "name": "Chiave Scheletro del Bandito",
+    "description": "Usato per aprire le casse perdute dei banditi nelle Distese d'Argento. I forzieri possono contenere armature, armi, ricette, ambrite e altro.",
+    "order": 303,
+    "icon": "https://render.guildwars2.com/file/332FF8697F27CEC0A599A008C901ACD8273E0C1E/65724.png"
+  },
+  {
+    "id": 41,
+    "name": "Piede di Porco del Patto",
+    "description": "Usato per aprire carichi di dirigibile al Ciglio Verdeggiante. Un carico può contenere materiali artigianali, armature, armi e ricette.",
+    "order": 305,
+    "icon": "https://render.guildwars2.com/file/CC21772A9131AEAF4C18EE90172AE2A8DB1850BA/1203099.png"
+  },
+  {
+    "id": 42,
+    "name": "Fiala di Acido Chak",
+    "description": "Usata per aprire rifornimenti cristallizzati a Profondità Aggrovigliate. I rifornimenti possono contenere armature, armi e ricette.",
+    "order": 309,
+    "icon": "https://render.guildwars2.com/file/B60BE97A3899A1D36CE81CB3C896CACACCA79237/1203046.png"
+  },
+  {
+    "id": 43,
+    "name": "Grimaldello Zefirita",
+    "description": "Usato per aprire forzieri sepolti chiusi a chiave a Cima Secca. Questi forzieri sono visibili solo durante le tempeste di sabbia. I Forzieri possono contenere armature, armi, skin rare, ricette, ambrite and molto altro.",
+    "order": 301,
+    "icon": "https://render.guildwars2.com/file/A6F57A2C946B2A02062AC0A9452703505CF8B3BE/831466.png"
+  },
+  {
+    "id": 44,
+    "name": "Chiave del Commerciante",
+    "description": "Usata per aprire casse commerciali nel Deserto di Cristallo.",
+    "order": 316,
+    "icon": "https://render.guildwars2.com/file/7CD20D4B072AD23F97202F05E4130CF8A4B069C5/69116.png"
+  },
+  {
+    "id": 45,
+    "name": "Magia Volatile",
+    "description": "Magia instabile che persiste dalla caduta di un dio e di due Draghi Anziani. Speso presso venditore per acquistare sblocchi e ricompense.",
+    "order": 318,
+    "icon": "https://render.guildwars2.com/file/57F51A1F62E3FBB7B5E02CBD7C9717371D1CC8F2/1894697.png"
+  },
+  {
+    "id": 46,
+    "name": "Buono Torneo PvP",
+    "description": "Guadagnato in tornei automatizzati mensili e in alcuni tornei di eventi speciali.",
+    "order": 202,
+    "icon": "https://render.guildwars2.com/file/C30D1480E3383F999DE87921706D9D39E49CDC7A/2010217.png"
+  },
+  {
+    "id": 47,
+    "name": "Mdaglione delle Corse",
+    "description": "Guadagnato partecipando a gare di rotolotteri e prove a tempo.",
+    "order": 319,
+    "icon": "https://render.guildwars2.com/file/555601A503A5DCFCC90C421AECF1ACEF70B2AFAC/2069367.png"
+  },
+  {
+    "id": 49,
+    "name": "Chiave Nebbiegenita",
+    "description": "Usata per aprire Scrigni Nebbiogeniti a Caduta del Drago.",
+    "order": 321,
+    "icon": "https://render.guildwars2.com/file/2C47C1C30F61DB3A743BA47FB7E70808156A9009/2140520.png"
+  },
+  {
+    "id": 50,
+    "name": "Gettone del Festival",
+    "description": "Guadagnato partecipando al Festival dei Quattro Venti annuale.",
+    "order": 322,
+    "icon": "https://render.guildwars2.com/file/63E1A0F023D101045B5BA2331C289327687FC7E3/797790.png"
+  },
+  {
+    "id": 51,
+    "name": "Chiave Nascosta",
+    "description": "Usata per saccheggiare forzieri nascosti lungo la Costa Boscopioggerella.",
+    "order": 323,
+    "icon": "https://render.guildwars2.com/file/7D7CAD2BF4527006CFE6BE3DBF306353260DC8B2/2292743.png"
+  },
+  {
+    "id": 52,
+    "name": "Frammento Rosso del Profeta",
+    "description": "Frammenti cristallini di magia di drago, venati di rosso.\nEmissari nell'Occhio del Nord sono interessati a questi.",
+    "order": 354,
+    "icon": "https://render.guildwars2.com/file/05E12F28F7747F580105C8DACD0FF2027644C5FB/2270835.png"
+  },
+  {
+    "id": 53,
+    "name": "Frammento Verde del Profeta",
+    "description": "Frammenti cristallini di magia di drago, venati di verde.\nEmissari nell'Occhio del Nord sono interessati a questi.",
+    "order": 352,
+    "icon": "https://render.guildwars2.com/file/BFEDF6110C69BE3521010E7F23B5147919B90FA9/2270834.png"
+  },
+  {
+    "id": 54,
+    "name": "Cristallo Blu del Profeta",
+    "description": "Formazioni cristalline di magia di drago, venate di blu.\nEmissari nell'Occhio del Nord sono interessati a questi.\nOttenuto da Assalti Prioritari o combinando frammenti.",
+    "order": 351,
+    "icon": "https://render.guildwars2.com/file/2F531F63F5A9A93C624A3CDDC73F9078C00E5097/2270830.png"
+  },
+  {
+    "id": 55,
+    "name": "Cristallo Verde del Profeta",
+    "description": "Formazioni cristalline di magia di drago, venate di verde.\nEmissari nell'Occhio del Nord sono interessati a questi.\nOttenuto da Assalti Prioritari o combinando frammenti.",
+    "order": 353,
+    "icon": "https://render.guildwars2.com/file/361BEAAEB637D90905060E4A59365118C7A6790D/2270831.png"
+  },
+  {
+    "id": 56,
+    "name": "Cristallo Rosso del Profeta",
+    "description": "Formazioni cristalline di magia di drago, venate di rosso.\nEmissari nell'Occhio del Nord sono interessati a questi.\nOttenuto da Assalti Prioritari o combinando frammenti.",
+    "order": 355,
+    "icon": "https://render.guildwars2.com/file/3AB7586DBCB7C9967459FB4F10A8C205E6760BA7/2270832.png"
+  },
+  {
+    "id": 57,
+    "name": "Frammento Blu del Profeta",
+    "description": "Frammenti cristallini di magia di drago, venati di blu.\nEmissari nell'Occhio del Nord sono interessati a questi.",
+    "order": 350,
+    "icon": "https://render.guildwars2.com/file/A0ECC4DEE6E84062649EA464079AE46B61089130/2270833.png"
+  },
+  {
+    "id": 58,
+    "name": "Rifornimenti Bellici",
+    "description": "Materiali per aiutare nel conflitto in corso nella Costa Boscopioggerella. Può essere scambiato con equipaggiamento e oggetti bellici o usato per potenziare le basi.",
+    "order": 324,
+    "icon": "https://render.guildwars2.com/file/3A930379AABCB10BDBE42F0FA436F29DD023C274/2293273.png"
+  },
+  {
+    "id": 59,
+    "name": "Essenza Frattale Instabile",
+    "description": "Guadagnato e speso nei Frattali delle Nebbie. Usato per acquistare premi prestigiosi.",
+    "order": 410,
+    "icon": "https://render.guildwars2.com/file/AD0AF3F321EB250B5FB4C44A7B3392CD1208921A/1202328.png"
+  },
+  {
+    "id": 60,
+    "name": "Sigillo Difesa di Tyria",
+    "description": "Guadagnato proteggendo Tyria nelle Missioni di Risposta ai Draghi. Speso presso i venditori di fazione nell'Occhio del Nord.",
+    "order": 325,
+    "icon": "https://render.guildwars2.com/file/A004AF632A0ABA29ACFAB475AF1197B5BF80D9D9/2351816.png"
+  }]

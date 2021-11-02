@@ -1,0 +1,160 @@
+[{
+    "id": "ClaimableEditOptions",
+    "name": "Modifica Opzioni Rivendicabilità",
+    "description": "Autorizzato a modificare le opzioni nelle rivendicazioni di proprietà della gilda."
+  },
+  {
+    "id": "EditBGM",
+    "name": "Cambia la Musica nella Sede della Gilda",
+    "description": "Cambia la musica di sottofondo nella sede della gilda."
+  },
+  {
+    "id": "ActivatePlaceables",
+    "name": "Usa i Posizionabili",
+    "description": "Utilizza i consumabili posizionabili creati tramite l'officina."
+  },
+  {
+    "id": "DepositItemsTrove",
+    "name": "Tesorieria—Deposita Oggetti",
+    "description": "Sfoglia e deposita oggetti nella più grande tesorieria della gilda."
+  },
+  {
+    "id": "WithdrawItemsStash",
+    "name": "Scorte—Preleva Oggetti",
+    "description": "Preleva oggetti dalle piccole scorte della gilda."
+  },
+  {
+    "id": "WithdrawItemsTrove",
+    "name": "Tesorieria—Preleva Oggetti",
+    "description": "Preleva oggetti nella più grande tesorieria della gilda."
+  },
+  {
+    "id": "EditAssemblyQueue",
+    "name": "Modifica Coda di Assemblaggio",
+    "description": "Mettere in coda e riordinare gli schemi nell'assemblaggio in officina."
+  },
+  {
+    "id": "WithdrawCoinsStash",
+    "name": "Scorte—Preleva Oro",
+    "description": "Prelevare fondi dalle piccole scorte della gilda."
+  },
+  {
+    "id": "ActivateWorldEvent",
+    "name": "Eventi Mondiali di Gilda",
+    "description": "Attiva eventi mondiali di gilda."
+  },
+  {
+    "id": "PlaceArenaDecoration",
+    "name": "Decoratore dell'Arena",
+    "description": "Il giocatore può posizionare, spostare e rimuovere decorazioni nell'arena."
+  },
+  {
+    "id": "DepositItemsStash",
+    "name": "Scorte—Deposita Oggetti",
+    "description": "Sfoglia e deposita oggetti nelle piccole scorte della gilda."
+  },
+  {
+    "id": "EditMonument",
+    "name": "Decoratore di Monumenti",
+    "description": "Abilità di posizionare e rimuovere monumenti nella sede della gilda."
+  },
+  {
+    "id": "StartingRole",
+    "name": "Nuovi Membri Qui",
+    "description": "I nuovi membri inizieranno con questo rango. Questa autorizzazione può esistere solo su un rango."
+  },
+  {
+    "id": "SpendFuel",
+    "name": "Usa Risonanza",
+    "description": "Completa istantaneamente gli schemi in corso spendendo risonanza."
+  },
+  {
+    "id": "TeamAdmin",
+    "name": "Amministratore Squadre",
+    "description": "Creare o eliminare squadre e aggiungere o rimuovere membri."
+  },
+  {
+    "id": "EditRoles",
+    "name": "Modifica Ranghi",
+    "description": "Crea, elimina e modifica le proprietà dei ranghi inferiori a questo."
+  },
+  {
+    "id": "Admin",
+    "name": "Amministra Ranghi Inferiori.",
+    "description": "Invita nuovi giocatori in gilda. Promuovi, retrocedi e caccia i membri attuali solo dai ranghi inferiori."
+  },
+  {
+    "id": "WithdrawCoinsTrove",
+    "name": "Tesorieria—Preleva Oro",
+    "description": "Preleva fondi dalla più grande tesorieria della gilda."
+  },
+  {
+    "id": "DepositCoinsTrove",
+    "name": "Tesorieria—Deposita Oro",
+    "description": "Sfoglia e deposita fondi nella più grande tesorieria della gilda."
+  },
+  {
+    "id": "PurchaseUpgrades",
+    "name": "Acquista Potenziamenti",
+    "description": "Acquista potenziamenti per la gilda."
+  },
+  {
+    "id": "EditEmblem",
+    "name": "Modifica Emblema di Gilda",
+    "description": "Cambia l'aspetto dell'emblema della gilda così come appare su tutte le armature, bandiere, stendardi e oggetti."
+  },
+  {
+    "id": "ClaimableActivate",
+    "name": "Attiva Tattiche Rivendicabili",
+    "description": "Autorizzato a attivare potenziamenti su rivendicabili."
+  },
+  {
+    "id": "MissionControl",
+    "name": "Controllo Missione",
+    "description": "Attiva missioni di gilda."
+  },
+  {
+    "id": "OpenPortal",
+    "name": "Apri Portale di Gilda",
+    "description": "Utilizza il Portale di Gilda per teletrasporto di gruppo."
+  },
+  {
+    "id": "SetGuildHall",
+    "name": "Rivendica Sede di Gilda",
+    "description": "Rivendica una nuova sede di gilda."
+  },
+  {
+    "id": "DepositCoinsStash",
+    "name": "Scorte—Deposita Oro",
+    "description": "Sfoglia e deposita fondi nella piccola scorta della gilda."
+  },
+  {
+    "id": "PlaceDecoration",
+    "name": "Decoratore",
+    "description": "Il giocatore può posizionare, spostare e rimuovere decorazioni nella sede di gilda."
+  },
+  {
+    "id": "ClaimableSpend",
+    "name": "Spendi Potenziamenti Rivendicabili",
+    "description": "Autorizzato a rivendicare obiettivi."
+  },
+  {
+    "id": "EditMOTD",
+    "name": "Modifica Messaggio del Giorno",
+    "description": "Modifica il messaggio del giorno, che viene trasmesso a tutti i membri della gilda."
+  },
+  {
+    "id": "EditAnthem",
+    "name": "Cambia Inno di Gilda",
+    "description": "Cambia l'inno della gilda."
+  },
+  {
+    "id": "DecorationAdmin",
+    "name": "Rimuovi Tutte le Decorazioni",
+    "description": "Il giocatore può rimuovere tutte le decorazioni dalla sede di gilda e riportarle nel magazzino della gilda."
+  },
+  {
+    "id": "ClaimableClaim",
+    "name": "Obiettivi di Rivendicazione",
+    "description": "Autorizzato a rivendicare obiettivi."
+  }]

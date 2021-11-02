@@ -1,0 +1,140 @@
+[{
+    "id": 1,
+    "finisher_id": 1,
+    "name": "Coniglio",
+    "icon": "https://render.guildwars2.com/file/592A4144FE1B6904CD0C69230840B8C21A0C36F7/347222.png",
+    "min_rank": 1,
+    "max_rank": 9,
+    "levels": [
+      {
+        "min_rank": 1,
+        "max_rank": 5,
+        "points": 500
+      },
+      {
+        "min_rank": 6,
+        "max_rank": 9,
+        "points": 1500
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "finisher_id": 2,
+    "name": "Cervo",
+    "icon": "https://render.guildwars2.com/file/DECD0D647C9433CC2128BF2F6FE5A5185513EE59/347223.png",
+    "min_rank": 10,
+    "max_rank": 19,
+    "levels": [
+      {
+        "min_rank": 10,
+        "max_rank": 19,
+        "points": 4000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "finisher_id": 3,
+    "name": "Dolyak",
+    "icon": "https://render.guildwars2.com/file/69F7561A34530F9A6366A0C3ECC0E508EF7451E6/347224.png",
+    "min_rank": 20,
+    "max_rank": 29,
+    "levels": [
+      {
+        "min_rank": 20,
+        "max_rank": 29,
+        "points": 7500
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "finisher_id": 4,
+    "name": "Lupo",
+    "icon": "https://render.guildwars2.com/file/B0920D9F3A07276854FDC4CD364AD3DDF6387061/347225.png",
+    "min_rank": 30,
+    "max_rank": 39,
+    "levels": [
+      {
+        "min_rank": 30,
+        "max_rank": 39,
+        "points": 15000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "finisher_id": 5,
+    "name": "Orso",
+    "icon": "https://render.guildwars2.com/file/5169E9ED4A0DADF06835F87737540A02C39AB534/347227.png",
+    "min_rank": 50,
+    "max_rank": 59,
+    "levels": [
+      {
+        "min_rank": 50,
+        "max_rank": 59,
+        "points": 20000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "finisher_id": 6,
+    "name": "Tigre",
+    "icon": "https://render.guildwars2.com/file/F6CB4002B278077FA5BA434D49776D69CA042EA0/347226.png",
+    "min_rank": 40,
+    "max_rank": 49,
+    "levels": [
+      {
+        "min_rank": 40,
+        "max_rank": 49,
+        "points": 20000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "finisher_id": 7,
+    "name": "Squalo",
+    "icon": "https://render.guildwars2.com/file/65001A2EAE08A564126CCD73AA14FB9A250B2C66/347228.png",
+    "min_rank": 60,
+    "max_rank": 69,
+    "levels": [
+      {
+        "min_rank": 60,
+        "max_rank": 69,
+        "points": 20000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "finisher_id": 8,
+    "name": "Fenice",
+    "icon": "https://render.guildwars2.com/file/3DD50A531B472791C07AE9A57840A118F1B8F3E9/347229.png",
+    "min_rank": 70,
+    "max_rank": 79,
+    "levels": [
+      {
+        "min_rank": 70,
+        "max_rank": 79,
+        "points": 20000
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "finisher_id": 9,
+    "name": "Drago",
+    "icon": "https://render.guildwars2.com/file/A2ACA72B379FCC4C4D7CE3D59DED073196485B5B/347230.png",
+    "min_rank": 80,
+    "max_rank": 81,
+    "levels": [
+      {
+        "min_rank": 80,
+        "max_rank": 81,
+        "points": 20000
+      }
+    ]
+  }]

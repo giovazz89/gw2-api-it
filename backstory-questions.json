@@ -1,0 +1,361 @@
+[{
+    "id": 7,
+    "title": "La mia personalità",
+    "description": "I problemi possono seguirmi, ma io uso la mia ______ per superarli.",
+    "answers": [
+      "7-53",
+      "7-54",
+      "7-55"
+    ],
+    "order": 1
+  },
+  {
+    "id": 10,
+    "title": "La mia università",
+    "description": "Sono un membro dell'università di ______.",
+    "answers": [
+      "10-67",
+      "10-68",
+      "10-69"
+    ],
+    "order": 2,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "La mia prima invenzione",
+    "description": "La mia prima invenzione è stata ______.",
+    "answers": [
+      "11-70",
+      "11-71",
+      "11-72"
+    ],
+    "order": 3,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Il mio primo mentore",
+    "description": "Il mio primo consulente, colui che mi ha insegnato quasi tutto quello che so (quasi), è stato ______.",
+    "answers": [
+      "12-73",
+      "12-74",
+      "12-75",
+      "12-76"
+    ],
+    "order": 4,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "",
+    "description": "Sono fiero di essere della _____.",
+    "answers": [
+      "15-84",
+      "15-85",
+      "15-86"
+    ],
+    "order": 2,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "",
+    "description": "Morirei per la mia banda, soprattutto per ______, il mio compagno in allenamento.",
+    "answers": [
+      "16-87",
+      "16-88",
+      "16-89",
+      "16-90",
+      "16-91"
+    ],
+    "order": 3,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "",
+    "description": "Mi dicono che il soldato che mi ha generato è un ______.",
+    "answers": [
+      "17-92",
+      "17-93",
+      "17-94"
+    ],
+    "order": 4,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Classe Sociale",
+    "description": "Sono stato cresciuto ______.",
+    "answers": [
+      "21-107",
+      "21-105",
+      "21-106"
+    ],
+    "order": 2,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "Rimpianto",
+    "description": "Uno dei miei più grandi rimpianti è ______.",
+    "answers": [
+      "22-108",
+      "22-109",
+      "22-110"
+    ],
+    "order": 3,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Il mio Spirito Guida",
+    "description": "Quando ero ancora un bambino, ho avuto una visione. Uno Spirito della Natura mi ha parlato e mi ha offerto la sua protezione. Lo Spirito era ______.",
+    "answers": [
+      "25-117",
+      "25-118",
+      "25-119",
+      "25-120"
+    ],
+    "order": 4,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Qualità di un Grande Eroe",
+    "description": "La mia qualità più importante è che ho il necessario ______.",
+    "answers": [
+      "26-121",
+      "26-122",
+      "26-123"
+    ],
+    "order": 2,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Momento Più Imbarazzante",
+    "description": "In una recente assemblea celebrativa tenutosi a Hoelbrak, io ho ______.",
+    "answers": [
+      "27-124",
+      "27-125",
+      "27-126"
+    ],
+    "order": 3,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Ciclo Della Mia Nascita ",
+    "description": "L'Albero Pallido mi ha destato durante il ______.",
+    "answers": [
+      "30-133",
+      "30-134",
+      "30-135",
+      "30-136"
+    ],
+    "order": 4,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Insegnamenti di Ventari",
+    "description": "Credo che il più importante degli insegnamenti di Ventari sia ______",
+    "answers": [
+      "31-137",
+      "31-138",
+      "31-140"
+    ],
+    "order": 3,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Il Mio Sogno",
+    "description": "Ho sognato una missione che mi chiamava all'azione. Era una visione del ______.",
+    "answers": [
+      "32-141",
+      "32-142",
+      "32-143"
+    ],
+    "order": 2,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "I Sei Dei",
+    "description": "Tutti dicevano che ero benedetto da ______ quando ero giovane.",
+    "answers": [
+      "36-153",
+      "36-154",
+      "36-155",
+      "36-156",
+      "36-157",
+      "36-158"
+    ],
+    "order": 4,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": 181,
+    "title": "Il Mio Strumento Più Utile.",
+    "description": "Il mio strumento più utile è il ______.",
+    "answers": [
+      "181-178",
+      "181-179",
+      "181-180"
+    ],
+    "order": 0,
+    "professions": [
+      "Engineer"
+    ]
+  },
+  {
+    "id": 182,
+    "title": "Mantello",
+    "description": "Come simbolo della mia dedizione, indosso ______.",
+    "answers": [
+      "182-166",
+      "182-176",
+      "182-177"
+    ],
+    "order": 0,
+    "professions": [
+      "Guardian"
+    ]
+  },
+  {
+    "id": 183,
+    "title": "Compagno",
+    "description": "Il mio ______ addomesticato combatte al mio fianco e mi guarda la schiena.",
+    "answers": [
+      "183-171",
+      "183-172",
+      "183-173",
+      "183-174",
+      "183-175",
+      "183-181",
+      "183-182",
+      "183-1"
+    ],
+    "order": 0,
+    "professions": [
+      "Ranger"
+    ]
+  },
+  {
+    "id": 184,
+    "title": "Teschio",
+    "description": "Il compagno più vicino di un negromante è la morte. In riconoscimento di ciò, contrassegno il mio viso con il simbolo di un ___________.",
+    "answers": [
+      "184-167",
+      "184-168",
+      "184-169"
+    ],
+    "order": 0,
+    "professions": [
+      "Necromancer"
+    ]
+  },
+  {
+    "id": 185,
+    "title": "Elmo",
+    "description": "Indosso un ______ sul campo di battaglia. Per questo sono riconosciuto e mi viene dato il dovuto rispetto.",
+    "answers": [
+      "185-163",
+      "185-164",
+      "185-165"
+    ],
+    "order": 0,
+    "professions": [
+      "Warrior"
+    ]
+  },
+  {
+    "id": 186,
+    "title": "Gioiello",
+    "description": "Studio tutti gli elementi, ma indosso una gemma che simboleggia il mio amore per ______.",
+    "answers": [
+      "186-159",
+      "186-160",
+      "186-161",
+      "186-162"
+    ],
+    "order": 0,
+    "professions": [
+      "Elementalist"
+    ]
+  },
+  {
+    "id": 187,
+    "title": "La Guisa che Indosso.",
+    "description": "Nel mio lavoro, è importante capire il potere di ______.",
+    "answers": [
+      "187-184",
+      "187-185",
+      "187-186"
+    ],
+    "order": 0,
+    "professions": [
+      "Thief"
+    ]
+  },
+  {
+    "id": 188,
+    "title": "Il Viso che Indosso",
+    "description": "La maschera di un illusionista crea un'immagine. Scelgo di guardare fuori da dietro al ______.",
+    "answers": [
+      "188-187",
+      "188-188",
+      "188-189"
+    ],
+    "order": 0,
+    "professions": [
+      "Mesmer"
+    ]
+  },
+  {
+    "id": 189,
+    "title": "Benda",
+    "description": "Combatto con la mia benda ______ addosso per escludere le distrazioni del mondo fisico e focalizzare la mia magica vista interiore.",
+    "answers": [
+      "189-187",
+      "189-188",
+      "189-189"
+    ],
+    "order": 0,
+    "professions": [
+      "Revenant"
+    ]
+  }]

@@ -1,0 +1,255 @@
+[{
+    "id": 1001,
+    "name": "Roccia dell'Incudine",
+    "population": "VeryHigh"
+  },
+  {
+    "id": 1002,
+    "name": "Passo di Borlis",
+    "population": "Medium"
+  },
+  {
+    "id": 1003,
+    "name": "Declivio dello Yak",
+    "population": "High"
+  },
+  {
+    "id": 1004,
+    "name": "Cerchio di Denravi",
+    "population": "High"
+  },
+  {
+    "id": 1005,
+    "name": "Maguuma",
+    "population": "VeryHigh"
+  },
+  {
+    "id": 1006,
+    "name": "Fornace della Sofferenza",
+    "population": "High"
+  },
+  {
+    "id": 1007,
+    "name": "Porta della Follia",
+    "population": "High"
+  },
+  {
+    "id": 1008,
+    "name": "Cave di Giada",
+    "population": "Full"
+  },
+  {
+    "id": 1009,
+    "name": "Forte Aspenwood",
+    "population": "Full"
+  },
+  {
+    "id": 1010,
+    "name": "Baia di Ehmry",
+    "population": "High"
+  },
+  {
+    "id": 1011,
+    "name": "Isola Scogliera Burrascosa",
+    "population": "High"
+  },
+  {
+    "id": 1012,
+    "name": "Rifugio Oscuro",
+    "population": "High"
+  },
+  {
+    "id": 1013,
+    "name": "Santuario di Rall",
+    "population": "High"
+  },
+  {
+    "id": 1014,
+    "name": "Deserto di Cristallo",
+    "population": "Full"
+  },
+  {
+    "id": 1015,
+    "name": "Isola di Janthir",
+    "population": "VeryHigh"
+  },
+  {
+    "id": 1016,
+    "name": "Mare della Sofferenza",
+    "population": "Full"
+  },
+  {
+    "id": 1017,
+    "name": "Costa Maculata",
+    "population": "Full"
+  },
+  {
+    "id": 1018,
+    "name": "Cimefredde Settentrionali",
+    "population": "High"
+  },
+  {
+    "id": 1019,
+    "name": "Nero Cancello",
+    "population": "Full"
+  },
+  {
+    "id": 1020,
+    "name": "Incrocio di Ferguson",
+    "population": "VeryHigh"
+  },
+  {
+    "id": 1021,
+    "name": "Marchio del Drago",
+    "population": "High"
+  },
+  {
+    "id": 1022,
+    "name": "Kaineng",
+    "population": "Medium"
+  },
+  {
+    "id": 1023,
+    "name": "Riposo di Devona",
+    "population": "High"
+  },
+  {
+    "id": 1024,
+    "name": "Terrazza Eredon",
+    "population": "Medium"
+  },
+  {
+    "id": 2001,
+    "name": "Fenditura del male",
+    "population": "High"
+  },
+  {
+    "id": 2002,
+    "name": "Desolazione",
+    "population": "Full"
+  },
+  {
+    "id": 2003,
+    "name": "Gandara",
+    "population": "Full"
+  },
+  {
+    "id": 2004,
+    "name": "Acque Morte",
+    "population": "Medium"
+  },
+  {
+    "id": 2005,
+    "name": "Anello di Fuoco",
+    "population": "High"
+  },
+  {
+    "id": 2006,
+    "name": "Inferi",
+    "population": "High"
+  },
+  {
+    "id": 2007,
+    "name": "Cimefredde Remote",
+    "population": "Full"
+  },
+  {
+    "id": 2008,
+    "name": "Crinale Whiteside",
+    "population": "Medium"
+  },
+  {
+    "id": 2009,
+    "name": "Rovine di Surmia",
+    "population": "Medium"
+  },
+  {
+    "id": 2010,
+    "name": "Riposo del Marinaio",
+    "population": "Full"
+  },
+  {
+    "id": 2011,
+    "name": "Vabbi",
+    "population": "High"
+  },
+  {
+    "id": 2012,
+    "name": "Piazza Piken",
+    "population": "Full"
+  },
+  {
+    "id": 2013,
+    "name": "Radura dell'Aurora",
+    "population": "VeryHigh"
+  },
+  {
+    "id": 2014,
+    "name": "Roccaforte di Gunnar",
+    "population": "High"
+  },
+  {
+    "id": 2101,
+    "name": "Mare di Giada [FR]",
+    "population": "High"
+  },
+  {
+    "id": 2102,
+    "name": "Forte Ranik [FR]",
+    "population": "Medium"
+  },
+  {
+    "id": 2103,
+    "name": "Roccia dell'Indovino [FR]",
+    "population": "High"
+  },
+  {
+    "id": 2104,
+    "name": "Piazza Vizunah [FR]",
+    "population": "Medium"
+  },
+  {
+    "id": 2105,
+    "name": "Roccia del Pergolato [FR]",
+    "population": "Medium"
+  },
+  {
+    "id": 2201,
+    "name": "Kodash [DE]",
+    "population": "Medium"
+  },
+  {
+    "id": 2202,
+    "name": "Riviera [DE]",
+    "population": "Full"
+  },
+  {
+    "id": 2203,
+    "name": "Canale di Elona [DE]",
+    "population": "High"
+  },
+  {
+    "id": 2204,
+    "name": "Bocca di Abaddon [DE]",
+    "population": "High"
+  },
+  {
+    "id": 2205,
+    "name": "Lago Drakkar [DE]",
+    "population": "VeryHigh"
+  },
+  {
+    "id": 2206,
+    "name": "Suono di Miller [DE]",
+    "population": "Medium"
+  },
+  {
+    "id": 2207,
+    "name": "Dzagonur [DE]",
+    "population": "Medium"
+  },
+  {
+    "id": 2301,
+    "name": "Baia di Baruch [SP]",
+    "population": "VeryHigh"
+  }]

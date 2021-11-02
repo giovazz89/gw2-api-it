@@ -1,0 +1,1377 @@
+[{
+    "id": 1,
+    "unlock_items": [
+      70048
+    ],
+    "order": 3,
+    "icon": "https://render.guildwars2.com/file/5978F84C08E69460B7FD34346745E7183562A35A/951784.png",
+    "name": "Deltaplano Ali Piumate Nere",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>\n\nSe indossi lo Zaino Ali Piumate Nere, parla con uno scout a Ciglio Verdeggiante per ricevere un Deltaplano abbinato gratuito.",
+    "default_dyes": []
+  },
+  {
+    "id": 3,
+    "unlock_items": [
+      70009
+    ],
+    "order": 3,
+    "icon": "https://render.guildwars2.com/file/FB9A14C04510096F4E33205AC2DE15BB07ADA0FF/1010543.png",
+    "name": "Deltaplano Ali Piumate Bianche",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>\n\nSe indossi lo Zaino Ali Piumate Bianche, parla con uno scout a Ciglio Verdeggiante per ricevere un Deltaplano abbinato gratuito.",
+    "default_dyes": []
+  },
+  {
+    "id": 4,
+    "unlock_items": [
+      76236
+    ],
+    "order": 10,
+    "icon": "https://render.guildwars2.com/file/60BAF50456D5D49E672D9CE3E7A34391E2CA8011/1200572.png",
+    "name": "Deltaplano Esaltato",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 5,
+    "unlock_items": [
+      67054
+    ],
+    "order": 2,
+    "icon": "https://render.guildwars2.com/file/43235F3AB4522637FEB3A6D4D293C2BC0F2AA978/1001218.png",
+    "name": "Deltaplano Cuore di Spine",
+    "description": "This is only available in Guild Wars 2: Heart of Thorns—Deluxe.",
+    "default_dyes": []
+  },
+  {
+    "id": 6,
+    "unlock_items": [
+      74684
+    ],
+    "order": 4,
+    "icon": "https://render.guildwars2.com/file/BD2FA14B122CB7EB2205D016F9B07D4F1FC90ED2/1203275.png",
+    "name": "Deltaplano Ali di Pipistrello",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 7,
+    "unlock_items": [
+      72252
+    ],
+    "order": 5,
+    "icon": "https://render.guildwars2.com/file/2618AA94E69EA90A206C0705C99CEBBCB8D8F1F3/1200593.png",
+    "name": "Deltaplano Arbitro di Cristallo",
+    "description": "Questo deltaplano è tingibile. \n\nDisponibile solo nel Pacchetto Aspetto Arbitro di Cristallo dal Negozio di Gemme della Società Commerciale del Leone Nero durante vendite selezionate.",
+    "default_dyes": [
+      371,
+      114
+    ]
+  },
+  {
+    "id": 8,
+    "unlock_items": [
+      77269
+    ],
+    "order": 13,
+    "icon": "https://render.guildwars2.com/file/5151FD5C72550F643AE00DC91CC2C43D99C8C711/1366963.png",
+    "name": "Deltaplano Ali Piumate Dorate",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 9,
+    "unlock_items": [
+      77291
+    ],
+    "order": 6,
+    "icon": "https://render.guildwars2.com/file/1CA7D86C2AFC5975410AEE0B01CADF45A255004E/1301728.png",
+    "name": "Deltaplano Fiume delle Anime",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 10,
+    "unlock_items": [
+      77528
+    ],
+    "order": 11,
+    "icon": "https://render.guildwars2.com/file/CE007E4C9FD410E85D79D745BC750F2A6719E4DF/1313090.png",
+    "name": "Deltaplano Fiocco di Neve",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 11,
+    "order": 201,
+    "icon": "https://render.guildwars2.com/file/C72336A9140CC9F2B34CCFCDCE2B217B380A1ADC/1313065.png",
+    "name": "Deltaplano dell'Ascensione",
+    "description": "",
+    "default_dyes": []
+  },
+  {
+    "id": 12,
+    "unlock_items": [
+      77646
+    ],
+    "order": 12,
+    "icon": "https://render.guildwars2.com/file/71DE46C7C46FFC516B015C18A4B638FF36DA02B7/1322509.png",
+    "name": "Deltaplano di Lana Brutta",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Take a Mini Angry Wintersday Gift to Collector Terksli to learn how to unlock this glider skin.</c>",
+    "default_dyes": [
+      673,
+      1151
+    ]
+  },
+  {
+    "id": 13,
+    "unlock_items": [
+      77678
+    ],
+    "order": 14,
+    "icon": "https://render.guildwars2.com/file/4EABD122FBD4296C7869600915EC3DD941C4BBA4/1334916.png",
+    "name": "Deltaplano Ali di Falco",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 14,
+    "unlock_items": [
+      77738
+    ],
+    "order": 13,
+    "icon": "https://render.guildwars2.com/file/EDB6F1402EE407080237B9045DE8C96E59720293/1341461.png",
+    "name": "Deltaplano Aquilone della Fenice",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      673,
+      34
+    ]
+  },
+  {
+    "id": 15,
+    "unlock_items": [
+      77804
+    ],
+    "order": 15,
+    "icon": "https://render.guildwars2.com/file/ACEF58430417A95B9B2DB44A307FCD2C38800E05/1366974.png",
+    "name": "Deltaplano Ali dell'Amore",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 16,
+    "unlock_items": [
+      77811
+    ],
+    "order": 16,
+    "icon": "https://render.guildwars2.com/file/4ABD3F35DE479D2B059A399E3A6ABED6B2017C1B/1373283.png",
+    "name": "Discensore Elettromagnetico ",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 17,
+    "unlock_items": [
+      77821
+    ],
+    "order": 16,
+    "icon": "https://render.guildwars2.com/file/0CD87451F1C36E7B9695EB20AEE92047A2EBF391/1377394.png",
+    "name": "Deltaplano Classico",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      622,
+      148
+    ]
+  },
+  {
+    "id": 18,
+    "unlock_items": [
+      78007
+    ],
+    "order": 18,
+    "icon": "https://render.guildwars2.com/file/05E8B5B30A4E08F52018DCA2CC09CCE64E2CA4EE/1411129.png",
+    "name": "Deltaplano Bolla",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 19,
+    "unlock_items": [
+      78006
+    ],
+    "order": 17,
+    "icon": "https://render.guildwars2.com/file/0493A115ED9709770C184B60CA352C06FBA05FF1/1411143.png",
+    "name": "Deltaplano Corazzato",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      5,
+      12
+    ]
+  },
+  {
+    "id": 20,
+    "unlock_items": [
+      78009
+    ],
+    "order": 19,
+    "icon": "https://render.guildwars2.com/file/0139694BF9319ABB37F1305B3AB0C4A4514FF632/1418371.png",
+    "name": "Deltaplano Super Avventura",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 21,
+    "unlock_items": [
+      78025
+    ],
+    "order": 22,
+    "icon": "https://render.guildwars2.com/file/0529070855D73407C6A9616BE3F6B4D8FB121640/1451178.png",
+    "name": "Deltaplano della Fenice",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 22,
+    "order": 203,
+    "icon": "https://render.guildwars2.com/file/562A009CE8D66B63B975251BC97041BFBE0E07E1/1202351.png",
+    "name": "Deltaplano Ad Infinitum",
+    "description": "",
+    "default_dyes": []
+  },
+  {
+    "id": 23,
+    "unlock_items": [
+      78727
+    ],
+    "order": 10,
+    "icon": "https://render.guildwars2.com/file/5ABD981B00C0D80DFAF246EBDDA23FBA1DB8F79D/1431703.png",
+    "name": "Deltaplano Ali di Ara",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 24,
+    "unlock_items": [
+      78768
+    ],
+    "order": 20,
+    "icon": "https://render.guildwars2.com/file/A6B953A21040E84426C9C9C06B2831A6061250F4/1437859.png",
+    "name": "Deltaplano Ali di Falena",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      377,
+      101
+    ]
+  },
+  {
+    "id": 25,
+    "unlock_items": [
+      78790
+    ],
+    "order": 21,
+    "icon": "https://render.guildwars2.com/file/F610ECB706CE49DAE3322D0023929BCA37AAD961/1444475.png",
+    "name": "Deltaplano Floreale",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      680,
+      700
+    ]
+  },
+  {
+    "id": 26,
+    "unlock_items": [
+      79016
+    ],
+    "order": 25,
+    "icon": "https://render.guildwars2.com/file/777E7545523231AC4268F23AF90909D6F451053E/1459292.png",
+    "name": "Deltaplano del Mantello Bianco",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      480,
+      608
+    ]
+  },
+  {
+    "id": 27,
+    "unlock_items": [
+      79010
+    ],
+    "order": 26,
+    "icon": "https://render.guildwars2.com/file/980F9BCF7918F9152768D53CA929F246512903E6/1459281.png",
+    "name": "Plana-r-Tron",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      356,
+      628
+    ]
+  },
+  {
+    "id": 28,
+    "unlock_items": [
+      79084
+    ],
+    "order": 27,
+    "icon": "https://render.guildwars2.com/file/B7D86F23F7BEE26B0A34EBA906A504A0A64B3735/1465615.png",
+    "name": "Deltaplano della Lama Lucente",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      583,
+      67
+    ]
+  },
+  {
+    "id": 30,
+    "unlock_items": [
+      79595
+    ],
+    "order": 28,
+    "icon": "https://render.guildwars2.com/file/F45D9FACF347F1E59E4D3CD3F39E0E10952D1F06/1493182.png",
+    "name": "Deltaplano Ali Mursaat",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 31,
+    "unlock_items": [
+      79631
+    ],
+    "order": 29,
+    "icon": "https://render.guildwars2.com/file/200307785EA660BD25E376F43C947EC2B2A8005E/1504148.png",
+    "name": "Deltaplano Spettrale",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      712,
+      683
+    ]
+  },
+  {
+    "id": 32,
+    "unlock_items": [
+      79660
+    ],
+    "order": 30,
+    "icon": "https://render.guildwars2.com/file/E8F851EB0A79370D6D6A73A6233553BCE05ED290/1518927.png",
+    "name": "Deltaplano Spirito Afferratore",
+    "description": "Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.",
+    "default_dyes": []
+  },
+  {
+    "id": 33,
+    "unlock_items": [
+      79663
+    ],
+    "order": 29,
+    "icon": "https://render.guildwars2.com/file/ADF429CECCD1CF530E2547ED2BD1485351BF307A/1507928.png",
+    "name": "Deltaplano Pietra Insanguinata",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 34,
+    "unlock_items": [
+      79704
+    ],
+    "order": 30,
+    "icon": "https://render.guildwars2.com/file/EAFE18B92ECA960AD93D95F66A6C42A70FB7F908/1601492.png",
+    "name": "Deltaplano Ali di Drago Cristallino",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 35,
+    "unlock_items": [
+      80018
+    ],
+    "order": 32,
+    "icon": "https://render.guildwars2.com/file/FF0F9208AF431FE802D7C6E321AB9660FFB7A71C/1614421.png",
+    "name": "Deltaplano Infinirarium",
+    "description": "Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.",
+    "default_dyes": []
+  },
+  {
+    "id": 36,
+    "unlock_items": [
+      80066
+    ],
+    "order": 33,
+    "icon": "https://render.guildwars2.com/file/19DD9FAA503B805A9A6295AFBA14C846F028EC56/1624016.png",
+    "name": "Deltaplano Gallo Celestiale",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 37,
+    "unlock_items": [
+      80484
+    ],
+    "order": 34,
+    "icon": "https://render.guildwars2.com/file/283E52BC9D9B07D7EFD95B5AA3A347AE3677CEC1/1633990.png",
+    "name": "Deltaplano Necrotico",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      694
+    ]
+  },
+  {
+    "id": 38,
+    "unlock_items": [
+      80725
+    ],
+    "order": 36,
+    "icon": "https://render.guildwars2.com/file/793A2950061A1401B4D0A6254F4E0501F3B70E1A/1659377.png",
+    "name": "Deltaplano Spirito del Corvo",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      28,
+      28
+    ]
+  },
+  {
+    "id": 39,
+    "unlock_items": [
+      80795
+    ],
+    "order": 35,
+    "icon": "https://render.guildwars2.com/file/9DE4C8CBB2066FD1C3C43ACCC25A72E429297205/1653627.png",
+    "name": "Deltaplano Pietra Insanguinata Frantumata",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 40,
+    "unlock_items": [
+      80958
+    ],
+    "order": 38,
+    "icon": "https://render.guildwars2.com/file/9480C51B2164FE0C5E3C5AAC55015D38D0B061F7/1663888.png",
+    "name": "Holo-Cottero Super Avventura",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 41,
+    "unlock_items": [
+      80919
+    ],
+    "order": 37,
+    "icon": "https://render.guildwars2.com/file/C8244AAC200C03E47D473EC3CB94904A6DF8A3B5/1663886.png",
+    "name": "Deltaplano Super Nuvola",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 42,
+    "unlock_items": [
+      80985
+    ],
+    "order": 39,
+    "icon": "https://render.guildwars2.com/file/0F6DDAF67E64F16E67C4E49FD03AE6FCEB1AC30D/1676595.png",
+    "name": "Deltaplano Distruttore Viticcio-Influenzato",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      692,
+      692
+    ]
+  },
+  {
+    "id": 44,
+    "unlock_items": [
+      81291
+    ],
+    "order": 40,
+    "icon": "https://render.guildwars2.com/file/17F5AB31DBFF1E0E71917BB8F4FD5D74DD0B43AA/882243.png",
+    "name": "Deltaplano Tappeto Magico",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 45,
+    "unlock_items": [
+      81547
+    ],
+    "order": 41,
+    "icon": "https://render.guildwars2.com/file/575C023916452AFB942F03040B56F2B36AC738FE/1710883.png",
+    "name": "Modulo Dinamico di Deltaplano",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      385,
+      681
+    ]
+  },
+  {
+    "id": 46,
+    "unlock_items": [
+      82011
+    ],
+    "order": 43,
+    "icon": "https://render.guildwars2.com/file/23EF240827430BFB481ACCAD6F313C6303E1BB17/1729380.png",
+    "name": "Deltaplano di Abaddon",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 47,
+    "unlock_items": [
+      87005,
+      81724
+    ],
+    "order": 42,
+    "icon": "https://render.guildwars2.com/file/C9F23AFD66DC39275EF1A49CCA7C00B000269835/1729406.png",
+    "name": "Piume dello Zefiro",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      67,
+      674
+    ]
+  },
+  {
+    "id": 48,
+    "unlock_items": [
+      82671
+    ],
+    "order": 46,
+    "icon": "https://render.guildwars2.com/file/787E136EA2F59A55CA9D0E360601B6D01D3F3CCC/1766914.png",
+    "name": "Deltaplano Pinna di Largos",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1378,
+      1378
+    ]
+  },
+  {
+    "id": 49,
+    "unlock_items": [
+      82666
+    ],
+    "order": 45,
+    "icon": "https://render.guildwars2.com/file/524CD124E3053A3ABC31C236CD94D47FA09015A0/1762091.png",
+    "name": "Deltaplano Geomante",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 50,
+    "unlock_items": [
+      83341
+    ],
+    "order": 44,
+    "icon": "https://render.guildwars2.com/file/053A4EB33C995BBE184D3F51A0C07CB404CFF34C/1766949.png",
+    "name": "Deltaplano dello Spartito",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      74,
+      1275
+    ]
+  },
+  {
+    "id": 51,
+    "unlock_items": [
+      85220
+    ],
+    "order": 47,
+    "icon": "https://render.guildwars2.com/file/1F7332072DF10DE918C3BA77BD741257D5EDDFD7/1822133.png",
+    "name": "Deltaplano Ala Marchiata",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 52,
+    "unlock_items": [
+      85470
+    ],
+    "order": 56,
+    "icon": "https://render.guildwars2.com/file/DD15C9F0F6535D9E6C2B0DD31911AE36A180B9EB/2010184.png",
+    "name": "Deltaplano Re del Deserto",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      704,
+      704
+    ]
+  },
+  {
+    "id": 53,
+    "unlock_items": [
+      85496
+    ],
+    "order": 48,
+    "icon": "https://render.guildwars2.com/file/9ADF6BE13C5BCD58D841044546CB6FB508CBA06D/1862142.png",
+    "name": "Deltaplano Scopa Volante",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      22,
+      146
+    ]
+  },
+  {
+    "id": 54,
+    "unlock_items": [
+      87136,
+      85595
+    ],
+    "order": 49,
+    "icon": "https://render.guildwars2.com/file/550538FD633A0EC115A89D17F3CBA00EB7090ACC/1876190.png",
+    "name": "Deltaplano Magia Selvaggia",
+    "description": "Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.",
+    "default_dyes": []
+  },
+  {
+    "id": 55,
+    "unlock_items": [
+      86715
+    ],
+    "order": 50,
+    "icon": "https://render.guildwars2.com/file/3CC7C202E2A2BA1E7E0F6D5EFFA71608946A36D9/1914894.png",
+    "name": "Deltaplano Glaciale",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 56,
+    "unlock_items": [
+      86813
+    ],
+    "order": 51,
+    "icon": "https://render.guildwars2.com/file/F203266E9BF4D05302E966AF71C2B7EE0CC6614B/1925445.png",
+    "name": "Deltaplano Cucciolo di Grifone",
+    "description": "Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.",
+    "default_dyes": []
+  },
+  {
+    "id": 57,
+    "unlock_items": [
+      87070
+    ],
+    "order": 52,
+    "icon": "https://render.guildwars2.com/file/F2203408E54454C2D61CE0B3E0334BC7B96EFE03/1947231.png",
+    "name": "Deltaplano Forgiato",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1366,
+      616
+    ]
+  },
+  {
+    "id": 58,
+    "unlock_items": [
+      87429
+    ],
+    "order": 53,
+    "icon": "https://render.guildwars2.com/file/B09F394A01CEDB73F369666E144365F8393FFB05/1972329.png",
+    "name": "Deltaplano dell'Ammazzabestie",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      137,
+      17
+    ]
+  },
+  {
+    "id": 59,
+    "unlock_items": [
+      87549
+    ],
+    "order": 54,
+    "icon": "https://render.guildwars2.com/file/F1E65E9863BE230B6847A756E1B1E994E0FE382A/1986191.png",
+    "name": "Deltaplano della Lancia del Sole",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      137,
+      67
+    ]
+  },
+  {
+    "id": 60,
+    "unlock_items": [
+      87750
+    ],
+    "order": 55,
+    "icon": "https://render.guildwars2.com/file/D16854BFEF62066113C8447A18D105CDE9C7B39E/1998932.png",
+    "name": "Deltaplano Scarabeo Ingioiellato",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      67,
+      134
+    ]
+  },
+  {
+    "id": 61,
+    "unlock_items": [
+      88340
+    ],
+    "order": 57,
+    "icon": "https://render.guildwars2.com/file/1C1CB1966A30FF073716054107E62570050193D7/2022121.png",
+    "name": "Deltaplano Custode del Tempo",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      148,
+      28
+    ]
+  },
+  {
+    "id": 62,
+    "unlock_items": [
+      88431
+    ],
+    "order": 58,
+    "icon": "https://render.guildwars2.com/file/F2DF5B142453FE56724519C54821D217FF451DB5/2028779.png",
+    "name": "Deltaplano Cattedrale in Frantumi",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      610,
+      1499
+    ]
+  },
+  {
+    "id": 63,
+    "unlock_items": [
+      88983
+    ],
+    "order": 58,
+    "icon": "https://render.guildwars2.com/file/023FAC1A9E4809147806F7CE0A43C12F36F5AEA4/2051634.png",
+    "name": "Deltaplano Ali Squamate di Drago",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      458,
+      336
+    ]
+  },
+  {
+    "id": 64,
+    "unlock_items": [
+      89030
+    ],
+    "order": 59,
+    "icon": "https://render.guildwars2.com/file/C5114491ABAB52062BFF0AD4087C2EEC365807BA/2056209.png",
+    "name": "Deltaplano Aracnide",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      473,
+      1619
+    ]
+  },
+  {
+    "id": 65,
+    "unlock_items": [
+      89433
+    ],
+    "order": 60,
+    "icon": "https://render.guildwars2.com/file/2E1413D04A06AE961D0A9090A4A9C40FF7AD7E06/2075355.png",
+    "name": "Deltaplano Criomante",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 66,
+    "unlock_items": [
+      89676
+    ],
+    "order": 61,
+    "icon": "https://render.guildwars2.com/file/9F25D7E02BA30E1E45B5C79AC8630DBA59F923C9/2083348.png",
+    "name": "Deltaplano Drago Ruggente",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1384,
+      362
+    ]
+  },
+  {
+    "id": 67,
+    "unlock_items": [
+      90020
+    ],
+    "order": 62,
+    "icon": "https://render.guildwars2.com/file/CBA0E3EC19E17407B770A87062FAE40117E111E2/2107150.png",
+    "name": "Deltaplano Cinghiale Volante",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1155,
+      629
+    ]
+  },
+  {
+    "id": 68,
+    "unlock_items": [
+      90062
+    ],
+    "order": 63,
+    "icon": "https://render.guildwars2.com/file/9397F419AACDBDBDD7C390AEA30F4DF2322ABB54/2109719.png",
+    "name": "Deltaplano Etereo",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      62,
+      1279
+    ]
+  },
+  {
+    "id": 69,
+    "unlock_items": [
+      90093
+    ],
+    "order": 63,
+    "icon": "https://render.guildwars2.com/file/A14D61B918F9FB80EE7D01CF5ADAEFCBF35751EB/2117560.png",
+    "name": "Deltaplano Jetpack della Legione",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      77,
+      379
+    ]
+  },
+  {
+    "id": 70,
+    "unlock_items": [
+      90598
+    ],
+    "order": 63,
+    "icon": "https://render.guildwars2.com/file/4D43B1CD18B466DB6B0652055B9D07D0CCAE62CC/2140534.png",
+    "name": "Deltaplano Reliquia Marchiata",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      117,
+      475
+    ]
+  },
+  {
+    "id": 71,
+    "unlock_items": [
+      91101
+    ],
+    "order": 64,
+    "icon": "https://render.guildwars2.com/file/3C0C115D4BDE0F41BA39AEAFB8045F68440E4DFC/2149941.png",
+    "name": "Deltaplano Squadrone Scaglia Celeste",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      4,
+      453
+    ]
+  },
+  {
+    "id": 72,
+    "unlock_items": [
+      91278
+    ],
+    "order": 64,
+    "icon": "https://render.guildwars2.com/file/E3ABE9D63CD4F4559E9304C9AB9473B57A4FB2BD/2163044.png",
+    "name": "Deltaplano Drago di Fuochi Artificiali",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      109,
+      142
+    ]
+  },
+  {
+    "id": 73,
+    "unlock_items": [
+      91276
+    ],
+    "order": 65,
+    "icon": "https://render.guildwars2.com/file/BFEA67C0B8140906A37606765EDA626324A530C9/2163085.png",
+    "name": "Deltaplano Sovrintendente dell'Inchiesta",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      356,
+      1336
+    ]
+  },
+  {
+    "id": 74,
+    "unlock_items": [
+      91394
+    ],
+    "order": 66,
+    "icon": "https://render.guildwars2.com/file/32F8AE37B625D0F710FB06314E39510DB99D3AFD/2179648.png",
+    "name": "Parapendio Zefirita",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      583,
+      109
+    ]
+  },
+  {
+    "id": 75,
+    "unlock_items": [
+      91648
+    ],
+    "order": 67,
+    "icon": "https://render.guildwars2.com/file/B19132572E94183DF6060AC99F48164E37190528/2185860.png",
+    "name": "Deltaplano Lame Legaluce",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      610,
+      334
+    ]
+  },
+  {
+    "id": 76,
+    "unlock_items": [
+      91788
+    ],
+    "order": 69,
+    "icon": "https://render.guildwars2.com/file/98FC5BA90101EE05A1455413374FDE3B47015390/2191111.png",
+    "name": "Deltaplano Matrice Cubica",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      639
+    ]
+  },
+  {
+    "id": 77,
+    "unlock_items": [
+      91815
+    ],
+    "order": 68,
+    "icon": "https://render.guildwars2.com/file/552AF205AD52535615512551B4C406D62E9B744E/2191133.png",
+    "name": "Deltaplano Ali d'Orologeria",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      345,
+      611
+    ]
+  },
+  {
+    "id": 78,
+    "unlock_items": [
+      91881
+    ],
+    "order": 70,
+    "icon": "https://render.guildwars2.com/file/17A7D2D50999A45A54A7C2BED21AD10C073811F6/2196157.png",
+    "name": "Deltaplano Mordrem",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      602,
+      715
+    ]
+  },
+  {
+    "id": 79,
+    "unlock_items": [
+      92039
+    ],
+    "order": 71,
+    "icon": "https://render.guildwars2.com/file/513DACE1061AE2B52BFB03BE0F646ADAAE4FE7BB/2199354.png",
+    "name": "Deltaplano Assalto alla Cittadella",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      89,
+      450
+    ]
+  },
+  {
+    "id": 80,
+    "unlock_items": [
+      92142
+    ],
+    "order": 74,
+    "icon": "https://render.guildwars2.com/file/6B7458070B414B550D7E38E975CA93DD0F4BEE95/2212742.png",
+    "name": "Deltaplano Ali Scheletriche",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      23,
+      694
+    ]
+  },
+  {
+    "id": 81,
+    "unlock_items": [
+      92264
+    ],
+    "order": 75,
+    "icon": "https://render.guildwars2.com/file/2F660F52BDF57865E6A1375DD96009D4D17ACEF5/2220654.png",
+    "name": "Deltaplano Cacciatore di Cimefredde",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      12,
+      64
+    ]
+  },
+  {
+    "id": 82,
+    "unlock_items": [
+      92613
+    ],
+    "order": 75,
+    "icon": "https://render.guildwars2.com/file/3949F1BFF2DCBAD5F20B0ED94C2063BD96717FD9/2236633.png",
+    "name": "Deltaplano Gelofiamma",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      381,
+      1654
+    ]
+  },
+  {
+    "id": 83,
+    "unlock_items": [
+      92564
+    ],
+    "order": 75,
+    "icon": "https://render.guildwars2.com/file/0608D69C09FD723E97EBE00E6F0CD83F5D1FBA63/2236610.png",
+    "name": "Deltaplano Ali Stellari",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      315,
+      710,
+      78,
+      603
+    ]
+  },
+  {
+    "id": 84,
+    "unlock_items": [
+      92689
+    ],
+    "order": 76,
+    "icon": "https://render.guildwars2.com/file/77DEEFAFD5795A1AE6FF5ACFE0B0E8391D750C97/2247642.png",
+    "name": "Deltaplano Spirito di Balena",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      640,
+      691,
+      1539,
+      615
+    ]
+  },
+  {
+    "id": 85,
+    "unlock_items": [
+      92830
+    ],
+    "order": 74,
+    "icon": "https://render.guildwars2.com/file/0CA2FA4248E1180847D070C4AF92C5FCF1097B6C/2256359.png",
+    "name": "Deltaplano Alchimista",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      435,
+      475,
+      10,
+      615
+    ]
+  },
+  {
+    "id": 86,
+    "unlock_items": [
+      92964
+    ],
+    "order": 77,
+    "icon": "https://render.guildwars2.com/file/6773691F96F398B2D8706493245A9B69DB182B40/2270403.png",
+      "name": "Deltaplano Ali del Viaggiatore dei Sogni",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      443,
+      1155,
+      1250,
+      1636
+    ]
+  },
+  {
+    "id": 87,
+    "unlock_items": [
+      93331
+    ],
+    "order": 78,
+    "icon": "https://render.guildwars2.com/file/4562523065C14AC6E9B9A67D0EB4C0BF9660356D/2286354.png",
+    "name": "Deltaplno Ali Draconiche",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      33,
+      360,
+      1267,
+      1595
+    ]
+  },
+  {
+    "id": 88,
+    "unlock_items": [
+      93386
+    ],
+    "order": 80,
+    "icon": "https://render.guildwars2.com/file/B56869F0FB0F334E6F597A79E8ED0DC9EC51FAA6/2292747.png",
+    "name": "Deltaplano Intracciaincantesimi",
+    "description": "<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": []
+  },
+  {
+    "id": 89,
+    "unlock_items": [
+      93668
+    ],
+    "order": 81,
+    "icon": "https://render.guildwars2.com/file/C2FB4FBB776FB162EC537DC4AB049E80C9D147C6/2303377.png",
+    "name": "Deltaplano Ali Groviglio di Legno",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      450,
+      676,
+      478,
+      360
+    ]
+  },
+  {
+    "id": 90,
+    "unlock_items": [
+      93715
+    ],
+    "order": 82,
+    "icon": "https://render.guildwars2.com/file/D5020BFD3E6723B2A9F60D51BF3BE60DDD239864/2309911.png",
+    "name": "Deltaplano Incantoforgiato",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      676,
+      102,
+      587,
+      649
+    ]
+  },
+  {
+    "id": 91,
+    "unlock_items": [
+      93865
+    ],
+    "order": 80,
+    "icon": "https://render.guildwars2.com/file/FC00A0B072F30AB2C3B3D9D949019003F14B01E9/2314105.png",
+    "name": "Deltaplano Ali Vermiglio",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      463,
+      647,
+      647,
+      1644
+    ]
+  },
+  {
+    "id": 92,
+    "unlock_items": [
+      94098
+    ],
+    "order": 84,
+    "icon": "https://render.guildwars2.com/file/EAC4549195ED02AE08EC60664345AA3ED773A8DE/2338686.png",
+    "name": "Deltaplano Ali in Mosaico di Vetro",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      443,
+      1155,
+      1250,
+      1636
+    ]
+  },
+  {
+    "id": 93,
+    "unlock_items": [
+      94156
+    ],
+    "order": 85,
+    "icon": "https://render.guildwars2.com/file/131C07BA16CB1204BC23E90798B1452D78F91724/2348520.png",
+    "name": "Deltaplano Ali dell'Oratore Notturno",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1382,
+      464,
+      76,
+      1305
+    ]
+  },
+  {
+    "id": 94,
+    "unlock_items": [
+      94279
+    ],
+    "order": 86,
+    "icon": "https://render.guildwars2.com/file/9324399847756C6BFD995D58595F6F9BFA453BA1/2351602.png",
+    "name": "Deltaplano Vulcanico",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1239,
+      449,
+      1541
+    ]
+  },
+  {
+    "id": 95,
+    "unlock_items": [
+      94421
+    ],
+    "order": 87,
+    "icon": "https://render.guildwars2.com/file/C9E33FDE6E0C7BDF63E7F4024AE3040AADA23AC5/2376995.png",
+    "name": "Deltaplano Guardiano del Santuario",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1538,
+      647,
+      120,
+      586
+    ]
+  },
+  {
+    "id": 96,
+    "unlock_items": [
+      94427
+    ],
+    "order": 88,
+    "icon": "https://render.guildwars2.com/file/E5953BECF237CBDEE503C6350293B2227E0FB2F4/2376963.png",
+    "name": "Deltaplano Aurora Scintillante",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      143,
+      603,
+      1577,
+      630
+    ]
+  },
+  {
+    "id": 97,
+    "unlock_items": [
+      94686,
+      94639
+    ],
+    "order": 89,
+    "icon": "https://render.guildwars2.com/file/CDEBB491A1A64E7F05F3CCF80EEB9DC2129430EB/2393802.png",
+    "name": "Deltaplano Nuvola Errante",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      634,
+      712,
+      1481,
+      343
+    ]
+  },
+  {
+    "id": 98,
+    "unlock_items": [
+      94701
+    ],
+    "order": 85,
+    "icon": "https://render.guildwars2.com/file/F84606C2D3679F7F22C6CD4BDAF86C5D69DDC3B0/2406970.png",
+    "name": "Deltaplano Mandala Eterno",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      51,
+      652,
+      649,
+      1650
+    ]
+  },
+  {
+    "id": 99,
+    "unlock_items": [
+      94898
+    ],
+    "order": 85,
+    "icon": "https://render.guildwars2.com/file/DA70413C2315CDE079246A0D735D06168054916C/2423905.png",
+    "name": "Deltaplano Shuriken Gigante",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1354,
+      74,
+      629,
+      1337
+    ]
+  },
+  {
+    "id": 100,
+    "unlock_items": [
+      94940
+    ],
+    "order": 90,
+    "icon": "https://render.guildwars2.com/file/7CF350BEC99406F6B94A0F9DA8CEB16CC4EDCFF3/2433163.png",
+    "name": "Deltaplano Ali dei Serafini",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      67,
+      443,
+      1493,
+      1365
+    ]
+  },
+  {
+    "id": 101,
+    "unlock_items": [
+      94994
+    ],
+    "order": 85,
+    "icon": "https://render.guildwars2.com/file/A05EE04040D8F877DF6478967BFCDF9B4BA03F93/2440676.png",
+    "name": "Deltaplano Ali Carine di Demone",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1354,
+      115,
+      641,
+      641
+    ]
+  },
+  {
+    "id": 102,
+    "unlock_items": [
+      95030
+    ],
+    "order": 85,
+    "icon": "https://render.guildwars2.com/file/415F3A68A59CF60C6098DE159C0C328054DA0E6C/2453961.png",
+    "name": "Deltaplano Furia Elementale",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1538,
+      62,
+      7,
+      1306
+    ]
+  },
+  {
+    "id": 103,
+    "unlock_items": [
+      95091
+    ],
+    "order": 91,
+    "icon": "https://render.guildwars2.com/file/F70DD348C0A30630EFE72968703F9FAB729ACD56/2467761.png",
+    "name": "Deltaplano Ali Arcidemoniache",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Si trova solo nei Forzieri del Leone Nero in determinati periodi dell'anno.</c>",
+    "default_dyes": [
+      1582,
+      1542,
+      1240,
+      1053
+    ]
+  },
+  {
+    "id": 104,
+    "unlock_items": [
+      95142
+    ],
+    "order": 93,
+    "icon": "https://render.guildwars2.com/file/091CF5FBB7044CD62A316E4AADC5E6FFBC3FB5D5/2472112.png",
+    "name": "Deltaplano Spirito di Volpe",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1644,
+      1308,
+      1337,
+      1654
+    ]
+  },
+  {
+    "id": 105,
+    "unlock_items": [
+      95200
+    ],
+    "order": 85,
+    "icon": "https://render.guildwars2.com/file/C4D5A7C4CEF4ECF4B6807B24B8A2220AEB66C272/2478857.png",
+    "name": "Deltaplano Ali Carine d'Angelo",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      443,
+      67,
+      67,
+      121
+    ]
+  },
+  {
+    "id": 106,
+    "unlock_items": [
+      95264
+    ],
+    "order": 92,
+    "icon": "https://render.guildwars2.com/file/38FCD64402FB21AF29504440049A78D4F94B25F1/2485630.png",
+    "name": "Deltaplano Ali di Silfide",
+    "description": "Questo deltaplano è tingibile.\n\n<c=@reminder>Questo è disponibile solo dalla Società Commerciale del Leone Nero durante le vendite a tempo limitato.</c>",
+    "default_dyes": [
+      1624,
+      1653,
+      1625,
+      1454
+    ]
+  }]

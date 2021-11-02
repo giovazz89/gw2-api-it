@@ -1,0 +1,1070 @@
+[{
+    "id": 1,
+    "name": "Conoscenza Esaltati",
+    "requirement": "Viaggia nella Conca Aurea per sbloccare il percorso di Maestria Conoscenza degli Esaltati.",
+    "order": 2,
+    "background": "https://render.guildwars2.com/file/4E09B60E16E6A7404B0638A00D0C6A02F7294308/1228720.png",
+    "region": "Maguuma",
+    "levels": [
+      {
+        "name": "Marchi Esaltati",
+        "description": "Acquisisci la conoscenza per leggere i marchi degli Esaltati. Ora puoi decifrare le loro parole e accedere ai segreti della loro civiltà.",
+        "instruction": "Ora puoi interagire con i manufatti Esaltati trovati nella Conca Aurea e nella grande Giungle di Maguuma.",
+        "icon": "https://render.guildwars2.com/file/7372DCB5085D75F672B50CB8F3577373B8F90468/1228654.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Accettazione Esaltata",
+        "description": "Guadagna la fiducia degli strani e misteriosi Esaltati, dandoti accesso ai loro servizi nella Città Dimenticata.",
+        "instruction": "Ora puoi commerciare con gli Esaltati e i loro rappresentanti. I venditori della Maestria possono essere trovati nella Giungla di Maguuma e sono contrassegnati dalle icone Maestria sulla mappa.",
+        "icon": "https://render.guildwars2.com/file/39DBD70271A074DCD6B1EAE1D639BD4D36765EC4/1228651.png",
+        "point_cost": 2,
+        "exp_cost": 1016000
+      },
+      {
+        "name": "Assistenza Esaltata",
+        "description": "Impara a usare i dispositivi Richiamo Esaltato Recall trovati nella Giungla di Maguuma per evocare un Guerriero Esaltato per combattere per un breve periodo.",
+        "instruction": "Puoi interagire con i dispositivi di richiamo Esaltati, evocando un utile alleato Esaltato o aumentando il potere di un alleato già evocato.",
+        "icon": "https://render.guildwars2.com/file/B9B7E50E29F554570E63945249002FC6B64C7FFB/1228652.png",
+        "point_cost": 3,
+        "exp_cost": 1778000
+      },
+      {
+        "name": "Purificazione Esaltata",
+        "description": "Diventa onorato tra gli Esaltati sfidando il loro campione ogni giorno e sblocca i loro migliori tesori nella Città Dimenticata.",
+        "instruction": "Ora puoi combattere il Traditore Macchiato che si trova sotto la Città Dimenticata. Sconfiggere il Traditore Macchiato ti darà accesso a un forziere ricompensa una volta al giorno.",
+        "icon": "https://render.guildwars2.com/file/EE132C76A52AC66D0211CED63E74F64B7F4AFB34/1228655.png",
+        "point_cost": 5,
+        "exp_cost": 2540000
+      },
+      {
+        "name": "Raccolta Esaltata",
+        "description": "Impara dagli Esaltati come raccogliere materiali rari nella Giungla di Maguuma. Impara a estrarre Argento Aureo dai nodi minerari nella Conca Aurea.",
+        "instruction": "Quando estrai minerali mentre sei nella Conca Aurea, otterrai Argento Aureo oltre ai materiali normali. Hai anche la possibilità di ottenere oggetti speciali dai nodi minerari in tutto il Cuore di Maguuma.",
+        "icon": "https://render.guildwars2.com/file/324312530AA1A427AB0951D0BFBC92C4B69774D6/1228653.png",
+        "point_cost": 8,
+        "exp_cost": 3302000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Conoscenza Itzel",
+    "requirement": "Allena la Planata Base nel percorso di Maestria Deltaplano Base per sbloccare il percorso di Mestria Conoscenza Itzel.",
+    "order": 1,
+    "background": "https://render.guildwars2.com/file/F2ED9E6B330AA015B8AD06FF222715284E1BC622/1228723.png",
+    "region": "Maguuma",
+    "levels": [
+      {
+        "name": "Funghi Rimbalzanti",
+        "description": "Impara come atterrare con precisione e usa i funghi rimbalzanti trovati nel Cuore di Maguuma per raggiungere luoghi prima irraggiungibili.",
+        "instruction": "I funghi rimbalzanti si possono trovare in tutto il Cuore di Maguuma. Salta sopra ai funghi rimbalzanti per proiettarti in aria.",
+        "icon": "https://render.guildwars2.com/file/C1D5574EF6B9B4CC7AB7EC3600993698D39BF975/1228645.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Linguaggio Itzel",
+        "description": "Impara il difficile dialetto degli Itzel, facendoti apprezzare dagli Itzel locali e ottenendo l'accesso ai venditori con articoli esclusivi.",
+        "instruction": "Ora puoi scambiare con gli Itzel. I venditori della Maestria possono essere trovati nella Giungla di Maguuma e sono contrassegnati dalle icone Maestria sulla mappa.",
+        "icon": "https://render.guildwars2.com/file/68B5A54FEC5F3C7763C5BDD12C0296942ABB0BB2/1228660.png",
+        "point_cost": 2,
+        "exp_cost": 1016000
+      },
+      {
+        "name": "Funghi Velocità Fulminea",
+        "description": "Con l'allenamento dello stomaco, impara a ingerire i funghi che aumentano la velocità sparsi nel Cuore di Maguuma. Corri a velocità incredibili con l'aiuto della natura!",
+        "instruction": "I funghi a velocità fulminea si possono trovare in tutto il Cuore di Maguuma. Muoviti semplicemente vicino o attraverso un fungo a velocità fulminea per ottenere un aumento di velocità.",
+        "icon": "https://render.guildwars2.com/file/C2609360DCF254E70C023517E27375AB0FA32236/1228644.png",
+        "point_cost": 3,
+        "exp_cost": 1778000
+      },
+      {
+        "name": "Conoscenza Veleni Itzel",
+        "description": "Scopri i veleni di Itzel e ottieni la capacità di passare attraverso i rampicanti Mordrem velenosi e resistere alle nebbie velenose che esistono a Maguuma.",
+        "instruction": "Ora puoi entrare in aree di foschia velenosa e passare attraverso i rampicanti Mordrem velenosi senza subire danni.",
+        "icon": "https://render.guildwars2.com/file/4D2F77BE539B0F065B97C8B007E8D7324DA40D3C/1228662.png",
+        "point_cost": 5,
+        "exp_cost": 2540000
+      },
+      {
+        "name": "Itzel Leadership",
+        "description": "Studia attentamente lo stile di combattimento Itzel e poi sfida il campione dei loro nemici per ottenere un prezioso premio giornaliero.",
+        "instruction": "Ora puoi sfidare Mayatl il Feroce parlando con l'Itzel danzalama fuori dal villaggio Jaka Itzel. Sconfiggere questo campione ti dà accesso a un forziere ricompensa una volta al giorno.",
+        "icon": "https://render.guildwars2.com/file/0735EF06110A01EF69C2710EA1390A45EBE57232/1228661.png",
+        "point_cost": 8,
+        "exp_cost": 3302000
+      },
+      {
+        "name": "Funghi Surrenali",
+        "description": "Imparare a mangiare questi funghi modifica le tue ghiandole surrenali, dandoti un'ondata di adrenalina e ricaricando istantaneamente le tue abilità.",
+        "instruction": "I funghi surrenali si trovano raramente nel Cuore di Maguuma. Avvicinati semplicemente o passa attraverso i funghi surrenali per ricaricare immediatamente tutte le tue abilità.",
+        "icon": "https://render.guildwars2.com/file/EB50DAD5409C937CD17A0A216A7B3E04E0C25307/1228643.png",
+        "point_cost": 12,
+        "exp_cost": 4318000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Conoscenza Nuhoch",
+    "requirement": "Viaggia nelle Profondità Aggrovigliate per sbloccare il percorso di Maestria Conoscenza Nuhoch.",
+    "order": 3,
+    "background": "https://render.guildwars2.com/file/05AABD5EF4CF91375CE2420575C4B8CE5A084F05/1228724.png",
+    "region": "Maguuma",
+    "levels": [
+      {
+        "name": "Caccia Nuhoch",
+        "description": "Impara a prendere trofei speciali dai nemici a Maguuma e a raccogliere i funghi Finferli, sbloccando collezioni e oggetti rari.",
+        "instruction": "You will now have a chance to loot special items off of any creature killed in the Heart of Maguuma. You can also harvest sawgill mushrooms, which can be found all over the Maguuma Jungle.",
+        "icon": "https://render.guildwars2.com/file/F9EB68F169FB63A5D552471F2692AA73771D06F0/1228664.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Pantano Nuhoch",
+        "description": "Padroneggia l'uso del Pantano Nuhoch, imparando ad attraversare questi passaggi nascosti per accedere a luoghi sia lontani che nascosti.",
+        "instruction": "Ora puoi interagire con il Pantano Nuhoch. Così ti trasporterai istantaneamente tra le entrate e le uscite nella giungla di Maguuma.",
+        "icon": "https://render.guildwars2.com/file/9B51B95FD0BD6FB80F900101977FFD66224605B1/1228668.png",
+        "point_cost": 2,
+        "exp_cost": 1016000
+      },
+      {
+        "name": "Linguaggio Nuhoch",
+        "description": "Impara la lingua tradizionale dei Nuhoch e acquisisci la capacità di scambiare e conversare con i membri più diffidenti del gruppo.",
+        "instruction": "Ora puoi commerciare con il Nuhoch. I venditori della Maestria possono essere trovati nella Giungla di Maguuma e sono contrassegnati dalle icone Maestria sulla mappa.",
+        "icon": "https://render.guildwars2.com/file/7C9EB6B44A1F9D690D4D9A9856A01805395BD9A1/1228665.png",
+        "point_cost": 3,
+        "exp_cost": 1778000
+      },
+      {
+        "name": "Rilevamento Invisibilità Nuhoch",
+        "description": "Impara a individuare i nemici che praticano tecniche di invisibilità, rendendoli visibili al tuo occhio esperto.",
+        "instruction": "Ora puoi vedere creature normalmente invisibili nella Giungla di Maguuma. Le creature nascoste ti appariranno come evidenziate e ora possono essere facilmente trovate o evitate.",
+        "icon": "https://render.guildwars2.com/file/1606273520E5106D475C90447904E256E8FE6B98/1228667.png",
+        "point_cost": 5,
+        "exp_cost": 2540000
+      },
+      {
+        "name": "Dimostrazione Nuhoch",
+        "description": "Sfida il campione Nuhoch in combattimento per guadagnarti il rispetto dei Nuhoch e sbloccare una grossa scorta di ricompense.",
+        "instruction": "Ora puoi combattere Potoni il Massiccio a Teku Nuhoch. Sconfiggere Potoni il Massiccio ti dà accesso a un forziere ricompensa una volta al giorno.",
+        "icon": "https://render.guildwars2.com/file/EA0D13224CC35B3F591DBD9812E9EA620C0FFE2F/1228666.png",
+        "point_cost": 8,
+        "exp_cost": 3302000
+      },
+      {
+        "name": "Alchimia Nuhoch",
+        "description": "Allenati con il Nuhoch per imparare a rimuovere il potente acido dei chak. Senza questa capacità, l'acido chak può annientare i nemici.",
+        "instruction": "Schivare ora rimuoverà istantaneamente tutte le pile di bava di chak che ti afliggono. Sei anche immune agli effetti rallentanti della bava.",
+        "icon": "https://render.guildwars2.com/file/BED24BC7330F366E367FE0C9EA6975739B590A44/1228663.png",
+        "point_cost": 12,
+        "exp_cost": 4318000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Comandante del Patto",
+    "requirement": "",
+    "order": 0,
+    "background": "https://render.guildwars2.com/file/65DE3662C705233AC1073EF297B15AADD7A8A644/1228718.png",
+    "region": "Tyria",
+    "levels": [
+      {
+        "name": "Mentore del Patto",
+        "description": "Impara a essere un mentore per gli eroi di Tyria, ottenendo uno speciale Distintivo da Mentore, titolo nella chat e rapidità per te e il tuo gruppo in tutte le città.",
+        "instruction": "Ora puoi utilizzare il Distintivo da Mentore accessibile dal menu di Squadra e il titolo di Mentore nella chat attivato tramite il comando /mentor. La tua squadra ora ha un bonus di velocità permanente del 5% nelle città.",
+        "icon": "https://render.guildwars2.com/file/D32A52F4E1EB3EC57D035531A31BE217E63DC0F8/1228648.png",
+        "point_cost": 1,
+        "exp_cost": 635000
+      },
+      {
+        "name": "Produttività",
+        "description": "Impara a essere più efficiente e ottieni esperienza bonus durante la lavorazione artigianale.",
+        "instruction": "Ora ottieni un bonus del 10% di esperienza da tutte le lavorazioni che forniscono esperienza. Hai anche il 10% in più di possibilità di ottenere bonus critico di esperienza.",
+        "icon": "https://render.guildwars2.com/file/0BCD77C3BF1BFD54162C992EDBF04209B653B865/1228649.png",
+        "point_cost": 2,
+        "exp_cost": 1270000
+      },
+      {
+        "name": "Gestione Approvvigionamenti",
+        "description": "Ottieni l'accesso a una rete di mercanti regionali in tutta Tyria con una fornitura limitata di beni rari per il commercio, e aumenta il bonus di rapidità della tua squadra nelle città al 15%.",
+        "instruction": "Ora puoi commerciare con gli Agenti della Rete di Approvvigionamento del Patto che viaggiano attraverso Tyria Centrale. Puoi acquistare un oggetto al giorno da ogni agente in cambio di karma. La tua squadra ora ha un bonus di velocità permanente del 15% mentre si trova in città.",
+        "icon": "https://render.guildwars2.com/file/4E43E92F349620FA060ABF9A3BC052657F7EC35A/1228650.png",
+        "point_cost": 3,
+        "exp_cost": 2222500
+      },
+      {
+        "name": "Noblesse Oblige",
+        "description": "Impara a rianimare i tuoi alleati più velocemente e con meno penalità.",
+        "instruction": "Ora puoi rianimare i giocatori alleati più velocemente e rimuovere le penalità di durabilità e abbattimento in caso di rianimazione completata. La velocità della tua rianimazione aumenta quando il livello del personaggio che viene rianimato è inferiore al tuo.",
+        "icon": "https://render.guildwars2.com/file/EC25C613ED2A35DB4256F0DF4A5F19389765D8E6/1228647.png",
+        "point_cost": 5,
+        "exp_cost": 3175000
+      },
+      {
+        "name": "Logistica Avanzata",
+        "description": "Impara a raccogliere automaticamente il bottino dai nemici caduti e ottieni un bonus di velocità maggiore per la tua squadra nelle città.",
+        "instruction": "Ora hai la possibilità di depositare automaticamente il bottino delle creature che sconfiggi nel tuo inventario. Questa capacità può essere disattivata nel menu Opzioni. La tua squadra ora ha un bonus di velocità permanente del 33% nelle città.",
+        "icon": "https://render.guildwars2.com/file/A41824167F010C0667B3F697DE03E132BD01ED01/1228646.png",
+        "point_cost": 8,
+        "exp_cost": 4127500
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sintonia Frattale",
+    "requirement": "",
+    "order": 2,
+    "background": "https://render.guildwars2.com/file/5A19BB62274C6297773A1A21A94BAB9AB2A0711D/1228721.png",
+    "region": "Tyria",
+    "levels": [
+      {
+        "name": "Seguire Consigli",
+        "description": "Con l'autorizzazione di Dessa, ottieni l'accesso a obiettivi giornalieri aggiuntivi e venditori speciali con oggetti unici all'interno dell'Osservatorio Blocconebbie.",
+        "instruction": "Hai sbloccato obiettivi giornalieri aggiuntivi per i frattali di grado 21–49. Ora puoi anche accedere ai venditori con oggetti speciali all'interno dell'Osservatorio Blocconebbie.",
+        "icon": "https://render.guildwars2.com/file/D763657543F51E1FB608D0CBBBF350C1F1CD14C9/1228657.png",
+        "point_cost": 1,
+        "exp_cost": 635000
+      },
+      {
+        "name": "Canalizzare Agonia",
+        "description": "L'esposizione prolungata all'agonia si tradurrà in ricompense migliorate all'interno dei dungeon frattali. Avrai anche accesso alle ricette della Forgia Mistica per aggiungere ulteriori spazi di infusione di agonia agli anelli ascesi. Le pozioni delle Nebbie daranno attributi bonus.",
+        "instruction": "Ora ricevi ricompense aggiuntive dai forzieri di boss dei dungeon frattali. I venditori ora vendono ingredienti per sintonizzare gli anelli nella Forgia Mistica, che forniscono ulteriori spazi di resistenza all'agonia sui tuoi anelli ascesi e infusi. Le pozioni delle Nebbie convertiranno anche una percentuale della tua resistenza all'agonia in attributi specifici, a seconda della pozione utilizzata.",
+        "icon": "https://render.guildwars2.com/file/11B70969E876E8DD00484B42553C3CEF947CE863/1228656.png",
+        "point_cost": 2,
+        "exp_cost": 1270000
+      },
+      {
+        "name": "Risorse Ricorsive",
+        "description": "Una maggiore sintonia con i frattali garantirà ricompense bonus da Forzieri delle Nebbie e Crittografie Frattali Sbloccate. Migliora anche la conversione delle pozioni Frattali.",
+        "instruction": "Ora ottieni ricompense bonus da Forzieri delle Nebbie e Crittografie Frattali. La conversione delle pozioni delle Nebbie è migliorata.",
+        "icon": "https://render.guildwars2.com/file/9D7273DC6F6211A636A74ED9F6CE3F932A23514C/1228659.png",
+        "point_cost": 3,
+        "exp_cost": 2222500
+      },
+      {
+        "name": "Singolarità Blocconebbie",
+        "description": "Ricerca come attivare le singolarità Blocconebbie salvavita all'interno dei Frattali delle Nebbie. Conversione delle pozioni Frattali migliora.",
+        "instruction": "Ora puoi attivare Singolarità Blocconebbie all'interno di dei Frattali delle Nebbie per ottenere una ricarica istantanea delle abilità, ulteriore resistenza all'agonia e uno scudo che può prevenire la morte all'interno dei dungeon frattali. La conversione delle pozioni Frattali è migliorata.",
+        "icon": "https://render.guildwars2.com/file/65ACE09437747DD1B84A5B9559DD75269A0EEB24/1228658.png",
+        "point_cost": 5,
+        "exp_cost": 3175000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Artigianato Leggendario",
+    "requirement": "",
+    "order": 1,
+    "background": "https://render.guildwars2.com/file/2E91B0BD09CF08991E079CFB1727412AB12427F4/1228719.png",
+    "region": "Tyria",
+    "levels": [
+      {
+        "name": "Antiquario Riverito",
+        "description": "Impara ad avviare il processo di creazione di un'arma leggendaria sbloccando l'accesso al primo livello delle collezioni di armi precursori.",
+        "instruction": "Ora puoi parlare con il Gran Maestro Artigiano Hobbs ad Arco del Leone per iniziare la collezione di armi precursori di primo livello per qualsiasi arma leggendaria.",
+        "icon": "https://render.guildwars2.com/file/EB666596D8CA19CBAD0B034FB3DB3F7E0B9D1C0F/1228671.png",
+        "point_cost": 1,
+        "exp_cost": 1270000
+      },
+      {
+        "name": "Mastro delle Leggende",
+        "description": "Apprendi informazioni sui componenti necessari per la creazione di armi precursori di secondo livello.",
+        "instruction": "Ora puoi acquistare i componenti necessari per la creazione di armi precursori di secondo livello dal Gran Maestro Artigiano Hobbs ad Arco del Leone.",
+        "icon": "https://render.guildwars2.com/file/0C5A24F4086C4FFFD105A0C9EAC480F8B95AC7B5/1228670.png",
+        "point_cost": 3,
+        "exp_cost": 2540000
+      },
+      {
+        "name": "Storico degli Armamenti",
+        "description": "Apprendi informazioni sui componenti necessari per la creazione di armi precursori di terzo e ultimo livello.",
+        "instruction": "Ora puoi acquistare i componenti necessari per la creazione di armi precursori di terzo livello dal Gran Maestro Artigiano Hobbs ad Arco del Leone.",
+        "icon": "https://render.guildwars2.com/file/4521EF3192316745EC58C4A8FEBA2FB2CE4AE577/1228669.png",
+        "point_cost": 6,
+        "exp_cost": 3810000
+      },
+      {
+        "name": "Studioso di Segreti",
+        "description": "Scopri le collezioni di armi leggendarie utilizzate per creare armi leggendarie di Cuore di Spine.",
+        "instruction": "Ora puoi acquistare i componenti necessari per la creazione di armi leggendarie di Cuore di Spine dal Gran Maestro Artigiano Hobbs ad Arco del Leone.",
+        "icon": "https://render.guildwars2.com/file/E4A5BBD50AF41EC2EF94C1483740AFEFB609199F/1228672.png",
+        "point_cost": 9,
+        "exp_cost": 5080000
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Deltaplano",
+    "requirement": "Viaggia nel cuore di Maguuma e completa il passaggio della storia \"Strappato dal Cielo\" per sbloccare l'accesso al percorso di Maestria Deltaplano.",
+    "order": 0,
+    "background": "https://render.guildwars2.com/file/68A54A21C030C5BA742603D3BF0305F344746F95/1228722.png",
+    "region": "Maguuma",
+    "levels": [
+      {
+        "name": "Basi di Planata",
+        "description": "Ottieni l'accesso a un deltaplano in modo da poter planare attraverso i punti più alti del Cuore di Maguuma e le mappe aperte di Tyria Centrale.",
+        "instruction": "Per planare, salta da un punto elevato, quindi premi di nuovo il tasto di salto mentre cadi.",
+        "icon": "https://render.guildwars2.com/file/A13A40AC0D4F0507780039C24B19D6E9C0D2FE1F/962098.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Correnti Ascensionali",
+        "description": "Il design migliorato delle maniglie del tuo deltaplano e delle fessure delle ali ti consente di volare con sicurezza in correnti ascensionali, permettendoti di guadagnare quota e viaggiare in luoghi precedentemente irraggiungibili.",
+        "instruction": "Le correnti ascensionali sono colonne di vento vorticoso che si trovano nella Giungla di Maguuma. Per utilizzare le correnti ascensionali, plana semplicemente su di esse e ricevi un aumento di elevazione.",
+        "icon": "https://render.guildwars2.com/file/27C9EDD3F2516E486299ABF50929E759F5BCC4E8/962097.png",
+        "point_cost": 2,
+        "exp_cost": 1016000
+      },
+      {
+        "name": "Tecniche di Inclinazione",
+        "description": "Impara la tecnica di planata inclinandoti in avanti per aumentare la velocità e piegandoti all'indietro per frenare a mezz'aria a scapito della resistenza. La tua tecnica migliorata aumenta anche la riserva di resistenza totale durante la planata.",
+        "instruction": "Per inclinarti avanti, premi avanti mentre plani e ottieni un aumento di velocità. Per appoggiarti all'indietro, premi indietro mentre plani per frenare.",
+        "icon": "https://render.guildwars2.com/file/4D1CAE2F963C7C205BB06C0572040AD33B5BEBD8/962096.png",
+        "point_cost": 3,
+        "exp_cost": 1778000
+      },
+      {
+        "name": "Planata Furtiva",
+        "description": "Impara a planare silenziosamente e inosservato nell'aria per brevi periodi schivando mentre plani.",
+        "instruction": "Per attivare l'invisibilità, esegui una schivata toccando due volte in qualsiasi direzione durante la planata.",
+        "icon": "https://render.guildwars2.com/file/610A10527F20E26DBF5402FD4131F1EDAAE6D960/962095.png",
+        "point_cost": 5,
+        "exp_cost": 2540000
+      },
+      {
+        "name": "Planata Avanzata",
+        "description": "Impara a planare con una tale efficienza che non usi più la resistenza per stare in aria, ma solo per eseguire tecniche di inclinazione.",
+        "instruction": "Ora puoi planare all'infinito senza usare la resistenza. Inclinarsi drena la resistenza.",
+        "icon": "https://render.guildwars2.com/file/FFD8BC49B85A794B729ABBE8DB1102F7D328D86A/962093.png",
+        "point_cost": 8,
+        "exp_cost": 3302000
+      },
+      {
+        "name": "Linee Energetiche",
+        "description": "Impara a entrare nei flussi delle linee energetiche mentre plani per essere spostato insieme al flusso, ottenendo l'accesso a luoghi altrimenti inaccessibili.",
+        "instruction": "Le linee energetiche sono flussi di energia magica che possono essere visti nella Giungla di Maguuma. Per usare le linee energetiche, plana semplicemente dentro di esse e lascia che il flusso di energia ti trasporti.",
+        "icon": "https://render.guildwars2.com/file/A003F17064F5300F0C0705E8DB76D4B3EF51CFD3/962094.png",
+        "point_cost": 12,
+        "exp_cost": 4318000
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Raid",
+    "requirement": "Entra nel Boschetto Abbandonato a Ciglio Verdeggiante e sconfiggi un boss per sbloccare.",
+    "order": 4,
+    "background": "https://render.guildwars2.com/file/64A43D09C00EBC0EF307A7C004EF05A8459F0907/1451827.png",
+    "region": "Maguuma",
+    "levels": [
+      {
+        "name": "Forgia Fessure",
+        "description": "Impara il controllo preciso della magia rilasciata nelle fessure da potenti nemici, permettendoti di riparare la tua armatura manipolandone l'energia.",
+        "instruction": "Ripara la tua armatura usando le fessure di potere nei luoghi in cui hai sconfitto un potente nemico.",
+        "icon": "https://render.guildwars2.com/file/FB2D7C981E2E09725139220DCC90E308170AB7FE/1302710.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Lancio Esplosivo",
+        "description": "I nani possono aver inventato la polvere nera, ma puoi perfezionarne l'uso. Impara a lanciarti a grandi altezze in sicurezza con uno scoppio esplosivo, senza bruciarti i calzini.",
+        "instruction": "Ora non subisci danni quando tu o un alleato vi lanciate da una piattaforma di lancio esplosiva.",
+        "icon": "https://render.guildwars2.com/file/2D4C0BF20D2A1C0B041DC3D5357C0D67225E7479/1302709.png",
+        "point_cost": 1,
+        "exp_cost": 1016000
+      },
+      {
+        "name": "Acque del Boschetto Abbandonato",
+        "description": "Le acque del Boschetto Abbandonato sono note per avere proprietà purificanti che possono curare varie afflizioni. Coloro che possiedono questa Maestria possono lavare via i loro disturbi e afflizioni quando si presenta l'occasione.",
+        "instruction": "You can now bathe in the healing Forsaken Thicket waters and cleanse your afflictions.",
+        "icon": "https://render.guildwars2.com/file/6120204BB9070AD428112705E3C9145EB33203BD/1377784.png",
+        "point_cost": 3,
+        "exp_cost": 1524000
+      },
+      {
+        "name": "Magia Abbandonata",
+        "description": "Impara a sfruttare la potente energia che permea il Boschetto Abbandonato e ottieni vantaggi in battaglia.",
+        "instruction": "Ora capisci la magia del Boschetto Abbandonato.",
+        "icon": "https://render.guildwars2.com/file/61D637CA3D6F5D355CDC3FAD3CB1DB0DDE34DE67/1451810.png",
+        "point_cost": 3,
+        "exp_cost": 3048000
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Magie Antiche",
+    "requirement": "Viaggia a Palude della Pietra Insanguinata o Baia dei Tizzoni per sbloccare.",
+    "order": 6,
+    "background": "https://render.guildwars2.com/file/929FEABC05B4C9CAA978E0680908E4735CC2C5BC/1477050.png",
+    "region": "Maguuma",
+    "levels": [
+      {
+        "name": "Contrasta Magia",
+        "description": "Basandosi su un'antica ricerca asurana condotta dal supergenio Zinn, Taimi ha escogitato un modo per contrastare alcune potenti abilità magiche. Impara questa Maestria per ottenere l'accesso all'azione speciale Contrasta Magia che ti consente di respingere gli attacchi del tuo nemico su se stesso.",
+        "instruction": "Usa l'azione speciale Contrasta Magia per annullare alcune potenti abilità magiche usate dai nemici.",
+        "icon": "https://render.guildwars2.com/file/097B5405639D54EFFD29C600B312ACBDBFDD250D/1477049.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Propulsione Termica",
+        "description": "Quando i nani affrontarono Primordus, impararono molto sul viaggiare attraverso il nucleo riscaldato di Tyria. Impara questa Maestria per percorrere lunghe distanze come facevano i nani.",
+        "instruction": "Utilizza la propulsione termica per percorrere lunghe distanze.",
+        "icon": "https://render.guildwars2.com/file/14AB963FFAA679D6ADC625E6E538DA47CBF1EF34/1494369.png",
+        "point_cost": 3,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Fiamma di Koda",
+        "description": "Conferisce la capacità di esercitare la magia del fuoco kodana basata su uno spirito di fiamma che è stato domato in tempi antichi. L'apprendimento di questa maestria sbloccherà la prima abilità mentre si trasporta la Fiamma di Koda. Visita i portafiamma kodani per apprendere ulteriori abilità.",
+        "instruction": "Raccogli una torcia Fiamma di Koda dai bracieri sparsi per Frontiera Geloamaro e Tyria.",
+        "icon": "https://render.guildwars2.com/file/B809083AAF97000B38A309EB57DB9EED2A9BBB5A/1601946.png",
+        "point_cost": 3,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Aiuto Spettrale",
+        "description": "Le magie antiche persistono ancora nel mondo di Tyria e coloro che sono particolarmente in sintonia con esse a volte possono invocarle nei momenti di grande bisogno. Impara questa maestria per sbloccare un'abilità extra da usare mentre sei abbattuto.",
+        "instruction": "Quando sei abbattuto, considera di usare la tua nuova abilità per respingere i nemici rimanenti.",
+        "icon": "https://render.guildwars2.com/file/FCFA76723249B00D35FDED21DFD2CC409F4F26D3/1635191.png",
+        "point_cost": 3,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Portata del Cuore di Quercia",
+        "description": "Gli antichi druidi avevano il potere di manipolare la natura. Impara questa Maestria per raccogliere l'essenza di Cuore di Quercia, che ti permette di raggiungere nuove vette usando i rampicanti magici.",
+        "instruction": "Trova una delle essenze di Cuore di Quercia per ottenere la capacità di lanciarti verso punti mirati. Questa abilità può essere utilizzata anche mentre si plana.",
+        "icon": "https://render.guildwars2.com/file/0BD302C32B7A66659536C9F4F5C4087A1B13E878/1677329.png",
+        "point_cost": 7,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Sirena di Orr",
+        "description": "Antichi accordi di lamentazioni a lungo dimenticate risuonano ancora in Orr. Coloro che hanno imparato ad ascoltarli sono in grado di usare nenie di potere, manifestandoe abilità perse nelle pagine della storia.",
+        "instruction": "Ogni volta che appare un Coro di Echi durante il combattimento, interagisci con esso per acquisire un canto funebre casuale. Esegui questi canti funebri per aiutare gli alleati e ostacolare i nemici.",
+        "icon": "https://render.guildwars2.com/file/24360325D7E12F6E5FE5CD4A23055FF8704B4123/1730817.png",
+        "point_cost": 7,
+        "exp_cost": 508000
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Cavalcatura Raptor",
+    "requirement": "Completa l'incarico nella zona del Villaggio dei Cercatori nell'Oasi per sbloccare il Percorso di Maestria del Raptor.",
+    "order": 1,
+    "background": "https://render.guildwars2.com/file/23050D7A5B71477A0201FB1EAFC84A0645E7B772/1770237.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Assalto Vorace",
+        "description": "Comprendi la vera natura famelica del raptor, aumentando notevolmente il danno di Codata Rotante.",
+        "instruction": "Codata Rotante ora infligge danni notevolmente aumentati ai nemici.",
+        "icon": "https://render.guildwars2.com/file/37ECAA1A2B9A60FC63C59C99A6D0E7F418FA3839/1770184.png",
+        "point_cost": 1,
+        "exp_cost": 291846
+      },
+      {
+        "name": "Adunata",
+        "description": "Impara a radunare i nemici quando usi Codata Rotante, trascinandoli nella tua posizione.",
+        "instruction": "Codata Rotante ora attira i nemici nella tua posizione, raggruppandoli per il combattimento.",
+        "icon": "https://render.guildwars2.com/file/DD07AF0FEECE67AD112E45EB4E6366454216B966/1770197.png",
+        "point_cost": 2,
+        "exp_cost": 261366
+      },
+      {
+        "name": "Saltare Burroni",
+        "description": "Impara a saltare molto più lontano con l'abilità di movimento del raptor, permettendoti di attraversare terreni ancora più accidentati.",
+        "instruction": "L'abilità di movimento di salto ora percorrerà distanze molto maggiori.",
+        "icon": "https://render.guildwars2.com/file/AF269F5D52B2B13A3CF76B800590C64940DA542D/1770198.png",
+        "point_cost": 3,
+        "exp_cost": 368808
+      },
+      {
+        "name": "Disciplina Vorace",
+        "description": "Padroneggia la cavalcatura raptor e impara a condividere il bonus di Assalto Vorace con le abilità di ingaggio di tutte le cavalcatura.",
+        "instruction": "Tutte le cavalcature ora ricevono il bonus di Assalto Vorace, aumentando il danno delle abilità di ingaggio.",
+        "icon": "https://render.guildwars2.com/file/DAB770DEE1E0BCA673CF2D1DD2F69CAD0CD4469C/1770199.png",
+        "point_cost": 4,
+        "exp_cost": 1697354
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Cavalcatura Manta Rincope",
+    "requirement": "Completa l'incarico nella zona dell'Allevamento di Mante Rincope nelle Terre Fluviali di Elon per sbloccare il Percorso di Maestria della Manta Rincope.",
+    "order": 3,
+    "background": "https://render.guildwars2.com/file/9E3C519270CEECA95E107DA27B980C7A1AC6AAF9/1770240.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Recupero Agile",
+        "description": "Impara a recuperare agilmente dopo essere stato buttato giù dalla manta rincope e dopo aver ingaggiato i nemici usando Avvitamento. La Manta Rincope ora ti garantirà protezione e rapidità durante il recupero.",
+        "instruction": "Ora ti verranno concessi rapidità e protezione dopo essere stato buttato giù dalla tua cavalcatura o dopo aver ingaggiato i nemici con Avvitamento. (Ricarica: 10s)",
+        "icon": "https://render.guildwars2.com/file/A53BD8727C2461B0947917A5CCA50F4CB891DD12/1770193.png",
+        "point_cost": 2,
+        "exp_cost": 381000
+      },
+      {
+        "name": "Rinascita Ringiovanente",
+        "description": "Impara a potenziare le proprietà ringiovanenti di Avvitamento per curare anche gli alleati abbattuti.",
+        "instruction": "Ora puoi curare gli alleati abbattuti quando li attraversi con Avvitamento.",
+        "icon": "https://render.guildwars2.com/file/2FEB071CB9E932046495B44BD32A0B3F027EA201/1770194.png",
+        "point_cost": 3,
+        "exp_cost": 457200
+      },
+      {
+        "name": "Cavalca il Vento",
+        "description": "Impara a cavalcare il vento e aumenta l'altezza dell'abilità' di movimento di librarsi per conquistare nuovi traguardi.",
+        "instruction": "L'abilità di movimento ora si libra a un'altezza molto maggiore.",
+        "icon": "https://render.guildwars2.com/file/227FDDF0DB0B4104CCF143D04851130A1063B6A9/1770195.png",
+        "point_cost": 4,
+        "exp_cost": 558800
+      },
+      {
+        "name": "Benevolenza Agile",
+        "description": "Padroneggia la manta rincope e impara a condividere il bonus di Recupero Agile con tutte le cavalcature.",
+        "instruction": "Tutte le cavalcature ora ricevono il bonus di Recupero Agile. Cadere dalla cavalcatura o ingaggiare nemici garantirà rapidità e protezione. (Ricarica: 10s)",
+        "icon": "https://render.guildwars2.com/file/AF5F616037EB6AA8DEDD944BF241460EC43847DF/1770196.png",
+        "point_cost": 5,
+        "exp_cost": 1222375
+      },
+      {
+        "name": "Sfiorando le Profondità",
+        "description": "Usa tutto quello che hai imparato per insegnare alla tua manta rincope ad immergersi sott'acqua.",
+        "instruction": "Allena la tua manta rincope per immergerti sotto la superficie dell'acqua.",
+        "icon": "https://render.guildwars2.com/file/551A131E52F7BB353404E15A3EA3020E52A2C5E3/2329549.png",
+        "point_cost": 8,
+        "exp_cost": 2000000
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Cavalcatura Grifone",
+    "requirement": "Completa l'avventura Addestramento del Grifone nel Dominio di Vabbi per sbloccare il Percorso di Maestria del Grifone.",
+    "order": 6,
+    "background": "https://render.guildwars2.com/file/C1F1C2410F0203BB43EEFD01FE9FC3FB1F785FE6/1824252.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Soccorso Aereo",
+        "description": "Impara a montare sul grifone a mezz'aria per salvarti mentre cadi.",
+        "instruction": "Ora puoi montare sul grifone a mezz'aria. Mentre sei in aria, usa il tasto di scelta rapida della cavalcatura per saltare sul grifone.",
+        "icon": "https://render.guildwars2.com/file/3A0E5BAAB3FEFDE7B465703C63B0EC61C22094AE/1824227.png",
+        "point_cost": 3,
+        "exp_cost": 571500
+      },
+      {
+        "name": "Abilità Aerea",
+        "description": "Impara ad acquisire abilità aeree con il tuo grifone. Usa Picchiata per tuffarti rapidamente e ingaggiare i nemici sotto di te. Usa questo slancio per tirarti su da un'immersione per volare in avanti a grandi velocità, o anche direttamente verso l'alto.",
+        "instruction": "Usa Picchiata per tuffarti verso terra e ingaggiare i nemici sotto di te, o entra nello stato di picchiata usando l'abilità di movimento 1. Quando guadagni una velocità di picchiata sostanziale, usa l'abilità di movimento 2 o il tasto di movimento all'indietro per portare il tuo slancio verso l'alto.",
+        "icon": "https://render.guildwars2.com/file/CECD576710393748E9B500ECE1387E33BFF1CE1D/1824228.png",
+        "point_cost": 4,
+        "exp_cost": 609600
+      },
+      {
+        "name": "Eleganza Aerea",
+        "description": "Padroneggia il grifone imparando a usare la sua abilità Battito d'Ala, che ti consente di ottenere un'esplosione di velocità mentre ti tuffi o sali nel cielo.",
+        "instruction": "Ora è possibile utilizzare Battito d'Ala durante la picchiata e il sollevamento per ottenere un'esplosione di velocità nella direzione del movimento.",
+        "icon": "https://render.guildwars2.com/file/66591AC7EF0236283C2FB557945C264C3748E57B/1824229.png",
+        "point_cost": 5,
+        "exp_cost": 698500
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Coniglio del Deserto",
+    "requirement": "Completa l'incarico nella zona dell'Allevamento Saltalto negli Altopiani del Deserto per sbloccare il Percorso di Maestria del Coniglio del Deserto.",
+    "order": 2,
+    "background": "https://render.guildwars2.com/file/D46208E42E1B53790D485D05473F2A081145806B/1770239.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Discesa Fortificata",
+        "description": "Impara a fortificare il tuo atterraggio quando cadi da grandi altezze, aumentando notevolmente la tua tolleranza per subire danni da caduta sul coniglio del deserto.",
+        "instruction": "Il coniglio del deserto ora avrà una maggiore tolleranza ai danni da caduta, permettendoti di cadere in sicurezza da posizioni più alte.",
+        "icon": "https://render.guildwars2.com/file/E7536A4F22F60F640FCAC3C4B7B84AD909573245/1770189.png",
+        "point_cost": 2,
+        "exp_cost": 381000
+      },
+      {
+        "name": "Impatto Impetuoso",
+        "description": "Impara a creare un impatto più potente quando usi Palla di Cannone, abbattendo i nemici.",
+        "instruction": "Palla di Cannone ora abbatterà i nemici, lasciandoli disabilitati mentre li ingaggi.",
+        "icon": "https://render.guildwars2.com/file/D57F504CD5F3B19D7A25381433160047F512FA9B/1770190.png",
+        "point_cost": 3,
+        "exp_cost": 457200
+      },
+      {
+        "name": "Volta Alta",
+        "description": "Impara a saltare molto più in alto con l'abilità di movimento del coniglio del deserto, permettendoti di raggiungere aree nuove e precedentemente inesplorabili.",
+        "instruction": "L'abilità di movimento di salto caricato dello springer ora sarà in grado di raggiungere distanze molto più elevate.",
+        "icon": "https://render.guildwars2.com/file/50EFB2B1309230BCDC4E1FFCF44223BF1E1FE077/1770191.png",
+        "point_cost": 4,
+        "exp_cost": 558800
+      },
+      {
+        "name": "Discesa Magistrale",
+        "description": "Padroneggia la cavalcatura coniglio del deserto e impara a condividere il bonus della Discesa Fortificata con tutte le altre cavalcature.",
+        "instruction": "Tutte le cavalcature ora ricevono il bonus di Discesa Fortificata, che conferisce loro una maggiore tolleranza ai danni da caduta.",
+        "icon": "https://render.guildwars2.com/file/2BE13847756FBBFC06906DF1D7BD68FB961EDE26/1770192.png",
+        "point_cost": 5,
+        "exp_cost": 1222375
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Cavalcatura Sciacallo",
+    "requirement": "Completa l'incarico nella zona della Corsa dello Sciacallo delle Sabbie nella Desolazione per sbloccare il Percorso di Maestria dello Sciacallo.",
+    "order": 4,
+    "background": "https://render.guildwars2.com/file/0343626BF40452A6466C71EBA1539A0204354C01/1770238.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Evasione Migliorata",
+        "description": "Impara a schivare gli attacchi mentre usi l'abilità di movimento dello sciacallo e usala nei momenti opportuni per evitare grandi attacchi.",
+        "instruction": "L'abilità di movimento dello sciacallo ora ti consente di evitare tutti gli attacchi in arrivo. Premi salta o l'abilità 1 della cavalcatura per schivare.",
+        "icon": "https://render.guildwars2.com/file/AF0023D07150070DE849074FB02FC844B3265769/1770185.png",
+        "point_cost": 2,
+        "exp_cost": 381000
+      },
+      {
+        "name": "Rafforza Alleati",
+        "description": "Impara a usare la sabbia dello sciacallo per sostenere gli alleati quando usi Balzo, garantendo agli alleati vicini una forte barriera.",
+        "instruction": "Balzo ora garantirà agli alleati vicini una forte barriera.",
+        "icon": "https://render.guildwars2.com/file/47F942D39FF16CCBFEF656CDEF0BC038621E6DD5/1770186.png",
+        "point_cost": 3,
+        "exp_cost": 457200
+      },
+      {
+        "name": "Sabbie Mobili",
+        "description": "Impara a spostarti attraverso i portali di sabbia trovati in tutto il deserto per raggiungere luoghi nuovi e nascosti.",
+        "instruction": "Ora puoi usare i portali di sabbia per raggiungere nuovi luoghi mentre cavalchi lo sciacallo.",
+        "icon": "https://render.guildwars2.com/file/45EF9D3F40C16D47E679ACE1FF213ED46D33A0D7/1770187.png",
+        "point_cost": 4,
+        "exp_cost": 558800
+      },
+      {
+        "name": "Evasione Abile",
+        "description": "Padroneggia lo sciacallo e impara a condividere il bonus dell'Elusione Migliorata con tutte le cavalcature tramite le loro abilità di movimento.",
+        "instruction": "Tutte le cavalcature ora ricevono il bonus Evasione Migliorata, che consente alle loro capacità di movimento di eludere gli attacchi ostili.",
+        "icon": "https://render.guildwars2.com/file/1FC128CD155E1405F932F7C7DEFC726AB55A3B06/1770188.png",
+        "point_cost": 5,
+        "exp_cost": 1222375
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Campione di Cristallo",
+    "requirement": "Viaggia verso il Dominio di Istan per sbloccare.",
+    "order": 8,
+    "background": "https://render.guildwars2.com/file/020C6454737408ED437D9D7E6D096872F5D66B73/1896046.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Risonanza Magia Volatile",
+        "description": "Padroneggia il tuo legame con Aurene in modo da poter raccogliere in sicurezza Magia Volatile.",
+        "instruction": "Aurene ti ha donato la capacità di raccogliere Magia Volatile, altrimenti sarebbe pericolosa al tocco.",
+        "icon": "https://render.guildwars2.com/file/FB3B072FAF616538166C5802BCB701313BB8A47B/1896038.png",
+        "point_cost": 2,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Legame Vitale",
+        "description": "Padroneggia il tuo legame con Aurene in modo che possa permetterti di condividere la tua salute con la tua cavalcatura.",
+        "instruction": "Aurene ti ha concesso la possibilità di condividere temporaneamente la tua riserva di salute con la tua cavalcatura attiva.",
+        "icon": "https://render.guildwars2.com/file/B36BD2E2A82367F40C280B47787C164A9BF2D9D1/1948147.png",
+        "point_cost": 3,
+        "exp_cost": 1016000
+      },
+      {
+        "name": "Legame Vigoroso",
+        "description": "Padroneggia il tuo legame con Aurene in modo che possa farti ripristinare la resistenza della tua cavalcatura.",
+        "instruction": "Aurene ti ha concesso la capacità di ripristinare la resistenza della tua cavalcatura attiva.",
+        "icon": "https://render.guildwars2.com/file/A02FB23C6FDD08E00FBFAD55BFB912904F04B572/2039796.png",
+        "point_cost": 4,
+        "exp_cost": 1016000
+      },
+      {
+        "name": "Legame di Fede",
+        "description": "Padroneggia il tuo legame con Aurene in modo che possa prestarti ali magiche, permettendoti di lanciarti dalle tue cavalcature.",
+        "instruction": "Il tuo legame con Aurene ti ha concesso la possibilità di lanciarti dalle cavalcature.",
+        "icon": "https://render.guildwars2.com/file/1566A00060ECB0D93DFBADB22542CF6B0C0ED540/2084754.png",
+        "point_cost": 5,
+        "exp_cost": 1016000
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Cavalcatura Rotolottero",
+    "requirement": "Completa la collezione della cavalcatura rotolottero per sbloccare il percorso di Maestria del Rotolottero.",
+    "order": 5,
+    "background": "https://render.guildwars2.com/file/BF3A0B31191F79CB1B900F0138EF0EBC069BE1CA/1999773.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Palla da Demolizione",
+        "description": "Impara a scagliare nemici a una breve distanza rotolandoci sopra con l'abilità d'ingaggio del tuo rotolottero, Spianata.",
+        "instruction": "Spianata danneggia i nemici quando ci passi sopra e li lanci a breve distanza.",
+        "icon": "https://render.guildwars2.com/file/FBEE0C6134DC00ED70CE92DD3A9A4FD2304C7CC9/1999766.png",
+        "point_cost": 3,
+        "exp_cost": 571500
+      },
+      {
+        "name": "Sfonda Barriere",
+        "description": "Fatti strada in aree segrete e distruggi i cristalli volatili con il tuo rotolottero. Recupera la resistenza quando il tuo rotolottero colpisce i muri.",
+        "instruction": "Usa l'abilità di accelerata del tuo rotolottero o l'abilità Spianata per sfondare i blocchi contrassegnati e distruggere i cristalli volatili. Recupera la resistenza quando il tuo rotolottero si scontra con i muri ad alta velocità.",
+        "icon": "https://render.guildwars2.com/file/32A13C006364EB2EB421D395D634923CF72C416B/1999767.png",
+        "point_cost": 4,
+        "exp_cost": 609600
+      },
+      {
+        "name": "Numeri Aerei",
+        "description": "Impara a eseguire eleganti acrobazie aeree dopo aver accelerato per riguadagnare la resistenza.",
+        "instruction": "Premi e tieni premuto il pulsante di salto dopo aver accelerato per eseguire  incredibili acrobazie in aria. I numeri rimangono attivi e ripristinano la resistenza mentre si tiene premuto il pulsante di salto. Verrà data una penalità sulla resistenza per atterraggi impropri.",
+        "icon": "https://render.guildwars2.com/file/72966734E0F4E6EBC37C39272A0CF74B5E9DB992/1999768.png",
+        "point_cost": 5,
+        "exp_cost": 698500
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cavalcatura Scaglia Celeste",
+    "requirement": "Completa la collezione della cavalcatura scaglia celeste per sbloccare il percorso di Maestria dello Scaglia Celeste.",
+    "order": 7,
+    "background": "https://render.guildwars2.com/file/F25BD14B42D20C985C1E0E0A012C23BA9204542C/2141729.png",
+    "region": "Desert",
+    "levels": [
+      {
+        "name": "Soccorso Aereo",
+        "description": "Impara a montare sullo scaglia celeste a mezz'aria per salvarti mentre cadi.",
+        "instruction": "Ora puoi montare sul tuo scaglia celeste a mezz'aria. Mentre sei in alto, usa il tasto di scelta rapida per salire sullo scaglia celeste.",
+        "icon": "https://render.guildwars2.com/file/ED7865C74DFBA540E9AADB3A9BF57D4948ED9603/2141722.png",
+        "point_cost": 3,
+        "exp_cost": 571500
+      },
+      {
+        "name": "Ripara Fessure",
+        "description": "Impara a usare le risorse magiche del tuo scaglia celeste per chiudere fessure. Questo estrarrà la magia intrappolata all'interno e rivelerà nuovi percorsi di volo.",
+        "instruction": "Librarti accanto alle spaccature le chiuderà e rivelerà le traiettorie di volo per il tuo scaglia celeste. Seguili per reclamare il tesoro alla fine. Ma non perdere nessun nodo lungo la strada! La tua ricompensa finale è più grande se prendi ogni nodo.",
+        "icon": "https://render.guildwars2.com/file/DAF8441D5F16045919EB5E0FB1DD0D05C8B5409A/2141723.png",
+        "point_cost": 4,
+        "exp_cost": 609600
+      },
+      {
+        "name": "Parete di Lancio",
+        "description": "Impara a lanciarti dai muri con il tuo scaglia celeste, fornendo un momento di tregua e la capacità di volare a maggiori altezze.",
+        "instruction": "Mentre ti aggrappi a un muro con il tuo scaglia celeste, tieni premuto il tasto di salto per caricare il misuratore di volo e rilascialo per lanciarti in aria. Ciò richiede almeno una barra di resistenza.",
+        "icon": "https://render.guildwars2.com/file/343EAADBB2060248C6791A0C085269A17B43E9EF/2141724.png",
+        "point_cost": 5,
+        "exp_cost": 698500
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Manipolazione Essenza di Resistenza",
+    "requirement": "Ottieni \"Luce del Corvo\".",
+    "order": 2,
+    "background": "https://render.guildwars2.com/file/020F17C85826799AD14DBFF30B06B1FCC89A3170/2221482.png",
+    "region": "Tundra",
+    "levels": [
+      {
+        "name": "Essenza di Resilienza Livello 1",
+        "description": "Connettiti con l'Essenza di Resilienza e ottieni un vantaggio sul valore.",
+        "instruction": "La tua connessione con l'Essenza di Resilienza ti da maggiori capacità di combattimento contro il valore.",
+        "icon": "https://render.guildwars2.com/file/75F91116806A30136A7618924FDE58D82C03D4D6/2221451.png",
+        "point_cost": 1,
+        "exp_cost": 381000
+      },
+      {
+        "name": "Essenza di Resilienza Livello 2",
+        "description": "Connettiti con l'Essenza di Resilienza e ottieni un vantaggio sul valore.",
+        "instruction": "La tua connessione con l'Essenza di Resilienza ti da maggiori capacità di combattimento contro il valore.",
+        "icon": "https://render.guildwars2.com/file/DE11A5B3C2D557C84C2EE89138FD6DCBF6140F03/2221452.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Essenza di Resilienza Livello 3",
+        "description": "Connettiti con l'Essenza di Resilienza e ottieni un vantaggio sul valore.",
+        "instruction": "La tua connessione con l'Essenza di Resilienza ti da maggiori capacità di combattimento contro il valore.",
+        "icon": "https://render.guildwars2.com/file/FD3DD24923DC7F10052CEAD235D8EE54AB431125/2248217.png",
+        "point_cost": 2,
+        "exp_cost": 762000
+      },
+      {
+        "name": "Essenza di Resilienza Livello 4",
+        "description": "Connettiti con l'Essenza di Resilienza e ottieni un vantaggio sul valore.",
+        "instruction": "La tua connessione con l'Essenza di Resilienza ti da maggiori capacità di combattimento contro il valore. Nova Spirituale ora può essere usato su creature con qualsiasi essenza.",
+        "icon": "https://render.guildwars2.com/file/D2040DA6A634C2D65103C3BE3AC6DFF2382B4AC7/2293640.png",
+        "point_cost": 3,
+        "exp_cost": 1349000
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Sintonia col Corvo",
+    "requirement": "Viaggia alle Frontiere di Bjora per sbloccare.",
+    "order": 1,
+    "background": "https://render.guildwars2.com/file/05B8DBF70702F6D598E17199D56B4172C0D836BB/2221483.png",
+    "region": "Tundra",
+    "levels": [
+      {
+        "name": "Legame col Corvo",
+        "description": "Padroneggia il tuo legame con Spirito Corvo per aprire le serrature del Corvo.",
+        "instruction": "Ora puoi aprire le serrature del Corvo.",
+        "icon": "https://render.guildwars2.com/file/0EC978B80A6ED4BAE178C509275F91530158BB06/2221453.png",
+        "point_cost": 1,
+        "exp_cost": 127000
+      },
+      {
+        "name": "Luce del Corvo",
+        "description": "Padroneggia il tuo legame con il Corvo per attivare le barriere del Corvo e i santuari di luce del Corvo.",
+        "instruction": "Ora puoi attivare le barriere del Corvo e i santuari di luce del Corvo.",
+        "icon": "https://render.guildwars2.com/file/1B172CF84525EBB14C1305E4790495E87D104B91/2221454.png",
+        "point_cost": 1,
+        "exp_cost": 635000
+      },
+      {
+        "name": "Volo del Corvo",
+        "description": "Padroneggia il tuo legame con il Corvo per passare attraverso le porte del Corvo.",
+        "instruction": "Usa la Lente del Corvo per interagire con le porte del Corvo.",
+        "icon": "https://render.guildwars2.com/file/544FB2F2767E4F720B44ED02089DFF3058536200/2248219.png",
+        "point_cost": 2,
+        "exp_cost": 1270000
+      },
+      {
+        "name": "Brillio del Corvo",
+        "description": "Padroneggia il tuo legame con il Corvo e ricevi bonus maggiori dalle porte e dalle barriere del Corvo.",
+        "instruction": "Durata della barriera raddoppiata. L'uso delle porte del corvo conferisce un aumento di velocità.",
+        "icon": "https://render.guildwars2.com/file/10FD02186A03250406F86F6B4414951AF67D5451/2248218.png",
+        "point_cost": 2,
+        "exp_cost": 1600000
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Manipolazione Essenza di Vigilanza",
+    "requirement": "Ottieni \"Luce del Corvo\".",
+    "order": 4,
+    "background": "https://render.guildwars2.com/file/F1B3470C44366DE99551F15AB709AE0169E5B4F2/2221481.png",
+    "region": "Tundra",
+    "levels": [
+      {
+        "name": "Essenza di Vigilanza Livello 1",
+        "description": "Connettiti con l'Essenza di Vigilanza e ottieni un vantaggio sulla resilienza.",
+        "instruction": "La tua connessione con l'Essenza di Vigilanza ti da maggiori capacità di combattimento contro la resilienza.",
+        "icon": "https://render.guildwars2.com/file/B89CA8B20BBAE47BDC406BAA95B459FDAB01D776/2221449.png",
+        "point_cost": 1,
+        "exp_cost": 381000
+      },
+      {
+        "name": "Essenza di Vigilanza Livello 2",
+        "description": "Connettiti con l'Essenza di Vigilanza e ottieni un vantaggio sulla resilienza.",
+        "instruction": "La tua connessione con l'Essenza di Vigilanza ti da maggiori capacità di combattimento contro la resilienza.",
+        "icon": "https://render.guildwars2.com/file/EE1510D8975FF744C6DE3BBF7030F105D9440B0B/2221450.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Essenza di Vigilanza Livello 3",
+        "description": "Connettiti con l'Essenza di Vigilanza e ottieni un vantaggio sulla resilienza.",
+        "instruction": "La tua connessione con l'Essenza di Vigilanza ti da maggiori capacità di combattimento contro la resilienza.",
+        "icon": "https://render.guildwars2.com/file/BB2408EE3B259BE945C2191514C299BF5EA35601/2248216.png",
+        "point_cost": 2,
+        "exp_cost": 762000
+      },
+      {
+        "name": "Essenza di Vigilanza Livello 4",
+        "description": "Connettiti con l'Essenza di Vigilanza e ottieni un vantaggio sulla resilienza.",
+        "instruction": "La tua connessione con l'Essenza di Vigilanza ti da maggiori capacità di combattimento contro la resilienza. Psiche Infranta ora può essere usato su creature con qualsiasi essenza.",
+        "icon": "https://render.guildwars2.com/file/C522A233DE9EB57E42329D9EC8F95F079908EE72/2293639.png",
+        "point_cost": 3,
+        "exp_cost": 1349000
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Manipolazione Essenza di Valore",
+    "requirement": "Ottieni \"Luce del Corvo\".",
+    "order": 3,
+    "background": "https://render.guildwars2.com/file/C2AF7CD2EBA0277C1E944D19CE19D1BAF7301EDA/2221484.png",
+    "region": "Tundra",
+    "levels": [
+      {
+        "name": "Essenza di Valore Livello 1",
+        "description": "Connettiti con l'Essenza di Valore e ottieni un vantaggio sulla vigilanza.",
+        "instruction": "La tua connessione con l'Essenza di Valore ti da maggiori capacità di combattimento contro la vigilanza.",
+        "icon": "https://render.guildwars2.com/file/5F68B3E8AA176BACB7A5A73CDC2DBA220A0251AE/2221455.png",
+        "point_cost": 1,
+        "exp_cost": 381000
+      },
+      {
+        "name": "Essenza di Valore Livello 2",
+        "description": "Connettiti con l'Essenza di Valore e ottieni un vantaggio sulla vigilanza.",
+        "instruction": "La tua connessione con l'Essenza di Valore ti da maggiori capacità di combattimento contro la vigilanza.",
+        "icon": "https://render.guildwars2.com/file/75D1D8EB0F2309E5499522AC54EFCAE6FB756D5F/2221456.png",
+        "point_cost": 1,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Essenza di Valore Livello 3",
+        "description": "Connettiti con l'Essenza di Valore e ottieni un vantaggio sulla vigilanza.",
+        "instruction": "La tua connessione con l'Essenza di Valore ti da maggiori capacità di combattimento contro la vigilanza.",
+        "icon": "https://render.guildwars2.com/file/034C723ACF29C806D5D4067CBA931F4A9D49CEDD/2248220.png",
+        "point_cost": 2,
+        "exp_cost": 762000
+      },
+      {
+        "name": "Essenza di Valore Livello 4",
+        "description": "Connettiti con l'Essenza di Valore e ottieni un vantaggio sulla vigilanza.",
+        "instruction": "La tua connessione con l'Essenza di Valore ti da maggiori capacità di combattimento contro la vigilanza. Terrore Notturno ora può essere usato su creature con qualsiasi essenza.",
+        "icon": "https://render.guildwars2.com/file/E82BF4A4C8B0EDF2EE05475511EE16980335F8F0/2293641.png",
+        "point_cost": 3,
+        "exp_cost": 1349000
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Sincronizzazione Stazioni delle Legioni Unite",
+    "requirement": "Viagga nella Costa Boscopioggerella per sbloccare.",
+    "order": 5,
+    "background": "https://render.guildwars2.com/file/AB79F9789F16B8F8B99D0D22E16A60630C33FDCC/2293646.png",
+    "region": "Tundra",
+    "levels": [
+      {
+        "name": "Impulso Elettromagico",
+        "description": "Interagisci con le Stazioni delle Legioni Unite lungo la Costa Boscopioggerella, e ottieni l'azione speciale Impulso Elettromagico dalla Legione di Cenere.",
+        "instruction": "Ora puoi interagire con le Stazioni delle Legioni Unite lungo la Costa Boscopioggerella e ottenere l'azione speciale IEM della Legione di Cenere.",
+        "icon": "https://render.guildwars2.com/file/374F08B7AE09540E5DB0D2B057303FC10854BE2B/2293636.png",
+        "point_cost": 1,
+        "exp_cost": 381000
+      },
+      {
+        "name": "Carica Remota",
+        "description": "Aggiunge l'azione speciale Carica Remota della Legione di Ferro alle opzioni della Stazione delle Legioni Unite.",
+        "instruction": "Ora puoi selezionare l'azione speciale Carica Remota della Legione di Ferro dalle Stazione delle Legioni Unite.",
+        "icon": "https://render.guildwars2.com/file/6FFE7134F70F5F080A62689ED47E0A290406C458/2293637.png",
+        "point_cost": 2,
+        "exp_cost": 508000
+      },
+      {
+        "name": "Stazione Portatile",
+        "description": "Usa consumabili per costruire stazioni portatili ovunque nel mondo aperto.",
+        "instruction": "Ora puoi acquistare consumabili dalle Stazioni delle Legioni Unite che schiererà una stazione portatile nella tua posizione.",
+        "icon": "https://render.guildwars2.com/file/B6B02B0102B926ACB69C3B7C4EDE7F59F35736B2/2293638.png",
+        "point_cost": 3,
+        "exp_cost": 762000
+      },
+      {
+        "name": "Medizooka della Legione di Ferro",
+        "description": "Aggiunge l'azione speciale Medizooka alle opzioni della Stazione delle Legioni Unite.",
+        "instruction": "Ora puoi selezioneare l'azione speciale Medizooka dalle Stazioni delle Legioni Unite.",
+        "icon": "https://render.guildwars2.com/file/F6D895430F35309FE07D95B60E0C3534F10E4A51/2314932.png",
+        "point_cost": 3,
+        "exp_cost": 1524000
+      },
+      {
+        "name": "Cavalcatura Furtiva della Legione di Cenere",
+        "description": "Padroneggia l'uso della tecnologia della Legione di Cenere per consentire l'uso della furtività quando in sella.",
+        "instruction": "La Legione di Cenere ti ha addestrato ad applicare l'invisibilità alla tua cavalcatura, permettendoti di evitare il combattimento.",
+        "icon": "https://render.guildwars2.com/file/F23627C4AA96FA4E130CE01911D60E045E541B00/2314931.png",
+        "point_cost": 3,
+        "exp_cost": 1524000
+      },
+      {
+        "name": "Maestria della Stazione delle Legioni Unite",
+        "description": "Padroneggia l'utilizzo delle stazioni delle Legioni Unite migliorando le abilità associate.",
+        "instruction": "Le abilità delle stazioni delle Legioni Unite ora sono più potenti.",
+        "icon": "https://render.guildwars2.com/file/EFB173D178EE08EECE0C6D5B5DDC66EE28FC2D95/2314933.png",
+        "point_cost": 4,
+        "exp_cost": 1905000
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Ammazzadraghi",
+    "requirement": "Ricevi una benedizione dal tuo alleato nell'Occhio del Nord.",
+    "order": 6,
+    "background": "https://render.guildwars2.com/file/5778054900A108BB1E1E04CC00CD24A94D2E2F29/2352441.png",
+    "region": "Tundra",
+    "levels": [
+      {
+        "name": "Benedizione del Drago",
+        "description": "Distruggi i servitori dei draghi nelle Missioni di Risposta ai Draghi per impadronirti dell'Essenza di Drago e ottenere un aumento temporaneo delle tue capacità.\nSconfiggere un campione del drago in una Missione di Risposta ai Draghi ti consente di impadronirti di una Benedizione del Drago che può portare questo potenziamento in un'altra Missione di Risposta ai Draghi.",
+        "instruction": "Distruggi i servitori dei draghi nelle Missioni di Risposta ai Draghi per ottenere un aumento temporaneo a tutte le tue stat.\nSconfiggere un campione del drago in una Missione di Risposta ai Draghi ti consente di impadronirti di una Benedizione del Drago che può portare questo potenziamento in un'altra Missione di Risposta ai Draghi.",
+        "icon": "https://render.guildwars2.com/file/FCD6D9E3980E6505F5FEB8090E09E73F64AE650B/2352425.png",
+        "point_cost": 1,
+        "exp_cost": 571500
+      },
+      {
+        "name": "Forgiatore di Cristallo",
+        "description": "Sconfiggere un campione del drago in una Missione di Risposta ai Draghi fornisce materiali aggiuntivi mentre si è sotto l'effetto di una Benedizione del Drago.\nImpadronirsi dell'Essenza di Drago ora conferisce possenza aggiuntiva.\nOra puoi acquistare ricette per armi Ammazzadraghi dai venditori a Occhio del Nord.",
+        "instruction": "Sconfiggere un campione del drago in una Missione di Risposta ai Draghi fornisce materiali aggiuntivi mentre si è sotto l'effetto di una Benedizione del Drago.\nImpadronirsi dell'Essenza di Drago ora conferisce possenza aggiuntiva.\nOra puoi acquistare ricette per armi Ammazzadraghi dai venditori a Occhio del Nord.",
+        "icon": "https://render.guildwars2.com/file/577544350659A6F03791014D1973C60442EC6201/2352426.png",
+        "point_cost": 2,
+        "exp_cost": 762000
+      },
+      {
+        "name": "Grande Campione",
+        "description": "Quando una fazione alleata ti aiuta in una Missione di Risposta ai Draghi, ottieni un miglioramento delle tue capacità.\nMentre brandisci l'Essenza di Drago, i tuoi colpi critici ora infliggono una condizione basata sull'essenza.\nIl venditore settimanale della fazione alleata ora trasporta oggetti aggiuntivi.",
+        "instruction": "Quando una fazione alleata ti aiuta in una Missione di Risposta ai Draghi, ottieni un miglioramento delle tue capacità.\nMentre brandisci l'Essenza di Drago, i tuoi colpi critici ora infliggono una condizione basata sull'essenza.\nIl venditore settimanale della fazione alleata ora trasporta oggetti aggiuntivi.",
+        "icon": "https://render.guildwars2.com/file/0D6B0EA21CF62C3CED033569FD14BC94FF70301A/2352427.png",
+        "point_cost": 2,
+        "exp_cost": 952500
+      },
+      {
+        "name": "Lama della Profezia",
+        "description": "Sconfiggere un campione del drago in una Missione di Risposta ai Draghi fornisce materiali aggiuntivi mentre si è sotto l'effetto della Benedizione del Drago di un drago opposto.\nMentre brandisci l'Essenza di Drago, l'attivazione della tua abilità di cura ora garantisce un vantaggio basato sull'essenza.\nOra puoi acquistare ricette per armi Ammazzadraghi migliorate dai venditori a Occhio del Nord.",
+        "instruction": "Sconfiggere un campione del drago in una Missione di Risposta ai Draghi fornisce materiali aggiuntivi mentre si è sotto l'effetto della Benedizione del Drago di un drago opposto.\nMentre brandisci l'Essenza di Drago, l'attivazione della tua abilità di cura ora garantisce un vantaggio basato sull'essenza.\nOra puoi acquistare ricette per armi Ammazzadraghi migliorate dai venditori a Occhio del Nord.",
+        "icon": "https://render.guildwars2.com/file/729CB508E3A64E03F339050C11E4701DBCD0B1ED/2352428.png",
+        "point_cost": 3,
+        "exp_cost": 1143000
+      },
+      {
+        "name": "Campione Brillante",
+        "description": "Quando una fazione alleata ti aiuta in una Missione di Risposta ai Draghi, migliori la capacità di sfruttare la loro assistenza.\nMentre brandisci l'Essenza di Drago, schivare ora rimuove una condizione specifica basata sull'essenza.\nIl venditore settimanale della fazione alleata ora trasporta oggetti aggiuntivi.",
+        "instruction": "Quando una fazione alleata ti aiuta in una Missione di Risposta ai Draghi, migliori la capacità di sfruttare la loro assistenza.\nMentre brandisci l'Essenza di Drago, schivare ora rimuove una condizione specifica basata sull'essenza.\nIl venditore settimanale della fazione alleata ora trasporta oggetti aggiuntivi.",
+        "icon": "https://render.guildwars2.com/file/C644CDF7676F5D4C7A9596FD04BCD0A63C6C98CE/2352429.png",
+        "point_cost": 3,
+        "exp_cost": 1333500
+      },
+      {
+        "name": "Redini del Potere",
+        "description": "Sconfiggere un campione del drago in una Missione di Risposta ai Draghi fornisce materiali aggiuntivi mentre si è sotto l'effetto della Benedizione del Drago di due Draghi Anziani.\nMentre brandisci più Essenze di Drago, l'attivazione della tua abilità d'élite ora conferisce possenza, furia e stabilità.\nOra puoi acquistare ricette per armi Ammazzadraghi superiori dai venditori a Occhio del Nord.",
+        "instruction": "Sconfiggere un campione del drago in una Missione di Risposta ai Draghi fornisce materiali aggiuntivi mentre si è sotto l'effetto della Benedizione del Drago di due Draghi Anziani.\nMentre brandisci più Essenze di Drago, l'attivazione della tua abilità d'élite ora conferisce possenza, furia e stabilità.\nOra puoi acquistare ricette per armi Ammazzadraghi superiori dai venditori a Occhio del Nord.",
+        "icon": "https://render.guildwars2.com/file/0803019D0E54BF5F950AC61563ACE6F30EE2BBF1/2352430.png",
+        "point_cost": 4,
+        "exp_cost": 1524000
+      },
+      {
+        "name": "Ammazzadraghi",
+        "description": "La durata delle benedizioni concesse dall'Essenza di Drago è aumentata.\nDurante il culmine della Saga dei Ghiacciogeniti, puoi catturare l'Essenza di Drago da determinate fonti.",
+        "instruction": "La durata delle benedizioni concesse dall'Essenza di Drago è aumentata.\nDurante il culmine della Saga dei Ghiacciogeniti, puoi catturare l'Essenza di Drago da determinate fonti.",
+        "icon": "https://render.guildwars2.com/file/9F3747C3800CE224DEF9CF311121BC25376E13DA/2352431.png",
+        "point_cost": 5,
+        "exp_cost": 1714500
+      }
+    ]
+  }]

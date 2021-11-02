@@ -1,0 +1,620 @@
+[{
+    "id": 2,
+    "name": "Assassino di Guardie",
+    "description": "Aumenta i danni inflitti a guardie nemiche",
+    "icon": "https://render.guildwars2.com/file/C5E6E906927E2C6311036C11F1306CCF57CBF259/544537.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "4% danno a guardie"
+      },
+      {
+        "cost": 3,
+        "effect": "8% (total) danno a guardie"
+      },
+      {
+        "cost": 6,
+        "effect": "12% (total) danno a guardie"
+      },
+      {
+        "cost": 10,
+        "effect": "16% (total) danno a guardie. Tutti i bonus Assassino di Guardie ora influenzano anche i lord e i supervisori nemici."
+      },
+      {
+        "cost": 15,
+        "effect": "20% (total) danno a guardie, lord, and supervisori. Recupera il 50% della tua resistenza dopo aver ucciso guardie, lord e supervisori."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Difesa Contro le Guardie",
+    "description": "Riduce i danni subiti da guardie nemiche",
+    "icon": "https://render.guildwars2.com/file/0C450AE1344F410E08D0E4A851F0EFD77210D615/544541.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "4% riduzione danni dalle guardie"
+      },
+      {
+        "cost": 3,
+        "effect": "8% riduzione danni (totale) dalle guardie"
+      },
+      {
+        "cost": 6,
+        "effect": "12% riduzione danni (totale) dalle guardie"
+      },
+      {
+        "cost": 10,
+        "effect": "16% riduzione danni (totale) dalle guardie. Tutti i bonus Difesa Contro le Guardie ora influenzano anche i lord e i supervisori nemici."
+      },
+      {
+        "cost": 15,
+        "effect": "20% riduzione danni (totale) dalle guardie, lord e supervisori. Ottieni risulutezza per 10 secondi quando subisci danni da guardie, lord o supervisori. Questo effetto si attiva una volta ogni 20 secondi."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Flagello del Mercenario",
+    "description": "Aumenta i danni a e riduce i danni da mercenari",
+    "icon": "https://render.guildwars2.com/file/33E377E353512ACD4AB52F4DEFA41B58EF73A92D/544538.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "4% aumento del danno e difesa contro mercenari"
+      },
+      {
+        "cost": 2,
+        "effect": "8% (totale) aumento del danno e difesa contro mercenari"
+      },
+      {
+        "cost": 3,
+        "effect": "12% (totale) aumento del danno e difesa contro mercenari"
+      },
+      {
+        "cost": 4,
+        "effect": "16% (totale) aumento del danno e difesa contro mercenari"
+      },
+      {
+        "cost": 5,
+        "effect": "20% (totale) aumento del danno e difesa contro mercenari"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Difesa d'Assedio",
+    "description": "Riduce i danni da assedio che subisci",
+    "icon": "https://render.guildwars2.com/file/A1B55D6AC11CA15BB6D84E040D7841E741446E7F/544539.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "2% aumento di difesa d'assedio"
+      },
+      {
+        "cost": 3,
+        "effect": "4% (totale) aumento di difesa d'assedio"
+      },
+      {
+        "cost": 6,
+        "effect": "6% (totale) aumento di difesa d'assedio"
+      },
+      {
+        "cost": 10,
+        "effect": "8% (totale) aumento di difesa d'assedio"
+      },
+      {
+        "cost": 15,
+        "effect": "10% (totale) aumento di difesa d'assedio"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Potenza d'Assedio",
+    "description": "Aumenta i danni inflitti con gli attacchi delle macchine d'assedio",
+    "icon": "https://render.guildwars2.com/file/A45EE7F1D2C6DD654F1868EAFC5BFF400395CA40/544535.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "2% aumento del danno dell'assedio"
+      },
+      {
+        "cost": 3,
+        "effect": "4% (totale) aumento del danno dell'assedio"
+      },
+      {
+        "cost": 6,
+        "effect": "6% (totale) aumento del danno dell'assedio"
+      },
+      {
+        "cost": 10,
+        "effect": "8% (totale) aumento del danno dell'assedio"
+      },
+      {
+        "cost": 15,
+        "effect": "10% (totale) aumento del danno dell'assedio"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Capacità di Rifornimento",
+    "description": "Aumenta la quantità di rifornimenti che puoi trasportare",
+    "icon": "https://render.guildwars2.com/file/A73BF1A307D62B047B913DBBAE7409089DFE4DC9/544540.png",
+    "ranks": [
+      {
+        "cost": 5,
+        "effect": "Aumenta la capacità di rifornimento di 1"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta la capacità di rifornimento di 2 (totale)"
+      },
+      {
+        "cost": 25,
+        "effect": "Aumenta la capacità di rifornimento di 3 (totale)"
+      },
+      {
+        "cost": 40,
+        "effect": "Aumenta la capacità di rifornimento di 4 (totale)"
+      },
+      {
+        "cost": 60,
+        "effect": "Aumenta la capacità di rifornimento di 5 (totale)"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Padronanza del Cannone",
+    "description": "Migliora l'uso del cannone",
+    "icon": "https://render.guildwars2.com/file/9E9ACBCE363F1BBA0F3B7DA9B51CDE1564C03429/563937.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Il fuoco normate rimuove benefici"
+      },
+      {
+        "cost": 7,
+        "effect": "Aumenta il danno del cannone"
+      },
+      {
+        "cost": 10,
+        "effect": "Le munizioni a grappolo fanno più danni da sanguinamento"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta tutti i raggi di esplosione"
+      },
+      {
+        "cost": 25,
+        "effect": "Aumenta la durata di gelo"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Padronanza della Balista",
+    "description": "Migliora le abilità della balista",
+    "icon": "https://render.guildwars2.com/file/A8976E2E0A69085CF1435E71CB805EBFC557FDA1/563938.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Abilità: Dardo antiaereo—spara un proiettile che fa cadere dall'aria i nemici e li immobilizza. Smonta i nemici."
+      },
+      {
+        "cost": 7,
+        "effect": "Aumenta il danno della balista"
+      },
+      {
+        "cost": 10,
+        "effect": "Spara dardi più veloci"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta la portata della balista"
+      },
+      {
+        "cost": 25,
+        "effect": "Aumenta il raggio di Colpo Frantumatore"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Padronanza del Carretto delle Frecce",
+    "description": "Migliora le abilità del carrello delle frecce",
+    "icon": "https://render.guildwars2.com/file/B45865C5B4955BAD3098A54CE7FAF95CD6B3A828/575721.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Aumenta la portata di tutte le abilità del carrello delle frecce"
+      },
+      {
+        "cost": 7,
+        "effect": "Aumenta il danno su tutte le abilità del carrello delle frecce"
+      },
+      {
+        "cost": 10,
+        "effect": "Aumenta l'efficacia delle condizioni applicate"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta il raggio di tutte le abilità del carrello delle frecce"
+      },
+      {
+        "cost": 25,
+        "effect": "Abilità: Tiro Rivelatore Tossico—Rimuove l'invisibilità e applica il veleno ai bersagli"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Padronanza dell'Olio Bollente",
+    "description": "Migliora tutte le abilità dell'Olio Bollente e sblocca nuove abilità",
+    "icon": "https://render.guildwars2.com/file/F5AC92A6AE1503EE3B0A940EEE6768C928396663/587138.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Aumenta il raggio dell'Olio Bollente del 25%"
+      },
+      {
+        "cost": 7,
+        "effect": "Aumenta il danno da olio bollente"
+      },
+      {
+        "cost": 10,
+        "effect": "Riduce i danni ricevuti dal pentolone d'olio e dall'utilizzatore. L'utilizzatore non può essere atterrato, spinto, tirato, lanciato, stordito, frastornato, levitato, affondato, spaventato o provocato."
+      },
+      {
+        "cost": 15,
+        "effect": "Gli attacchi base dell'Olio Bollente bruciano un rifornimento dal bersaglio"
+      },
+      {
+        "cost": 25,
+        "effect": "Guscio Infuocato: crea una cupola infuocata che riflette i proiettili"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Padronanza del Mortaio",
+    "description": "Migliora le abilità del mortaio",
+    "icon": "https://render.guildwars2.com/file/049438CC945BD99676B30DC3FFB67E74CA2FACDC/598970.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Aumenta il raggio di esplosione su tutte le abilità del mortaio"
+      },
+      {
+        "cost": 7,
+        "effect": "Aumenta la durata delle aree brucianti del mortaio"
+      },
+      {
+        "cost": 10,
+        "effect": "Riduce la ricarica di tutte le abilità del mortaio"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta il danno su tutte le abilità del mortaio"
+      },
+      {
+        "cost": 25,
+        "effect": "Nuova Abilità: Sbarramento a Concussione—Lancia una raffica di colpi che respingono i nemici dove arrivano"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mastro Carpentiere",
+    "description": "Migliora le tue capacità di costruzione",
+    "icon": "https://render.guildwars2.com/file/7717E220C5B9E924CA5C2D59B8C4EB48B1BDACE8/603546.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "Spendi 4 rifornimenti alla volta costruendo macchine d'assedio"
+      },
+      {
+        "cost": 2,
+        "effect": "Spendi 6 rifornimenti alla volta costruendo macchine d'assedio"
+      },
+      {
+        "cost": 4,
+        "effect": "Spendi 8 rifornimenti alla volta costruendo macchine d'assedio"
+      },
+      {
+        "cost": 8,
+        "effect": "Spendi 10 rifornimenti alla volta costruendo macchine d'assedio"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mastro Riparatore",
+    "description": "Migliora le tue capacità di riparazione",
+    "icon": "https://render.guildwars2.com/file/99901DE8AA78E7187E0D1AAE48E9EDD45BBBDFCC/603547.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "Spendi 4 rifornimenti alla volta quando effettui riparazioni"
+      },
+      {
+        "cost": 2,
+        "effect": "Spendi 6 rifornimenti alla volta quando effettui riparazioni"
+      },
+      {
+        "cost": 4,
+        "effect": "Spendi 8 rifornimenti alla volta quando effettui riparazioni"
+      },
+      {
+        "cost": 8,
+        "effect": "Spendi 10 rifornimenti alla volta quando effettui riparazioni"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Padronanza della Catapulta",
+    "description": "Migliora le abilità della catapulta",
+    "icon": "https://render.guildwars2.com/file/00DAD338D5BC516B6AE4DADD3CABE713F9450815/607809.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Aumenta i danni inflitti alle mura del 20%"
+      },
+      {
+        "cost": 7,
+        "effect": "Granata a Grappolo ora fa danni da sanguinamento"
+      },
+      {
+        "cost": 10,
+        "effect": "Aumenta il raggio di tutte le abilità catapulta"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta il danno della catapulta"
+      },
+      {
+        "cost": 25,
+        "effect": "Abilità: Bolla d'Assedio—Crea una cupola che distrugge i proiettili all'impatto"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Mastro dei Rifornimenti",
+    "description": "Migliora la tua capacità di raccogliere, spendere e gestire i rifornimenti",
+    "icon": "https://render.guildwars2.com/file/47192E4E7341912E95AEBEB5030E2FD64621CF46/620207.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "Raccogli i rifornimenti più velocemente"
+      },
+      {
+        "cost": 2,
+        "effect": "Guadagna rapidità dopo aver speso tutti i tuoi rifornimenti"
+      },
+      {
+        "cost": 3,
+        "effect": "Ottieni una maggiore rapidità durante la raccolta dei rifornimenti"
+      },
+      {
+        "cost": 4,
+        "effect": "Hai la possibilità di recuperare i rifornimenti spesi mentre li spendi"
+      },
+      {
+        "cost": 5,
+        "effect": "I siti di assedio schierati sono invulnerabili per una breve durata"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Padronanza del Trabucco",
+    "description": "Migliora le abilità di trabucco",
+    "icon": "https://render.guildwars2.com/file/00454D1C18D66B0A24EC3A0D483D07D2F29C7C59/626149.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Aumenta il danno delle abilità del trabucco"
+      },
+      {
+        "cost": 7,
+        "effect": "Le munizioni a mucche ora prosciugano rifornimenti dai giocatori nemici"
+      },
+      {
+        "cost": 10,
+        "effect": "Aumenta il raggio delle abilità del trabucco"
+      },
+      {
+        "cost": 15,
+        "effect": "Abilità: Oasi Curativa. Crea un'area d'acqua che cura gli alleati"
+      },
+      {
+        "cost": 25,
+        "effect": "I colpi di base che colpiscono i depositi di rifornimenti nemici distruggono parte dei rifornimenti dell'obiettivo"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Padronanza dell'Ariete Infuocato",
+    "description": "Migliora le abilità dell'ariete infuocato",
+    "icon": "https://render.guildwars2.com/file/FBFE762F0D78F49014A42CB5085AD9602E4F216E/638748.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Ottieni Pelle di Ferro mentre interagisci con l'ariete infuocato"
+      },
+      {
+        "cost": 7,
+        "effect": "Esplosione di Fiamma ora applica Vulnerabilità Strutturale ai cancelli"
+      },
+      {
+        "cost": 10,
+        "effect": "Riduci la ricarica delle abilità dell'ariete infuocato"
+      },
+      {
+        "cost": 15,
+        "effect": "Abilità: Impatto Schianto—Lancia i nemici dietro la porta"
+      },
+      {
+        "cost": 25,
+        "effect": "Abilità: Volontà di Ferro—Abilità di supporto che applica Pelle di Ferro agli alleati vicini"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Padronanza del Gloem d'Assedio",
+    "description": "Migliora le abilità del golem d'assedio",
+    "icon": "https://render.guildwars2.com/file/FDE14C4F28D26613642135107CCAFEF1A36CE70F/867453.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Aumenta la velocità di movimento del tuo golem pilotato per 15 secondi dopo aver distrutto un cancello o un muro"
+      },
+      {
+        "cost": 7,
+        "effect": "Aumenta la potenza di base e la precisione del tuo golem pilotato del 10%"
+      },
+      {
+        "cost": 10,
+        "effect": "L'abilità bolla scudo ora cura anche gli alleati vicini"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta la vitalità e la resistenza di base del tuo golem pilotato del 15%"
+      },
+      {
+        "cost": 25,
+        "effect": "Il tuo golem pilotato ti espellerà in sicurezza una volta sconfitto"
+      }
+    ]
+  },
+  {
+    "id": 23,
+      "name": "Padronanza del Generatore di Scudi",
+    "description": "Migliora le abilità del generatore di scudi",
+    "icon": "https://render.guildwars2.com/file/7C97FD990E1A091B370F4270E05C48409BE82500/1302780.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Palla di Forza fornisce egida agli alleati durante impatti"
+      },
+      {
+        "cost": 7,
+        "effect": "Cupola di Forza fornisce il doppio della stabilità per impulso"
+      },
+      {
+        "cost": 10,
+        "effect": "Aumenta il raggio per tutte le abilità del generatore di scudi"
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta la durata di Muro di Forza e Cupola di Forza e aumenta il numero medio di rimbalzi della Palla di Forza"
+      },
+      {
+        "cost": 25,
+        "effect": "Previene danno dai colpi dei carretti delle frecce per gli alleati nella Cupola di Forza"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Mastro delle Forniture",
+    "description": "Migliora la tua capacità di raccogliere bottino e garantisce l'accesso alla merce del rifornitore portatile.",
+    "icon": "https://render.guildwars2.com/file/0DD75CD712BC0BB74A4B2A0C19C0E25063339497/1424246.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "Ti consente di acquistare un fornitore portatile da qualsiasi fornitore WvW. Questo oggetto ti consente di acquistare progetti di armi d'assedio ovunque."
+      },
+      {
+        "cost": 3,
+        "effect": "Ti permette anche di acquistare trucchi e trappole dall'fornitore portatile."
+      },
+      {
+        "cost": 6,
+        "effect": "Consente di acquistare anche cibo e materiali di consumo dal fornitore portatile."
+      },
+      {
+        "cost": 10,
+        "effect": "Impara a raccogliere automaticamente il bottino dai nemici caduti."
+      },
+      {
+        "cost": 15,
+        "effect": "Aumenta il numero di Distintivi d'Onore trovati saccheggiando i nemici caduti."
+      },
+      {
+        "cost": 20,
+        "effect": "Sblocca ricette, sigilli e rune di Cuore di Spine per il venditore Notaio dell'Eroismo."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Padronanza della Planata Bellica",
+    "description": "Plana nei territori reclamati.",
+    "icon": "https://render.guildwars2.com/file/6990AF5143E231DD1AF6435875954C01BE4FEA3B/1770715.png",
+    "ranks": [
+      {
+        "cost": 3,
+        "effect": "Autorizzato a planare nei territori posseduti."
+      },
+      {
+        "cost": 7,
+        "effect": "Ora puoi rallentare a mezz'aria."
+      },
+      {
+        "cost": 10,
+        "effect": "Ora puoi piegarti in avanti, aumentando la velocità di planata."
+      },
+      {
+        "cost": 15,
+        "effect": "Ora puoi schivare mentre plani."
+      },
+      {
+        "cost": 25,
+        "effect": "Impara a planare con una tale efficienza che non consumi più la tua resistenza se non quando ti inclini in avanti."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Maestria dell'Artiglio Bellico",
+    "description": "Sblocca la cavalcatura artiglio bellico e le sue abilità.",
+    "icon": "https://render.guildwars2.com/file/C626481CA9D2AF32BEE4BC02ACE0E53306E6BF0C/2110171.png",
+    "ranks": [
+      {
+        "cost": 1,
+        "effect": "Sblocca l'obiettivo Compagnio dell'Artiglio Bellico."
+      },
+      {
+        "cost": 15,
+        "effect": "Mentre sei in sella, concedi periodicamente agli alleati vicini la capacità di correre alla velocità dell'artiglio bellico."
+      },
+      {
+        "cost": 20,
+        "effect": "Il tuo ariglio bellico ottiene una barra di resistenza aggiuntiva."
+      },
+      {
+        "cost": 25,
+        "effect": "Maglio da Battaglia infligge danni maggiori ai nemici in stato di atterramento."
+      },
+      {
+        "cost": 30,
+        "effect": "Sblocca una seconda abilità che consente al tuo artiglio bellico di rilevare i nemici."
+      },
+      {
+        "cost": 35,
+        "effect": "Sblocca una terza abilità che consente al tuo artiglio bellico di incatenare i cancelli per danneggiarli."
+      },
+      {
+        "cost": 40,
+        "effect": "Sblocca una quarta abilità che ti consente di scagliare una lancia contro un giocatore in sella, smontando entrambi."
+      }
+    ]
+  }]

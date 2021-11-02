@@ -1,0 +1,912 @@
+[{
+    "id": "7-54",
+    "title": "Dignità",
+    "description": "Sono dignitoso anche quando nel fango fino alle orecchie. È ciò per cui le persone mi rispettano. Un atteggiamento serio e premuroso è la strada per il successo.",
+    "journal": "Sebbene i problemi possano seguirmi, li supero con dignità.",
+    "question": 7
+  },
+  {
+    "id": "188-189",
+    "title": "Terrore Zannuto",
+    "description": "Sono un sussurro nella notte, occhi che brillano nell'oscurità. Sto nell'ombra, e la mia maschera è il mostro che temi.",
+    "journal": "<br><br>Io guardo fuori da dietro una maschera di terrore zannuto.<br><br>Questa è la mia storia.<br>",
+    "question": 188,
+    "professions": [
+      "Mesmer"
+    ]
+  },
+  {
+    "id": "22-109",
+    "title": "Sorella Morta",
+    "description": "Mia sorella era nei Serafini. I centauri l'hanno uccisa mentre era di pattuglia. Non hanno mai recuperato il suo corpo, e ciò mi ha sempre infastidito.",
+    "journal": "Sono diventato qualcuno, e l'unica cosa di cui mi pento è di non aver mai recuperato il corpo di mia sorella.",
+    "question": 22,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "15-84",
+    "title": "Legione di Sangue",
+    "description": "Sono la Legione di Sangue. Carico dritto in battaglia. La Legione del Sangue si spinge in prima linea in qualsiasi combattimento. Siamo potenti e audaci, e nessuno può eguagliare la nostra prodezza sul campo.",
+    "journal": "Sono un soldato della Legione di Sangue e",
+    "question": 15,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "187-186",
+    "title": "Sotterfugio",
+    "description": "Una maschera attira l'attenzione, e un viso scoperto consente alle persone di identificarti. Preferisco un sotterfugio più fine. Un cappuccio alzato mi permette di mimetizzarmi tra la folla, e nessuno saprà che ero lì.",
+    "journal": "<br><br>Sono un esperto di sottigliezze e intrighi. Un cappuccio alzato mi permette di mimetizzarmi tra la folla.<br><br>Questa è la mia storia.<br>",
+    "question": 187,
+    "professions": [
+      "Thief"
+    ]
+  },
+  {
+    "id": "189-189",
+    "title": "Cortina Splendente",
+    "description": "La cortina splendente è per redivivi che scelgono di dare un'impressione più elegante e alla moda; perché anche se non possono vedere il mondo che li circonda, io mondo può ancora vederli.",
+    "journal": "<br><br>Quando combatto, uso la cortina splendente per bloccare il mondo fisico con stile.<br><br>Questa è la mia storia.<br>",
+    "question": 189,
+    "professions": [
+      "Revenant"
+    ]
+  },
+  {
+    "id": "17-94",
+    "title": "Gladio Senza Onore",
+    "description": "Un gladio non ha Banda Bellica. Mio padre ha voltato le spalle alla sua. Ora, è un gladio senza onore e senza rispetto per la catena di comando, e io non ho rispetto per lui.",
+    "journal": "<br><br>Mi dicono che mio padre è un gladio senza onore. Non ho rispetto per lui, e mi rifiuto di vivere nella sua ombra.",
+    "question": 17,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "21-107",
+    "title": "Topo di Fogna",
+    "description": "Sono cresciuto povero, per le strade, vivendo alla giornata. Ogni giorno era una sfida, ma come ho detto al mio vecchio amico Quinn, \"Se non ti uccide, ti fortifica.\" Ho lavorato duramente per far girare la mia fortuna, ma ho ancora molta strada da fare.",
+    "journal": "<br><br>La mia gente è pezzente, e ho lottato per tutta la vita.",
+    "question": 21,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "184-167",
+    "title": "Demone Imbroglione",
+    "description": "I demoni imbroglioni delle Nebbie trovano il modo di entrare nel nostro mondo per farlo a pezzi. Anch'io sono una forza distruttiva, e tutti mi temeranno.",
+    "journal": "<br><br>Il compagno più vicino di un negromante è la morte. In riconoscimento di ciò, segno il mio viso con il simbolo di un demone imbroglione.<br><br>Questa è la mia storia.<br>",
+    "question": 184,
+    "professions": [
+      "Necromancer"
+    ]
+  },
+  {
+    "id": "27-126",
+    "title": "Perso un Cimelio di Famiglia",
+    "description": "Ho ereditato il Corno di Romke, un magico cimelio ancestrale tramandato da generazioni. Dopo un bicchiere di troppo, però, ho scommesso su una gara di forza... e ho perso.",
+    "journal": "Eppure, in passato, sono stato sciocco. Ho scommesso sul Corno di Romke, un cimelio di famiglia con proprietà magiche, in una prova di forza. Ero troppo sicuro di me, ma sono determinato a recuperarlo.",
+    "question": 27,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "36-153",
+    "title": "Dwayna",
+    "description": "Dwayna—la dea della guarigione, dell'aria e della vita—è il placido capo degli antichi dei. È spesso raffigurata come giovane, alta e snella, che si alza in aria su immense ali piumate.",
+    "journal": "Dwayna, la dea della guarigione, mi benedisse quando ero giovane.",
+    "question": 36,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "183-174",
+    "title": "Inseguitore",
+    "description": "Il mio inseguitore è un caro amico. È tranquillo, immobile, e veloce come una freccia lanciata da un arco. La sua intelligenza si vede nei suoi occhi.",
+    "journal": "<br><br>Sono un esploratore, e ho un inseguitore che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Sylvari",
+      "Asura",
+      "Charr",
+      "Human"
+    ]
+  },
+  {
+    "id": "184-168",
+    "title": "Teschio",
+    "description": "Rispetto le tradizioni dei negromanti che mi hanno preceduto. Segno il mio viso con il simbolo di un teschio per ricordarmi che anche i più grandi alla fine muoiono.",
+    "journal": "<br><br>Il compagno più vicino di un negromante è la morte. In riconoscimento di ciò, contrassegno il mio viso con il simbolo di un teschio.<br><br>Questa è la mia storia.<br>",
+    "question": 184,
+    "professions": [
+      "Necromancer"
+    ]
+  },
+  {
+    "id": "36-158",
+    "title": "Kormir",
+    "description": "Kormir è la dea dell'ordine, dello spirito e della verità. Una volta era mortale come me. Mi ispira ogni giorno a trovare più coraggio e a cercare la rettitudine di cuore, mente e azione.",
+    "journal": "Kormir, la dea della verità, mi benedisse quando ero giovane.",
+    "question": 36,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "21-105",
+    "title": "Borghese",
+    "description": "Sono cresciuto tra la gente comune di Giunta della Divinità. Siamo la classe operaia, gli ingranaggi che fanno funzionare la città. Do una mano in una taverna di proprietà dei miei amici, Andrew e sua figlia Petra.",
+    "journal": "<br><br>Sono stato cresciuto da gente comune, e ho lavorato molto, onestamente e duramente.",
+    "question": 21,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "22-110",
+    "title": "Occasione Persa",
+    "description": "Quando ero giovane, ho avuto l'opportunità di esibirmi al circo, ma ho rifiutato.Ad oggi, mi dispiace di non aver colto al volo l'occasione.",
+    "journal": "Sono diventato qualcuno, e l'unica cosa di cui mi pento è di aver rifiutato la possibilità di esibirmi al circo.",
+    "question": 22,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "12-75",
+    "title": "Blipp",
+    "description": "Il Maestro Blipp era noto per le sue ridondanze così come per le sue ridondanze. Spesso diceva, \"Il tuo primo tentativo non dovrebbe mai essere l'ultimo, soprattutto se ha avuto successo. Puoi sempre avere più successo la prossima volta.\"",
+    "journal": ", e un giorno, i miei fan adoranti diranno che ho superato anche il mio primo mentore, il Maestro Blipp.",
+    "question": 12,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "7-55",
+    "title": "Ferocia",
+    "description": "Sono feroce. Minacciare violenza mi porta più lontano di qualsiasi altra cosa. Mi viene naturale, ma cerco di usare i miei poteri di intimidazione a fin di bene.",
+    "journal": "Sebbene i problemi possano seguirmi, li supero con ferocia.",
+    "question": 7
+  },
+  {
+    "id": "12-74",
+    "title": "Zinga",
+    "description": "La Maestra Zinga mi ha insegnato che la migliore forma di magia è la buona vecchia fortuna. Le piaceva dire, \"Pianificare in anticipo è per i bambocci che pensano di poter prevedere ogni possibile risultato. Il futuro è mutevole! Seguire la corrente!\"",
+    "journal": ", e un giorno, i miei fan adoranti diranno che ho superato anche il mio primo mentore, la Maestra Zinga.",
+    "question": 12,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "183-175",
+    "title": "Drake",
+    "description": "Ho addomesticato il mio drake quando era un cucciolo. Ora mi segue ovunque. Si è dimostrato un amico implacabile e potente.",
+    "journal": "<br><br>Sono un esploratore, e ho un drake che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Asura",
+      "Charr",
+      "Human"
+    ]
+  },
+  {
+    "id": "36-156",
+    "title": "Melandru",
+    "description": "Melandru—la dea della natura, della terra e della crescita—si trova in ogni raccolto e in ogni fiore. Sorride a chi, come me, ha affinità con gli animali. Sono un seguace di Melandru.",
+    "journal": "Melandru, la dea della natura, mi benedisse quando ero giovane.",
+    "question": 36,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "186-162",
+    "title": "Aria",
+    "description": "L'aria è la fonte di tutta la vita. È invisibile, eppure può distruggere interi villaggi.",
+    "journal": "<br><br>Sono un elementalista e studio tutti gli elementi. Indosso una gemma che simboleggia il mio amore per l'aria.<br><br>Questa è la mia storia.<br>",
+    "question": 186,
+    "professions": [
+      "Elementalist"
+    ]
+  },
+  {
+    "id": "185-163",
+    "title": "Elmo a Piastre",
+    "description": "Il mio elmo a piastre intimidisce i miei nemici e ispira rispetto tra i miei alleati. Sono quasi invulnerabile quando lo indosso.",
+    "journal": "<br><br>Sono un guerriero e indosso un elmo a piastre sul campo di battaglia. Per questo sono quasi invulnerabile.<br><br>Questa è la mia storia.<br>",
+    "question": 185,
+    "professions": [
+      "Warrior"
+    ]
+  },
+  {
+    "id": "15-85",
+    "title": "Legione di Cenere",
+    "description": "Sono Legione di Cenere. Uso l'astuzia per superare i miei nemici. La Legione di Cenere insegna furtività e sotterfugi. Concludiamo le battaglie prima che inizino con infiltrazioni, raccolta di informazioni e attacchi di precisione.",
+    "journal": "Sono un soldato della Legione di Cenere, e",
+    "question": 15,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "184-169",
+    "title": "Spettro Oscuro",
+    "description": "Uno spettro è una creatura di energia e la sua astuzia lo aiuta a eludere i suoi nemici. Quello che non puoi vedere...può ucciderti.",
+    "journal": "<br><br>Il compagno più vicino di un negromante è la morte. In riconoscimento di ciò, contrassegno il mio viso con il simbolo di uno spettro oscuro.<br><br>Questa è la mia storia.<br>",
+    "question": 184,
+    "professions": [
+      "Necromancer"
+    ]
+  },
+  {
+    "id": "12-76",
+    "title": "Canni",
+    "description": "L'assessore Canni non era una burocrate qualunque. Era una parascienziata esopolitica. Amava dire, \"Porta sempre un testimone, preferibilmente sacrificabile. Non sai mai quando avrai bisogno di un capro espiatorio.\"",
+    "journal": ", e un giorno, i miei fan adoranti diranno che ho superato anche il mio primo mentore, l'Assessore Canni.",
+    "question": 12,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "183-182",
+    "title": "Leopardo delle Nevi",
+    "description": "Il bellissimo leopardo delle nevi è un simbolo di indipendenza. La sua grazia e la sua furtività lo rendono un cacciatore sia ispiratore che imbattibile.",
+    "journal": "<br><br>Sono un esploratore e ho un leopardo delle nevi che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "182-166",
+    "title": "Spallacci del Conquistatore",
+    "description": "Quando ero giovane, un famoso eroe di ritorno dalla battaglia si fermò e mi diede i suoi spallacci. Da allora, li ho indossati come miei e faccio il possibile per essere all'altezza della sua leggenda. Anch'io sarò un conquistatore.",
+    "journal": "<br><br>Sono un guardiano. Indosso l'armatura e ho le aspirazioni di un conquistatore.<br><br>Questa è la mia storia.<br>",
+    "question": 182,
+    "professions": [
+      "Guardian"
+    ]
+  },
+  {
+    "id": "11-72",
+    "title": "Palla dell'Infinito",
+    "description": "Dissero che era un giocattolo, un sogno irrealizzabile e uno spreco di risorse. Avevano torto. La mia invenzione predice il futuro. Che importa se non lo prevede correttamente ogni volta. È irrilevante! Potrebbe darmi un vantaggio? Rispondi confuso. Chiedi di nuovo.",
+    "journal": "<br><br>La mia prima invenzione è stata una palla dell'infinito",
+    "question": 11,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "188-188",
+    "title": "Illusione della Tristezza",
+    "description": "Mostro al mondo un volto segnato dalla tragedia. Peccato che tu non possa vedere dietro la maschera—per sapere se sto ridendo di nascosto o no.",
+    "journal": "<br><br>Guardo il mondo da dietro una maschera di tristezza.<br><br>Questa è la mia storia.<br>",
+    "question": 188,
+    "professions": [
+      "Mesmer"
+    ]
+  },
+  {
+    "id": "10-69",
+    "title": "Sinergetica",
+    "description": "Come membri del Università di Sinergetica, studiamo come si formano i modelli energetici e propagano i frattali alchemagici. Pochi oltre la nostra università comprendono le complessità filosofiche e mistiche dei nostri interessi. Ricerchiamo devotamente la vera natura dell'Alchimia Eterna.",
+    "journal": "Sono un membro con ottima reputazione dell'Università di Sinergetica.",
+    "question": 10,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "30-136",
+    "title": "Ciclo della Notte",
+    "description": "I Sylvari svegliati di notte sono riservati e prudenti con le informazioni. Prendiamo le nostre decisioni e andiamo e veniamo a nostro piacimento, agili di mente e corpo.",
+    "journal": "<br><br>L'Albero Pallido mi ha svegliato durante il Ciclo della Notte, e",
+    "question": 30,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "32-143",
+    "title": "Lo Scudo della Luna",
+    "description": "La luna è un potente simbolo di guarigione e magia. Chiunque sogni di essere protetto dalla luna conoscerà fede e forza d'animo. Spero di essere degno di una tale visione.",
+    "journal": "<br><br>Durante il mio Sogno, ho sognato lo Scudo della Luna, e sono chiamato a trovarlo.",
+    "question": 32,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "181-180",
+    "title": "Monocolo Panscopico",
+    "description": "I dettagli contano. Sia che tu stia ricontrollando il cablaggio dei tuoi nuovi esplosivi o cambiando l'albero del cambio sulla tua torretta preferita, questo monocolo ti consente di vedere ciò che serve.",
+    "journal": "<br><br>Sono un ingegnere e non mi troverai mai senza il mio monocolo panscopico a portata di mano.<br><br>Questa è la mia storia.<br>",
+    "question": 181,
+    "professions": [
+      "Engineer"
+    ]
+  },
+  {
+    "id": "10-68",
+    "title": "Dinamica",
+    "description": "L'Università della Dinamica sforna straordinari produttori di aggeggi. Energia, entusiasmo e audacia sono le nostre migliori qualità. Crediamo nello sfruttare la natura sacrificabile di tutte le cose. Se un prototipo esplode, non è un fallimento a meno che la lezione non venga disimparata.",
+    "journal": "Sono un membro con ottima reputazione dell'Università della Dinamica.",
+    "question": 10,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "16-89",
+    "title": "Speronartiglio",
+    "description": "Speronartiglio lascia parlare le sue lame. È estremamente calmo e silenzioso, anche per essere un ladro. Mentre gli altri fanno minacce, Speronartiglio si posiziona silenziosamente per fare una rapida uccisione. Meno male che è dalla mia parte.",
+    "journal": "la mia banda bellica è la mia famiglia. Morirei per loro, specialmente Speronartiglio, il mio compagno di addestramento.",
+    "question": 16,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "12-73",
+    "title": "Bronk",
+    "description": "Il buon vecchio Maestro Bronk mi ha insegnato i benefici di una potenza di fuoco superiore. Gli piaceva dire, \"Quando si tratta di sconfiggere il nemico, non esiste una cosa come 'eccessivo.'\"",
+    "journal": ", e un giorno, i miei fan adoranti diranno che ho superato anche il mio primo mentore, Maestro Bronk.",
+    "question": 12,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "186-161",
+    "title": "Terra",
+    "description": "La Terra è il fondamento che sostiene tutta la vita. La pietra ci fortifica. La roccia ci fonda.",
+    "journal": "<br><br>Sono un elementalista e studio tutti gli elementi. Indosso una gemma che simboleggia il mio amore per la terra.<br><br>Questa è la mia storia.<br>",
+    "question": 186,
+    "professions": [
+      "Elementalist"
+    ]
+  },
+  {
+    "id": "25-119",
+    "title": "Lupo",
+    "description": "Lupo ha alle spalle l'astuzia del branco. Impartisce le virtù della lealtà, ferocia e superiorità numerica. Quando venne da me, sussurrò del mio eroico futuro e mi disse che non sarei mai stato solo.",
+    "journal": "Lupo, il mio spirito guida, insegna che c'è un tempo per la violenza e un tempo per la pace.",
+    "question": 25,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "185-164",
+    "title": "Galea",
+    "description": "Il mio elmo è a viso aperto in modo che i miei nemici possano vedere la mia faccia e guardarmi negli occhi. Ricorderanno chi li ha sconfitti.",
+    "journal": "<br><br>Sono un guerriero e indosso una galea a faccia aperta sul campo di battaglia. Perciò, i miei nemici ricorderanno chi li ha sconfitti.<br><br>Questa è la mia storia.<br>",
+    "question": 185,
+    "professions": [
+      "Warrior"
+    ]
+  },
+  {
+    "id": "181-178",
+    "title": "Zaino Multiutensile Universale",
+    "description": "Ha una chiave inglese. Ha un cacciavite. Ha una vanga. Ha un dislocatore laterale! Non importa di cosa hai bisogno; questa confezione ha un dispositivo per ogni situazione.",
+    "journal": "<br><br>Sono un ingegnere e non mi troverai mai senza il mio zaino multiuso universale a portata di mano.<br><br>Questa è la mia storia.<br>",
+    "question": 181,
+    "professions": [
+      "Engineer"
+    ]
+  },
+  {
+    "id": "187-185",
+    "title": "Determinazione",
+    "description": "Faccio sul serio. Sono il colosso, il nerboruto, l'orso che non vuoi disturbare. La mia fascia mantiene la mia visione chiara, non importa quanto divento diretto.",
+    "journal": "<br><br>Faccio sul serio. Sono il colosso, il nerboruto, l'orso che non vuoi disturbare. La mia fascia mantiene la mia visione chiara, non importa quanto divento diretto. <br><br>Questa è la mia storia.<br>",
+    "question": 187,
+    "professions": [
+      "Thief"
+    ]
+  },
+  {
+    "id": "32-141",
+    "title": "Cervo Bianco",
+    "description": "Il Cervo Bianco è una creatura incantata, una bestia immortale dotata di un grande potere. Si dice che il cervo scambierà un dono magico per la sua libertà, se riesco a catturarlo.",
+    "journal": "<br><br>Mentre ero ancora nel mio Sogno, ho visto il Cervo Bianco, e sono chiamato a trovarlo.",
+    "question": 32,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "30-133",
+    "title": "Ciclo dell'Alba",
+    "description": "I Sylvari risvegliati all'alba sono oratori naturali, diplomatici e lungimiranti. Siamo intimamente connessi con ciò che ci circonda e marcatamente empatici verso tutti, anche le altre razze.",
+    "journal": "<br><br>L'Albero Pallido mi ha svegliato durante il Ciclo dell'Alba e",
+    "question": 30,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "16-88",
+    "title": "Euryale",
+    "description": "Euryale, la nostra elementalista, è il soldato più fedele della banda. È anche testarda, irascibile e protettiva — ma almeno è onesta. Lei è sempre al mio fianco e le affiderei la mia vita.",
+    "journal": "la mia banda è la mia famiglia. Morirei per loro, soprattutto Euryale, la mia compagna di addestramento.",
+    "question": 16,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "183-172",
+    "title": "Orso",
+    "description": "Io e il mio orso combattiamo come una singola unità. Basta il minimo gesto per dare un comando, e stiamo facendo a pezzi i nostri nemici.",
+    "journal": "<br><br>Sono un esploratore e ho un orso che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Human",
+      "Norn"
+    ]
+  },
+  {
+    "id": "11-71",
+    "title": "Convertitore Transatmosferico",
+    "description": "Che gioia incontenibile poter cambiare il tempo a mio piacimento! Se solo il prototipo fosse stato più potente. Tuttavia, il design era all'avanguardia. Il mio convertitore transatmosferico era un capolavoro di assoluta genialità. Vorrei aver avuto più fondi.",
+    "journal": "<br><br>La mia prima invenzione è stata un convertitore transatmosferico",
+    "question": 11,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "26-121",
+    "title": "Sconfiggere i Nostri Antichi Nemici",
+    "description": "Mantengo forte il mio corpo in modo da poter sconfiggere i nostri antichi nemici e proteggere la Grande Loggia.",
+    "journal": "<br><br>Lavoro duramente per mantenere la mia forza fisica e la mia abilità.",
+    "question": 26,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "27-124",
+    "title": "Perso Conoscenza",
+    "description": "Birra! Risse chiassose! È troppo facile lasciarsi andare all'emozione del momento. Dopo essermi svegliato, non riuscivo a ricordare cosa avevo fatto. Sono sicuro non fosse nulla di troppo terribile.",
+    "journal": "Eppure, in passato, sono stato negligente. Ho esagerato con l'allegria durante un'assemblea e mi sono svegliato la mattina dopo senza alcun ricordo di quello che avevo fatto. È un mistero che devo risolvere.",
+    "question": 27,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "25-117",
+    "title": "Orso",
+    "description": "Orso è la più potente tra gli Spiriti della Natura. È un simbolo di forza d'animo e fiducia in se stessi. Ruggiva su di me quando ero piccolo, e da allora ho avuto il coraggio di Orso nel mio cuore.",
+    "journal": "Orso, il mio spirito guida, insegna che c'è un tempo per essere impetuosi e un tempo per essere gentili.",
+    "question": 25,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "26-123",
+    "title": "Proteggere le Nebbie",
+    "description": "Il mio intuito mi dà la visione di cui ho bisogno per custodire le Nebbie, dove le anime dei nostri antenati persistono nella gloria.",
+    "journal": "<br><br>Ascolto il mio intuito e istinto in situazioni pericolose.",
+    "question": 26,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "181-179",
+    "title": "Visore Occhi di Falco",
+    "description": "Niente vede il mondo più chiaramente di un falco in volo. Questi occhiali permettono a chi li indossa di vedere altrettanto bene.",
+    "journal": "<br><br>Sono un ingegnere e non mi troverai mai senza i miei occhiali a occhi di falco a portata di mano.<br><br>Questa è la mia storia.<br>",
+    "question": 181,
+    "professions": [
+      "Engineer"
+    ]
+  },
+  {
+    "id": "15-86",
+    "title": "Legione di Ferro",
+    "description": "Sono la Legione di Ferro. Marcio al frastuono delle macchine da guerra. La Legione di Ferro ha innescato la nostra rivoluzione industriale. Abbiamo perfezionato la lavorazione dei metalli, cannoni e—soprattutto—armi da fuoco.",
+    "journal": "Sono un soldato della Legione di Ferro e",
+    "question": 15,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "17-93",
+    "title": "Sciamano Stregone",
+    "description": "Gli sciamani della Legione della Fiamma una volta ci hanno schiavizzati. Per questo mio padre, che è uno sciamano, è trattato con sospetto e diffidenza. Devo sormontare la sua reputazione.",
+    "journal": "<br><br>Mi dicono che mio padre è uno sciamano stregone. Devo sormontare la sua reputazione, a qualunque costo.",
+    "question": 17,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "26-122",
+    "title": "Proteggere gli Spiriti",
+    "description": "È mio dovere proteggere gli Spiriti della Natura e ci vuole astuzia per tenerli al sicuro dal Drago di Ghiaccio.",
+    "journal": "<br><br>I rely on cunning to protect myself and my allies.",
+    "question": 26,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "183-181",
+    "title": "Lupo",
+    "description": "Un compagno lupo è considerato un grande premio. Quando è completamente cresciuto, è un cacciatore scaltro e un alleato devoto.",
+    "journal": "<br><br>Sono un esploratore e ho un lupo che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "185-165",
+    "title": "Nessun Elmo",
+    "description": "Un vero guerriero non ha bisogno di un elmo! I miei nemici tremeranno e vacilleranno quando vedranno la determinazione senza paura sul mio viso.",
+    "journal": "<br><br>Sono un guerriero e non indosso l'elmo sul campo di battaglia. Per questo motivo, i miei nemici vacillano quando vedono la determinazione senza paura nei miei occhi.<br><br>Questa è la mia storia.<br>",
+    "question": 185,
+    "professions": [
+      "Warrior"
+    ]
+  },
+  {
+    "id": "10-67",
+    "title": "Statica",
+    "description": "Costruttori e architetti costituiscono l'Università della Statica, e noi costruiamo per durare. Alcuni ci chiamano conservatori, ma eccelliamo nella creazione di nuovi progetti, nell'utilizzo di materiali in modi innovativi e nell'espansione della portata delle magie conosciute per l'applicazione pratica.",
+    "journal": "Sono un membro con ottima reputazione dell'Università della Statica.",
+    "question": 10,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "31-137",
+    "title": "Act with wisdom, but act.",
+    "description": "It is one thing to know what is right and another to change the world. We all have a calling. I will distinguish myself through my actions and thereby lift Tyria to a higher state of nobility.",
+    "journal": "the most important of Ventari's teachings is: \"Act with wisdom, but act.\"",
+    "question": 31,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "32-142",
+    "title": "Cavaliere Verde",
+    "description": "Ho visto un potente cavaliere in armatura verde, con il volto oscurato. Fu sconfitto, ma non si sottomise; fu ucciso, ma non morì. Oserò affrontarlo in battaglia?",
+    "journal": "<br><br>Durante il mio Sogno, ho visto il Cavaliere Verde, e sono chiamato a trovarlo.",
+    "question": 32,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "27-125",
+    "title": "Rivincita",
+    "description": "Ho avuto un rivale fin da quando ero giovane. È intelligente, infido e astuto. Ho perso il nostro ultimo incontro, ma la prossima volta, pareggio i conti.",
+    "journal": "Eppure, conosco il fallimento. Ho sfidato il mio rivale di una vita a disputare un combattimento, e nella mia eccessiva sicurezza di me, ho perso. Non vedo l'ora che arrivi il giorno in cui potrò pareggiare i conti.",
+    "question": 27,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "30-134",
+    "title": "Ciclo del Mezzogiorno",
+    "description": "I Sylvari risvegliati a metà giornata risolvono i problemi attaccandoli frontalmente. Siamo i guerrieri, i cacciatori e i viaggiatori che vivono la vita in prima persona e si godono l'adrenalina di correre rischi per sentirsi veramente vivi.",
+    "journal": "<br><br>L'Albero Pallido mi ha svegliato durante il Ciclo del Mezzogiorno e",
+    "question": 30,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "183-171",
+    "title": "Moa",
+    "description": "Ho cresciuto il mio moa dall'uovo. La sua devozione è ineguagliabile e l'ho visto far cadere nemici prima ancora che potessi estrarre la mia arma.",
+    "journal": "<br><br>Sono un esploratore e ho un moa che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Sylvari",
+      "Asura"
+    ]
+  },
+  {
+    "id": "17-92",
+    "title": "Soldato Leale",
+    "description": "Ho sentito pronunciare il nome di mio padre con riverenza sin da quando ero un cucciolo nel fahrar. Ho intenzione di essere all'altezza della sua reputazione—o di superarla.",
+    "journal": "<br><br>Mi dicono che mio padre è un soldato leale. Ho intenzione di essere all'altezza della sua reputazione, a qualunque costo.",
+    "question": 17,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "188-187",
+    "title": "Sorriso di Arlecchino",
+    "description": "Ci vuole coraggio per affrontare le tue paure e conquistare le tue vittorie. Non farti mai vedere senza un sorriso.",
+    "journal": "<br><br>Per il mondo, non sono mai senza il mio sorriso da arlecchino.<br><br>Questa è la mia storia.<br>",
+    "question": 188,
+    "professions": [
+      "Mesmer"
+    ]
+  },
+  {
+    "id": "187-184",
+    "title": "Anonimato",
+    "description": "I miei talenti risiedono nelle arti della furtività, infiltrazione e fuga. Non attiro l'attenzione. Per proteggere la mia identità, nascondo il viso dietro una maschera di oscurità.",
+    "journal": "<br><br>I miei talenti risiedono nelle arti della furtività, infiltrazione e fuga. Non attiro l'attenzione. Per proteggere la mia identità, nascondo il viso dietro una maschera di oscurità.<br><br>Questa è la mia storia.<br>",
+    "question": 187,
+    "professions": [
+      "Thief"
+    ]
+  },
+  {
+    "id": "182-177",
+    "title": "Elmo del Visionario",
+    "description": "Tyria è più grande di quanto sappiamo e piena di misteri. Questo elmo è aperto, permettendomi di vedere con chiarezza. Con esso, cerco le grandi verità del mondo che gli altri temono di esplorare.",
+    "journal": "<br><br>Sono un guardiano. Ho l'elmo e la curiosità di un visionario.<br><br>Questa è la mia storia.<br>",
+    "question": 182,
+    "professions": [
+      "Guardian"
+    ]
+  },
+  {
+    "id": "30-135",
+    "title": "Ciclo del Vespro",
+    "description": "I Sylvari svegliati all'imbrunire sono naturalmente curiosi e pensierosi. Ci piace imparare e trascorrere il tempo leggendo e studiando. Siamo intelligenti e attratti dalle deliziose complessità della magia.",
+    "journal": "<br><br>L'Albero Pallido mi ha risvegliato durante il Ciclo del Vespro, e",
+    "question": 30,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "189-188",
+    "title": "Perforatore del Velo",
+    "description": "Forma data dalla funzionalità, questa benda è progettata sia per coprire gli occhi di un redivivo che per aiutarlo a superare le barriere che celano l'invisibile.",
+    "journal": "<br><br>Quando combatto, uso il perforatore del velo per perforare le barriere che celano l'invisibile.<br><br>Questa è la mia storia.<br>",
+    "question": 189,
+    "professions": [
+      "Revenant"
+    ]
+  },
+  {
+    "id": "16-90",
+    "title": "Dinky",
+    "description": "Dinky era il cucciolo più piccolo del nostro fahrar, quindi doveva essere due volte più duro solo per andare in pari. Viene preso di mira perché è un guardiano, e non così intelligente, ma sto al suo fianco. È sempre stato un buon amico.",
+    "journal": "la mia banda è la mia famiglia. Morirei per loro, soprattutto per Dinky, il mio compagno di addestramento.",
+    "question": 16,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "36-154",
+    "title": "Grenth",
+    "description": "Grenth è il dio dell'oscurità, del ghiaccio e della morte. I suoi accoliti sanno che il velo tra i mondi è sottile. La morte non mi spaventa. Anche le notti più buie mi danno conforto perché Grenth veglia su di me.",
+    "journal": "Grenth, il dio della morte, mi benedisse quando ero giovane.",
+    "question": 36,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "186-160",
+    "title": "Fuoco",
+    "description": "La fame del fuoco, il suo ardore distruttivo, esige rispetto. Immola e apre la strada a una nuova crescita.",
+    "journal": "<br><br>Sono un elementalista e studio tutti gli elementi. Indosso una gemma che simboleggia il mio amore per il fuoco.<br><br>Questa è la mia storia.<br>",
+    "question": 186,
+    "professions": [
+      "Elementalist"
+    ]
+  },
+  {
+    "id": "25-118",
+    "title": "Leopardo delle Nevi",
+    "description": "Leopardo delle Nevi è uno spirito furtivo e sorridente. Ci insegna l'indipendenza, la strategia e la risata di fronte al pericolo. Fino ad oggi, la sua saggezza mi guida e il ricordo della sua visita mi conforta nelle notti buie.",
+    "journal": "Leopardo delle Nevi, il mio spirito guida, insegna che c'è un tempo per essere seri e un tempo per ridere.",
+    "question": 25,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "16-87",
+    "title": "Maverick",
+    "description": "Maverick è il miglior combattente di singolar tenzone che abbia mai incontrato. Sfortunatamente, ha una vena selvaggia e un ego delle dimensioni della Cittadella Nera. Potrebbe essere una mina vagante, ma sa come rendere le cose epiche!",
+    "journal": "la mia banda è la mia famiglia. Morirei per loro, specialmente Maverick, il mio compagno di addestramento.",
+    "question": 16,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "22-108",
+    "title": "Genitori Sconosciuti",
+    "description": "Quando ero un bambino, sono stato abbandonato in un orfanotrofio. Una coppia gentile mi ha adottato ed è diventata la mia famiglia. Tuttavia, mi sono sempre chiesto dei miei genitori naturali.",
+    "journal": "Sono diventato qualcuno, e l'unica cosa di cui mi pento è di non aver mai cercato i miei veri genitori.",
+    "question": 22,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "36-155",
+    "title": "Balthazar",
+    "description": "Balthazar—il dio della guerra, del fuoco e delle sfide—sorveglia l'arena di battaglia. Dona a coloro che hanno un talento per la strategia di combattimento e l'abilità con le armi. Mi sono allenato duramente per onorare Balthazar.",
+    "journal": "Balthazar, il dio della guerra, mi benedisse quando ero giovane.",
+    "question": 36,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "11-70",
+    "title": "Golem VAL-A",
+    "description": "La maggior parte dei golem sono potenti, progettati per la guerra. Non mostrano assolutamente alcuna finezza o originalità di progettazione. Il mio golem era compatto ed efficiente e aveva un pacchetto di funzioni senza precedenti. Ha rivoluzionato la pulizia del laboratorio e ha anche preparato un ottimo cocktail.",
+    "journal": "<br><br>La mia prima invenzione è stata il golem VAL-A",
+    "question": 11,
+    "races": [
+      "Asura"
+    ]
+  },
+  {
+    "id": "186-159",
+    "title": "Acqua",
+    "description": "L'acqua, ghiacciata o fluente, è vita e le sue correnti scorrono in profondità dentro di noi.",
+    "journal": "<br><br>Sono un elementalista e studio tutti gli elementi. Indosso una gemma che simboleggia il mio amore per l'acqua.<br><br>Questa è la mia storia.<br>",
+    "question": 186,
+    "professions": [
+      "Elementalist"
+    ]
+  },
+  {
+    "id": "25-120",
+    "title": "Corvo",
+    "description": "Corvo, intelligente e saggio, ci guida con verità che altri temono. Dona una chiarezza mentale lungimirante. Nella mia visione, ha parlato di enigmi e mi ha aperto gli occhi su segreti che pochi altri possono vedere.",
+    "journal": "Corvo, il mio spirito guida, insegna che c'è un tempo per l'azione e un tempo per il pensiero.",
+    "question": 25,
+    "races": [
+      "Norn"
+    ]
+  },
+  {
+    "id": "183-1",
+    "title": "Segugio di Felce",
+    "description": "Il mio cane è sempre stato al mio fianco, anche contro gli aggressori più pericolosi. Non potrei chiedere un amico e alleato migliore.",
+    "journal": "<br><br>Sono un esploratore e ho un cane che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "31-140",
+    "title": "Dove la vita va, dovresti andare tu.",
+    "description": "Il mondo è un posto delizioso e meraviglioso creato per noi da esplorare, godere e proteggere. Cercherò lezioni in ogni esperienza e, man mano che crescerò, avrò di più da offrire in cambio.",
+    "journal": "il più importante degli insegnamenti di Ventari è: \"Dove la vita va, dovresti andare tu.\"",
+    "question": 31,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "182-176",
+    "title": "Spallacci del Fanatico",
+    "description": "Molto tempo fa, ho determinato il mio percorso, e niente mi potrà distogliere da esso. Sono saldo nelle mie convinzioni e irremovibile nella mia lealtà. Il peso dei miei spallacci mi ricorda il fardello che porto.",
+    "journal": "<br><br>Sono un guardiano. Indosso gli spallacci e porto fardello e lealtà di un fanatico.<br><br>Questa è la mia storia.<br>",
+    "question": 182,
+    "professions": [
+      "Guardian"
+    ]
+  },
+  {
+    "id": "189-187",
+    "title": "Tela di Nebbia",
+    "description": "Semplice, diretta e assolutamente efficace, questa benda è preferita dai redivivi che si affidano all'utilità e all'efficienza per ottenere risultati.",
+    "journal": "<br><br>Quando combatto, uso la tela di nebbia per focalizzare la mia vista interiore.<br><br>Questa è la mia storia.<br>",
+    "question": 189,
+    "professions": [
+      "Revenant"
+    ]
+  },
+  {
+    "id": "16-91",
+    "title": "Reeva",
+    "description": "Reeva gioca come combatte: duramente. Niente la abbatte. Scherza sempre dicendo che le sue armi migliori sono i suoi attrezzi da ingegnere e un acuto senso dell'umorismo. Per Reeva, la vita non vale molto se non è divertente.",
+    "journal": "la mia banda è la mia famiglia. Morirei per loro, soprattutto Reeva, la mia compagna di addestramento.",
+    "question": 16,
+    "races": [
+      "Charr"
+    ]
+  },
+  {
+    "id": "36-157",
+    "title": "Lyssa",
+    "description": "Lyssa indossa molte maschere. È la dea dalla doppia faccia della bellezza, dell'acqua e dell'illusione. È la patrona dei più attraenti e aggraziati tra noi. Le sue benedizioni mi hanno raggiunto per tutta la vita.",
+    "journal": "Lyssa, la dea della bellezza, mi benedisse quando ero giovane.",
+    "question": 36,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "7-53",
+    "title": "Fascino",
+    "description": "Sono affascinante. Nessuno può resistermi quando sono al meglio. So esattamente cosa dire per alleggerire l'atmosfera o per incoraggiare.",
+    "journal": "Sebbene i problemi possano seguirmi, li supero con il mio fascino.",
+    "question": 7
+  },
+  {
+    "id": "21-106",
+    "title": "Nobiltà",
+    "description": "Sono cresciuto tra i nobili, incluso il mio amico Lord Faren, che possono far risalire i loro antenati agli antichi re. Ho ricevuto un'eccellente istruzione, sono esperto nelle grazie di corte e capisco la responsabilità che deriva dal privilegio.",
+    "journal": "<br><br>Sono cresciuto tra la nobiltà e valorizzo il mio onore.",
+    "question": 21,
+    "races": [
+      "Human"
+    ]
+  },
+  {
+    "id": "31-138",
+    "title": "Tutte le cose hanno diritto a crescere.",
+    "description": "Il fiore è fratello dell'erba. La diversità di opinione è buona. La discussione è salutare. Nessuno dovrebbe essere condannato semplicemente per essere diverso. Lotterò per i diritti di tutti.",
+    "journal": "il più importante degli insegnamenti di Ventari è: \"Tutte le cose hanno diritto a crescere.\"",
+    "question": 31,
+    "races": [
+      "Sylvari"
+    ]
+  },
+  {
+    "id": "183-173",
+    "title": "Divoratore",
+    "description": "Il mio divoratore è un combattente feroce e spietato. L'ho allevato dall'uovo e mi sono guadagnato la sua lealtà. Morirebbe per difendermi.",
+    "journal": "<br><br>Sono un esploratore e ho un divoratore che combatte al mio fianco e mi guarda le spalle.<br><br>Questa è la mia storia.<br>",
+    "question": 183,
+    "professions": [
+      "Ranger"
+    ],
+    "races": [
+      "Charr"
+    ]
+  }]
