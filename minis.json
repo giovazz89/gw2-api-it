@@ -567,14 +567,14 @@
   },
   {
     "id": 82,
-    "name": "Mini Drake di Palude",
+    "name": "Mini Drake Palustre",
     "icon": "https://render.guildwars2.com/file/F931D00E3E636835CDBBBF095B3F39F8660CA038/102725.png",
     "order": 132,
     "item_id": 20192
   },
   {
     "id": 83,
-    "name": "Mini Spider di Palude",
+    "name": "Mini Ragno Palustre",
     "icon": "https://render.guildwars2.com/file/EF5CE83E9DBA11A546A9050C93E42E76C8D67D4B/102727.png",
     "order": 135,
     "item_id": 20193
@@ -4776,7 +4776,7 @@
   },
   {
     "id": 708,
-    "name": "Mini Coniglietto del Deserto Primordiale",
+    "name": "Mini Coniglietto del Deserto Primitivo",
     "unlock": "<c=@reminder>Questa miniatura può essere creata solo nella Forgia Mistica.</c>",
     "icon": "https://render.guildwars2.com/file/D610C5FF5404FE580711AD06BB64CD93FF31DD01/2028459.png",
     "order": 667,
