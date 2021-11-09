@@ -1,0 +1,644 @@
+[{
+    "id": 1,
+    "name": "Inseguitore della Giungla Immaturo",
+    "description": "Gli inseguitori della giungla fanno affidamento sulla loro forza per abbattere la preda. Entrano in battaglia con un potente ruggito, ispirando gli alleati mentre affondano nelle loro vittime con artigli e denti. Adorano i massaggi alla pancia. —Acht",
+    "icon": "https://render.guildwars2.com/file/EF1CBC60372CC60E420AD479A3504D90207A9A3F/52535.png",
+    "skills": [
+      {
+        "id": 12658
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cinghiale Immaturo",
+    "description": "Questo cinghiale è un combattente duro e forte, con zanne nefaste. È difficile per i nemici restare in piedi se caricati. Sebbene la società educata possa non apprezzare il suo fascino, un cinghiale può essere il migliore amico di un esploratore. —Acht",
+    "icon": "https://render.guildwars2.com/file/F4A7D5033C6BBB14F4EDE9F0946190047D2AA96F/52537.png",
+    "skills": [
+      {
+        "id": 12754
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Lince Immatura",
+    "description": "Le linci sono cacciatrici tenaci, capaci di balzare lunghe distanze per inseguire prede in fuga. Quando si sentono particolarmente a loro agio e al sicuro, a volte rotolano sulla schiena tenendo le zampe in aria. —Acht",
+    "icon": "https://render.guildwars2.com/file/6C1D64F7D34D073A7E1860B754A33DBCBFCC6CE6/52539.png",
+    "skills": [
+      {
+        "id": 12680
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Segugio da Drake Krytano Immaturo",
+    "description": "Questo segugio Krytano è un animale leale e protettivo. Usa la sua grande forza e tenacia per combattere per il suo padrone e può immobilizzare i nemici spaventandoli con il suo ululato. —Acht",
+    "icon": "https://render.guildwars2.com/file/76E6FF0DCD60DFC7287FB14542234EFAAA92194F/52541.png",
+    "skills": [
+      {
+        "id": 12715
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Orso Bruno Immaturo",
+    "description": "Gli orsi bruni sono tremendamente forti e ferocemente protettivi. Si lanciano in combattimento altruisticamente per distrarre l'attenzione dai loro padroni e usano la loro grande forza per scrollarsi di dosso colpi che ucciderebbero qualsiasi altra creatura. —Acht",
+    "icon": "https://render.guildwars2.com/file/1B51DCA656B8ED7A2C1C48AC03A4BCD6EDA66901/52543.png",
+    "skills": [
+      {
+        "id": 12666
+      },
+      {
+        "id": 12691
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Divoratore di Carogne Immaturo",
+    "description": "Questo divoratore di carogne è un predatore mortale e spietato. Avvelena i nemici a distanza, si nasconde sottoterra per tendergli imboscate e può morderli per recuperare la salute. —Acht",
+    "icon": "https://render.guildwars2.com/file/C608E0CA50E16897B1BB7FCD492703E7D20308C8/52545.png",
+    "skills": [
+      {
+        "id": 12675
+      },
+      {
+        "id": 12703
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Drake Salamandra Immaturo",
+    "description": "I drake salamandra rossi sono spesso cacciati per la loro somiglianza con il mito dei draghi, sebbene siano una specie diversa. Continuano a sopravvivere perché il loro alito di fuoco li rende mortali per cacciatori e prede. —Acht",
+    "icon": "https://render.guildwars2.com/file/5EF6FBFDD6E60258DDFDD5467071E4FB31503BAC/52547.png",
+    "skills": [
+      {
+        "id": 12670
+      },
+      {
+        "id": 12695
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Lupo Alpino Immaturo",
+    "description": "Questo lupo innevato è di casa nelle gelide terre del nord. I loro ululati congelano i nemici fino alle ossa, lasciandoli vulnerabili ai loro potenti artigli e mascelle. —Acht",
+    "icon": "https://render.guildwars2.com/file/9255640360EAAAF61A09284742E44A4626626339/52549.png",
+    "skills": [
+      {
+        "id": 12716
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Leopardo delle Nevi Immaturo",
+    "description": "I leopardi delle nevi hanno interiorizzato il clima rigido in cui vivono. Il loro balzo debilita le loro vittime con un freddo agghiacciante, rendendogli più difficile la fuga. Sebbene siano a loro agio con il freddo gelido, i leopardi delle nevi adorano un buon raggio di sole. —Acht",
+    "icon": "https://render.guildwars2.com/file/923714681AB4117A300E0946487CCB0F72E10921/52551.png",
+    "skills": [
+      {
+        "id": 12693
+      },
+      {
+        "id": 12656
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Corvo Immaturo",
+    "description": "Il corvo è astuto e intelligente. La sua intelligenza li rende ricognitori eccelsi. In combattimento, evitano gli attacchi e colpiscono gli occhi dei nemici per accecarli. —Acht",
+    "icon": "https://render.guildwars2.com/file/0BE49B5A5868FD4DAA02D2BE37DE5FC002A41E7D/52553.png",
+    "skills": [
+      {
+        "id": 12723
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Giaguaro Immaturo",
+    "description": "Il giaguaro è un predatore silenzioso, capace di avvicinarsi di soppiatto a un nemico ignaro e tendere un'imboscata mortale. Quando non squarciano prede con gli artigli, i giaguari si divertono anche a giocare con tessuti colorati e oggetti luccicanti. —Acht",
+    "icon": "https://render.guildwars2.com/file/B90D0599D6F8B50AE1C24D140EFFC4F93303E62E/52555.png",
+    "skills": [
+      {
+        "id": 12681
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Drake Palustre Immaturo",
+    "description": "La dieta standard del drake palustre include una varietà di insetti di palude nocivi. L'apparato digerente del drake isola quei veleni sgradevoli e consente loro di espirare una nuvola velenosa per debilitare i nemici. —Acht",
+    "icon": "https://render.guildwars2.com/file/75D8EEA0425007A3D1AC0A01D2CCC17036D65D23/1128510.png",
+    "skills": [
+      {
+        "id": 12701
+      },
+      {
+        "id": 12700
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Moa Blu Immaturo",
+    "description": "I moa blu sono protettivi e paterni per il loro stormo. Le loro creste rosso vivo li rendono facili da radunare e molti stormi sono sopravvissuti grazie alla presenza di un moa blu. —Acht",
+    "icon": "https://render.guildwars2.com/file/9220AB4AD4B72194F22A9864B5B59CF8C518096A/52559.png",
+    "skills": [
+      {
+        "id": 12713
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Moa Bianco Immaturo",
+    "description": "I moa bianchi sono uccelli particolarmente irascibili che assaltano i loro nemici con strilli, beccate, grida armoniche e uno stile di attacco frenetico. —Acht",
+    "icon": "https://render.guildwars2.com/file/71DEFA80B950FA6C297AFD7A6BE1DA9726F57D94/52561.png",
+    "skills": [
+      {
+        "id": 12711
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Moa Rosa Immaturo",
+    "description": "I moa rosa sono adorabili ma tendono a essere fastidiosi. Colpiscono spesso altri moa per attirare l'attenzione e hanno uno stridio particolarmente irritante, che disorienta i loro nemici. —Acht",
+    "icon": "https://render.guildwars2.com/file/D4F01CBFF90D45E04C98B836E836280AB01A0BB1/52563.png",
+    "skills": [
+      {
+        "id": 12708
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Moa Nero Immaturo",
+    "description": "Il raro moa nero è considerato da alcune culture un presagio di morte e peste. Questa convinzione è fuorviante, poiché biologicamente la loro unica grande differenza dagli altri moa è una particolare predilezione per le ghiande. —Acht",
+    "icon": "https://render.guildwars2.com/file/6B9111F0B1CF94B4A4052FF39FB4E5041702FCDF/52565.png",
+    "skills": [
+      {
+        "id": 12709
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Moa Rosso Immaturo",
+    "description": "I moa rossi sono una razza di uccelli feroce e aggressiva. Il loro grido riempie di furia i loro alleati, energizzandoli mentre combattono. Nonostante la loro natura ruvida, tuttavia, i moa rossi sono molto ordinati e puliscono compulsivamente se stessi e gli altri moa. —Acht",
+    "icon": "https://render.guildwars2.com/file/FCB3E7C150F206DE3CE9D53A247A1EDD01080F6E/52566.png",
+    "skills": [
+      {
+        "id": 12712
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Drake Ghiacciato Immaturo",
+    "description": "I drake ghiacciati hanno una biologia unica, considerando che sono creature a sangue freddo che vivono in climi artici. Possono espirare ghiaccio per attaccare la loro preda. —Acht",
+    "icon": "https://render.guildwars2.com/file/FC57A3DA7DB01370A16DE0CAF09BDF0F5A6464A6/52568.png",
+    "skills": [
+      {
+        "id": 12696
+      },
+      {
+        "id": 12697
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Drake Fluviale Immaturo",
+    "description": "I drake fluviali cacciano gettando i nemici nell'acqua e rilasciando il loro respiro elettrico. Fortunatamente, sono immuni al proprio respiro, ma la maggior parte delle prede non può resistere alla sua potenza. —Acht",
+    "icon": "https://render.guildwars2.com/file/0E0A036C030F8013556C0715CCC9B11C08B7926D/52570.png",
+    "skills": [
+      {
+        "id": 12698
+      },
+      {
+        "id": 12699
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Murellow Immaturo",
+    "description": "Il corpo dell'elusivo murellow si riempie di veleni, conferendogli un aspetto malaticcio e facendogli cadere il pelo. Nonostante la sua struttura scarna, è un feroce protettore, sputando nuvole di veleno mentre respinge gli attacchi. —Acht",
+    "icon": "https://render.guildwars2.com/file/4AA07A3721C4050A92A9EA4D905366303E5AF4D4/52572.png",
+    "skills": [
+      {
+        "id": 12687
+      },
+      {
+        "id": 12690
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Squalo Immaturo",
+    "description": "Questo è il tuo squalo domestico. Esatto. Il tuo squalo da compagnia. È il tuo animale domestico. E uno squalo. Fantastico. Gli squali dilaniano i loro nemici con denti potenti e possono persino ingoiare i nemici interi. —Acht",
+    "icon": "https://render.guildwars2.com/file/24DC58C7D70FED79BF7E0D38D202479E3D2EB2F9/52574.png",
+    "skills": [
+      {
+        "id": 12757
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Segugio di Felce Immaturo",
+    "description": "I lupi vegetali degli aquitrini Sylvari sono creature rare e magiche che condividono molte caratteristiche con i loro fratelli mondani. Combattono ferocemente per il loro branco, usando la loro affinità con le piante per rigenerare rapidamente le ferite.—Acht",
+    "icon": "https://render.guildwars2.com/file/5EBD4E7C03ABEC7EE648B30197559F660651BB00/52576.png",
+    "skills": [
+      {
+        "id": 12717
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Orso Nero Immaturo",
+    "description": "Gli orsi neri sono animali territoriali e privati, ma formano forti legami con i loro amici e intervengono altruisticamente quando i loro amici vengono minacciati. Nonostante il loro aspetto spaventoso, mangiano principalmente bacche, frutta e pesce. —Acht",
+    "icon": "https://render.guildwars2.com/file/750CA07BDEC1D16FE29BD1AE17EE0C22F366E16E/52578.png",
+    "skills": [
+      {
+        "id": 12688
+      },
+      {
+        "id": 12685
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Orso Polare Immaturo",
+    "description": "Trovati nel gelido nord, gli orsi polari si sono adattati per sopravvivere nelle condizioni più difficili su Tyria. Il più resistente degli animali addomesticabili, può ignorare colpi dolorosi e indebolire i nemici con il suo morso agghiacciante. —Acht",
+    "icon": "https://render.guildwars2.com/file/A4FE067546F4AF76AE15B5A1A45447E4A3FB5AFC/52580.png",
+    "skills": [
+      {
+        "id": 12667
+      },
+      {
+        "id": 12689
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Arctodus Immaturo",
+    "description": "L'arctodus è un possente orso-lupo delle nevi. Il suo lato di lupo gli conferisce una forte mentalità da branco che lo rende molto protettivo dei suoi compagni. Può ruggire con forza artica, raggelando gli avversari fino al midollo e rendendo loro più difficile muoversi o agire. —Acht",
+    "icon": "https://render.guildwars2.com/file/A54EA5421979C33E0F364301262416D4512D0DBF/52582.png",
+    "skills": [
+      {
+        "id": 12664
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Divoratore Frustacoda Immaturo",
+    "description": "I divoratori frustacoda sono attaccanti a distanza particolarmente letali, che usano veleno e una raffica di punte di coda per abbattere la preda a distanza. —Acht",
+    "icon": "https://render.guildwars2.com/file/F350B25F6746B555B4A76BFC78CC0E94BF546A67/52584.png",
+    "skills": [
+      {
+        "id": 12702
+      },
+      {
+        "id": 12674
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Divoratore Sferzacoda Immaturo",
+    "description": "I divoratori sferzacoda sono fortunatamente rari, poiché la loro tattica di tendere imboscate ai nemici e scatenare una raffica di colpi di coda che immobilizzano la loro preda li rende particolarmente letali. —Acht",
+    "icon": "https://render.guildwars2.com/file/E2E73A4428C6C566F1F551563167070D6F917173/52586.png",
+    "skills": [
+      {
+        "id": 12704
+      },
+      {
+        "id": 12679
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Iena Immatura",
+    "description": "Questa iena è un combattente scaltro e astuto. Il branco di una iena non è mai lontano e può evocare un'altra iena per combattere al suo fianco. —Acht",
+    "icon": "https://render.guildwars2.com/file/31CCCCA90BAA6B09A80E2978D794DF2ED42B3779/52588.png",
+    "skills": [
+      {
+        "id": 12718
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Lupo Immaturo",
+    "description": "Questo lupo è un predatore mortale, con mascelle potenti e un ululato che fa fuggire i nemici terrorizzati. Il branco è tutto per un lupo e combatteranno instancabilmente per il loro alfa. —Acht",
+    "icon": "https://render.guildwars2.com/file/D7E020A1FEDD31DB47F21E22A2217CA94C282A0C/52590.png",
+    "skills": [
+      {
+        "id": 12714
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Gufo Immaturo",
+    "description": "Questo gufo bianco come la neve è un animale grazioso ed elegante. I gufi bianchi sono ferocemente fedeli ai loro amici e familiari. Scatenano un freddo agghiacciante e graffiano i nemici mentre schivano gli attacchi in un turbinio d'ali. —Acht",
+    "icon": "https://render.guildwars2.com/file/5A4CB8FF3E02BE075877C6DE2309394FCE549054/52592.png",
+    "skills": [
+      {
+        "id": 12721
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Aquila Immatura",
+    "description": "Questa possente aquila è l'uccello più maestoso. Sono predatori forti e mortali, che infliggono ferite sanguinanti con artigli e becco mentre eludono i contrattacchi. —Acht",
+    "icon": "https://render.guildwars2.com/file/43495C762E04BEDDB5BB3EA467D63409F212F2CF/52594.png",
+    "skills": [
+      {
+        "id": 12722
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Corvo Bianco Immaturo",
+    "description": "I corvi bianchi sono estremamente rari. Questo uccello eccezionalmente intelligente ed elegante è comunque un combattente mortale, neutralizzando i nemici artigliando loro gli occhi e accecandoli mentre elude i loro contrattacchi. —Acht",
+    "icon": "https://render.guildwars2.com/file/4C314B00DC20F50F2FCACC14615C91BB4F2262A3/52596.png",
+    "skills": [
+      {
+        "id": 12723
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Ragno di Foresta Immaturo",
+    "description": "Mentre altri ragni usano veleni debilitanti o paralizzanti, il veleno dei ragni di foresta è semplicemente corrosivo e distruttivo. Fortunatamente sono immuni alle qualità acide del loro stesso veleno, ma devono mangiare velocemente. —Acht",
+    "icon": "https://render.guildwars2.com/file/46021B0706D37EEF1F3DE7090E5B0ACF0F927E7C/52598.png",
+    "skills": [
+      {
+        "id": 12731
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Ragno di Giungla Immaturo",
+    "description": "Ci vuole un particolare stato d'animo per avere un ragno gigante come animale domestico, specialmente un raro ragno di giungla. Fortunatamente, sono in grado di nutrirsi da soli, disabilitando i nemici con uno sputo velenoso che può paralizzarli temporaneamente. —Acht",
+    "icon": "https://render.guildwars2.com/file/227AF44EC32FC170BB76B5AA352DA0460374FB01/52600.png",
+    "skills": [
+      {
+        "id": 12729
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Ragno di Caverna Immaturo",
+    "description": "L'astuto ragno delle caverne è un predatore mortale che usa un veleno debilitante per indebolire attacco e difesa dei suoi nemici mentre li abbatte. Sono animali sorprendentemente affettuosi, anche se gli esploratori non dovrebbero mangiare le creature che portano in dono. —Acht",
+    "icon": "https://render.guildwars2.com/file/61567AC1D76EF13C4CD0D1D33018B09F7EA494D4/52602.png",
+    "skills": [
+      {
+        "id": 12730
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Ragno Vedova Nera Immaturo",
+    "description": "La vedova nera è la varietà più rara di ragno. Come gli altri ragni, possono lanciare veleno e tessere ragnatele per immobilizzare i nemici. Le vedove nere possono anche usare un veleno speciale che paralizza i nemici sul posto. —Acht",
+    "icon": "https://render.guildwars2.com/file/07EA03060306A6D95752C70CA7D8931420069B0D/52604.png",
+    "skills": [
+      {
+        "id": 12729
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Facocero Immaturo",
+    "description": "Questo facocero è una creatura scontrosa e dura che non si tira mai indietro da un combattimento. Molti nemici l'hanno sottovalutato, solo per essere sconfitti dalle sue zanne e dai potenti attacchi in carica . —Acht",
+    "icon": "https://render.guildwars2.com/file/DF96C29EFA4BDEC66C3149F280141490C20458D3/52606.png",
+    "skills": [
+      {
+        "id": 12755
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Siamoth Immaturo",
+    "description": "Sebbene possa sembrare bizzarro, questo tapiro è una creatura bonaria e un compagno amabile. Il suo aspetto senza pretese nasconde un lato feroce, e i siamoth sono noti per far volare i loro avversari con una carica ben piazzata . —Acht",
+    "icon": "https://render.guildwars2.com/file/0471617BD371046C089D7CDDB9104E57C33DA391/52608.png",
+    "skills": [
+      {
+        "id": 12756
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Maiale Immaturo",
+    "description": "Questo maiale è uno degli animali più rari ed esotici di tutta Tyria. Mentre cammini con questo maiale al tuo fianco, le persone osserveranno meravigliate la misteriosa creatura che non hanno mai visto prima. Davvero, questo è un momento di meraviglia. —Acht",
+    "icon": "https://render.guildwars2.com/file/CE671613E510096E1E0FA1ABCA6AD668900F03E1/52610.png",
+    "skills": [
+      {
+        "id": 12732
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Pesce Corazzato Immaturo",
+    "description": "L'armatura di questo pesce resistente può sopportare un'enorme quantità di punizioni. I pesci corazzati sopraffanno i loro nemici con disorientanti colpi violenti mentre si scrollano di dosso i loro contrattacchi. —Acht",
+    "icon": "https://render.guildwars2.com/file/F9A71C1308254B0544F40B9B5E05050EA87ED45B/52612.png",
+    "skills": [
+      {
+        "id": 12744
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Medusa Blu Immatura",
+    "description": "Le meduse possono rilasciare una varietà di nuvole nell'acqua per ricostituirsi e disorientare i loro nemici. Le meduse blu possono anche gelare i nemici con la punta dei loro tentacoli. —Acht",
+    "icon": "https://render.guildwars2.com/file/ED9A2FD006BAED6DCAD87C5BD9479C66111DCD79/52614.png",
+    "skills": [
+      {
+        "id": 12748
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Medusa Rossa Immatura",
+    "description": "Le meduse possono rilasciare una varietà di nuvole nell'acqua per ricostituirsi e disorientare i loro nemici. I loro tentacoli immobilizzano la loro preda interrompendo il loro sistema nervoso. —Acht",
+    "icon": "https://render.guildwars2.com/file/C7F8301C1B76B3B208A23B19C3AABF0BBED8CA4C/52616.png",
+    "skills": [
+      {
+        "id": 12749
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Medusa Arcobaleno Immatura",
+    "description": "Le meduse rilasciano una varietà di nuvole nell'acqua per ricaricarsi e disorientare i loro nemici. Le meduse arcobaleno possono anche raffreddare i nemici con le punte dei loro tentacoli.—Acht",
+    "icon": "https://render.guildwars2.com/file/ED9A2FD006BAED6DCAD87C5BD9479C66111DCD79/52614.png",
+    "skills": [
+      {
+        "id": 12748
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Falco Immaturo",
+    "description": "Questo falco è un alleato scaltro. È un predatore feroce e mortale che infligge ferite sanguinanti con gli artigli e il becco, evitando i contrattacchi.—Acht",
+    "icon": "https://render.guildwars2.com/file/70F79F793C0625969046DF0C00B548C50E17115B/543019.png",
+    "skills": [
+      {
+        "id": 20975
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Drake Corallino Immaturo",
+    "description": "I drake corallini emettono uno stridio acuto per disorientare i nemici. Non lasciare che ti confondano; questi drake sono pericolosi .—Acht",
+    "icon": "https://render.guildwars2.com/file/A90B47ECE2A57D71DB23384E23F5EFF7130176B4/511359.png",
+    "skills": [
+      {
+        "id": 16426
+      },
+      {
+        "id": 16427
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Scagliafumo Immaturo",
+    "description": "Gli scagliafumo hanno la capacità di nascondersi nel fumo. Questi sauri furtivi emergono dalla loro nuvola di fumo per tendere un'imboscata alle prede senza preavviso.—Acht",
+    "icon": "https://render.guildwars2.com/file/9B1BB03EA406016DE343EBF4C733C05ADA7FD70D/1128512.png",
+    "skills": [
+      {
+        "id": 31568
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Tigre Immatura",
+    "description": "Le tigri sono tra i più grandi predatori felini, con strisce che aiutano a nasconderli nella fitta vegetazione. Feroci cacciatori con denti e artigli, trascorrono la maggior parte della loro vita in solitudine.—Acht",
+    "icon": "https://render.guildwars2.com/file/A41953A8682309700FA17601FE05DB040C6CD07B/1128514.png",
+    "skills": [
+      {
+        "id": 31451
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Viverna Elettrica Immatura",
+    "description": "Le viverne elettriche sono una variante unica della loro specie alata che genera e incanala elettricità. Isolano e colpiscono la loro preda con potenti impulsi elettrici.—Acht",
+    "icon": "https://render.guildwars2.com/file/E93F21BDA224010D2A7CF90B9297E3083C436BF7/1128506.png",
+    "skills": [
+      {
+        "id": 31639
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Viverna di Fuoco Immatura",
+    "description": "Le viverne di fuoco sono parenti alati del drago terrestre. Questi voraci predatori contengono e poi arrostiscono la loro preda con andate di alito infuocato.—Acht",
+    "icon": "https://render.guildwars2.com/file/AE90459E46D1F3E01C94A09A117FFA06ED2B54EB/1128508.png",
+    "skills": [
+      {
+        "id": 31459
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Irsuto Immaturo",
+    "description": "Gli irsuti sono sauri spinosi con pelli spesse e artigli affilati. Quando provocati, possono espellere le loro spine dorsali affilate ad alta velocità.—Acht",
+    "icon": "https://render.guildwars2.com/file/371C4E26DD3744CDEEEE5D45142519561E286FFE/1128504.png",
+    "skills": [
+      {
+        "id": 31367
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Ghepardo Immaturo",
+    "description": "È una macchia confusa, signore! Si dice che il ghepardo del deserto viaggi più velocemente di quanto l'occhio possa vedere, balzando sulla sua vittima con zanne e artigli. —Acht",
+    "icon": "https://render.guildwars2.com/file/1911090762244A310BD539B2C54A23F702F66D0A/1769877.png",
+    "skills": [
+      {
+        "id": 42963
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Leone della Sabbia Immaturo",
+    "description": "I leoni della sabbia rivendicano enormi dune e difendono ferocemente il loro territorio da dozzine di invasori del deserto. —Acht",
+    "icon": "https://render.guildwars2.com/file/0D23EE67F7C4F4E300637D43B9A46F500FD4799C/1769879.png",
+    "skills": [
+      {
+        "id": 42180
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Jacaranda Immaturo",
+    "description": "Capace di richiamare i fulmini dal cielo mentre si mimetizza con il terreno. Non stanno fermi; stanno aspettando. —Acht",
+    "icon": "https://render.guildwars2.com/file/DFA4A1F6006A0769DAAD0C7909FB607A3A21693D/1769881.png",
+    "skills": [
+      {
+        "id": 44980
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Gazzella Rocciosa Immatura",
+    "description": "L'elegante gazzella rocciosa pascola su affioramenti rocciosi durante la sua vita per migliorare le sue imponenti corna. —Acht",
+    "icon": "https://render.guildwars2.com/file/F3EED35B2DD6B52FFCBFD7FCCA184EB7EBCF01A4/1769875.png",
+    "skills": [
+      {
+        "id": 43636
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Iboga Zannuto Immaturo",
+    "description": "L'iboga zannuto è uno dei membri più aggressivi della sua famiglia, che cerca attivamente la preda e la cosparge senza pietà di acido. —Acht",
+    "icon": "https://render.guildwars2.com/file/BE037F03F337204F7D9C99F1B94D7FA708AE00A7/1769883.png",
+    "skills": [
+      {
+        "id": 41156
+      }
+    ]
+  }]

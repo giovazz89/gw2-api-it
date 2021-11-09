@@ -1,0 +1,6387 @@
+[{
+    "id": 1,
+    "name": "Raptor",
+    "icon": "https://render.guildwars2.com/file/2F4AAA52F573C5425BFCD7525FB70C9E6DCAD791/1766903.png",
+    "dye_slots": [
+      {
+        "color_id": 19,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 2,
+    "name": "Manta Rincope",
+    "icon": "https://render.guildwars2.com/file/BD357CB6A25EEFA961B974B6E980DFB0A396A5A4/1766901.png",
+    "dye_slots": [
+      {
+        "color_id": 590,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 3,
+    "name": "Coniglio del Deserto",
+    "icon": "https://render.guildwars2.com/file/EAD3540691D702A52E617140055725DF41BBBA49/1766899.png",
+    "dye_slots": [
+      {
+        "color_id": 466,
+        "material": "cloth"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 4,
+    "name": "Grifone",
+    "icon": "https://render.guildwars2.com/file/0307F624D93C09236934C3CEE63063CD1C96ACAB/1822130.png",
+    "dye_slots": [
+      {
+        "color_id": 705,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 6,
+    "name": "Sciacallo",
+    "icon": "https://render.guildwars2.com/file/01D6BF672FDBC1A22D11CF1090BCAE7A05372B65/1766897.png",
+    "dye_slots": [
+      {
+        "color_id": 652,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 12,
+    "name": "Squamastella",
+    "icon": "https://render.guildwars2.com/file/C53B210067B44EEA29B8ACCBA595A64B2BE6D3AD/2015438.png",
+    "dye_slots": [
+      {
+        "color_id": 671,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1454,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1378,
+        "material": "cloth"
+      },
+      {
+        "color_id": 603,
+        "material": "metal"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 13,
+    "name": "Raptor Spaventoso",
+    "icon": "https://render.guildwars2.com/file/0B746EAF311AB1E83D593D48113D6C929A22075E/1862547.png",
+    "dye_slots": [
+      {
+        "color_id": 348,
+        "material": "leather"
+      },
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 1541,
+        "material": "leather"
+      },
+      {
+        "color_id": 15,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 14,
+    "name": "Sciacallo Spaventoso",
+    "icon": "https://render.guildwars2.com/file/2347359EEAC2722F95397010994734F0CE1EAD7F/1862571.png",
+    "dye_slots": [
+      {
+        "color_id": 348,
+        "material": "leather"
+      },
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 1541,
+        "material": "leather"
+      },
+      {
+        "color_id": 15,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 15,
+    "name": "Coniglio Spaventoso",
+    "icon": "https://render.guildwars2.com/file/BC77FE903BA70F76D10BEFA2545CAB30539990E1/1862506.png",
+    "dye_slots": [
+      {
+        "color_id": 348,
+        "material": "cloth"
+      },
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 1541,
+        "material": "fur"
+      },
+      {
+        "color_id": 15,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 16,
+    "name": "Grifone Spaventoso",
+    "icon": "https://render.guildwars2.com/file/97EBA47F7A6FCBF1BC62CA617E39F5F62102C148/1862455.png",
+    "dye_slots": [
+      {
+        "color_id": 348,
+        "material": "fur"
+      },
+      {
+        "color_id": 69,
+        "material": "fur"
+      },
+      {
+        "color_id": 1541,
+        "material": "fur"
+      },
+      {
+        "color_id": 15,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 17,
+    "name": "Avialae Splendente",
+    "icon": "https://render.guildwars2.com/file/A1A20D90B4F5281C73A4E0486409272F3CFE3764/1895213.png",
+    "dye_slots": [
+      {
+        "color_id": 680,
+        "material": "cloth"
+      },
+      {
+        "color_id": 7,
+        "material": "cloth"
+      },
+      {
+        "color_id": 137,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1377,
+        "material": "metal"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 19,
+    "name": "Manta Spaventosa",
+    "icon": "https://render.guildwars2.com/file/46CF0EA9B7A13B0C2A0F410D28D51CB4F6C398DA/1862569.png",
+    "dye_slots": [
+      {
+        "color_id": 348,
+        "material": "leather"
+      },
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 1541,
+        "material": "leather"
+      },
+      {
+        "color_id": 15,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 20,
+    "name": "Vento Screziato",
+    "icon": "https://render.guildwars2.com/file/22B848FF8055534E1EC397086D2F46647547E29F/1876490.png",
+    "dye_slots": [
+      {
+        "color_id": 78,
+        "material": "cloth"
+      },
+      {
+        "color_id": 672,
+        "material": "cloth"
+      },
+      {
+        "color_id": 449,
+        "material": "cloth"
+      },
+      {
+        "color_id": 698,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 21,
+    "name": "Codaspino Costiero",
+    "icon": "https://render.guildwars2.com/file/0167AC167C41CB9755AE12954C2FA30C1C0535A1/1876530.png",
+    "dye_slots": [
+      {
+        "color_id": 700,
+        "material": "leather"
+      },
+      {
+        "color_id": 88,
+        "material": "leather"
+      },
+      {
+        "color_id": 642,
+        "material": "leather"
+      },
+      {
+        "color_id": 19,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 22,
+    "name": "Pietra Levigata",
+    "icon": "https://render.guildwars2.com/file/684AF0124E52E43F60F7AB5E9CB41F72E5517B30/1876747.png",
+    "dye_slots": [
+      {
+        "color_id": 381,
+        "material": "metal"
+      },
+      {
+        "color_id": 642,
+        "material": "leather"
+      },
+      {
+        "color_id": 86,
+        "material": "leather"
+      },
+      {
+        "color_id": 625,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 23,
+    "name": "Remigante di Fuoco",
+    "icon": "https://render.guildwars2.com/file/07CCC8F3B515B791D0C825056D3764D600937EBC/1876423.png",
+    "dye_slots": [
+      {
+        "color_id": 1349,
+        "material": "fur"
+      },
+      {
+        "color_id": 5,
+        "material": "fur"
+      },
+      {
+        "color_id": 1150,
+        "material": "fur"
+      },
+      {
+        "color_id": 1541,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 24,
+    "name": "Cresta Tempesta",
+    "icon": "https://render.guildwars2.com/file/3BACC346F07E2330A2AAFA9B2A3180E5AF602909/1876532.png",
+    "dye_slots": [
+      {
+        "color_id": 77,
+        "material": "leather"
+      },
+      {
+        "color_id": 26,
+        "material": "cloth"
+      },
+      {
+        "color_id": 345,
+        "material": "fur"
+      },
+      {
+        "color_id": 590,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 25,
+    "name": "Silfide Maculato",
+    "icon": "https://render.guildwars2.com/file/E541AA169923BFED4A937451FAAA79019EDCC5C1/1876415.png",
+    "dye_slots": [
+      {
+        "color_id": 1357,
+        "material": "cloth"
+      },
+      {
+        "color_id": 380,
+        "material": "cloth"
+      },
+      {
+        "color_id": 704,
+        "material": "cloth"
+      },
+      {
+        "color_id": 650,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 26,
+    "name": "Razza Oceanica",
+    "icon": "https://render.guildwars2.com/file/FCBCC500961BC20FEEE7724699E71F76DCC2F49C/1876605.png",
+    "dye_slots": [
+      {
+        "color_id": 588,
+        "material": "leather"
+      },
+      {
+        "color_id": 622,
+        "material": "leather"
+      },
+      {
+        "color_id": 1381,
+        "material": "leather"
+      },
+      {
+        "color_id": 442,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 27,
+    "name": "Legame Stellare",
+    "icon": "https://render.guildwars2.com/file/5728F1507E6243E4FA160FB9F81F696F68707E38/1876457.png",
+    "dye_slots": [
+      {
+        "color_id": 364,
+        "material": "fur"
+      },
+      {
+        "color_id": 1454,
+        "material": "fur"
+      },
+      {
+        "color_id": 1305,
+        "material": "fur"
+      },
+      {
+        "color_id": 603,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 28,
+    "name": "Mistico Marchiato",
+    "icon": "https://render.guildwars2.com/file/0DC7E21CA968C6E2AD21BD222B00CF4E9A182E45/1876757.png",
+    "dye_slots": [
+      {
+        "color_id": 436,
+        "material": "metal"
+      },
+      {
+        "color_id": 625,
+        "material": "leather"
+      },
+      {
+        "color_id": 600,
+        "material": "leather"
+      },
+      {
+        "color_id": 698,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 29,
+    "name": "Supervisore della Savana",
+    "icon": "https://render.guildwars2.com/file/D24AF3632E1C036ED242B072B679CCD7F7BACC38/1876529.png",
+    "dye_slots": [
+      {
+        "color_id": 61,
+        "material": "leather"
+      },
+      {
+        "color_id": 715,
+        "material": "leather"
+      },
+      {
+        "color_id": 621,
+        "material": "leather"
+      },
+      {
+        "color_id": 112,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 30,
+    "name": "Piroclastico",
+    "icon": "https://render.guildwars2.com/file/F465580E09BFFBBFDD7E40FADEE737E4D30E27E0/1876823.png",
+    "dye_slots": [
+      {
+        "color_id": 84,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      },
+      {
+        "color_id": 642,
+        "material": "leather"
+      },
+      {
+        "color_id": 1149,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 31,
+    "name": "Gerboa Artico",
+    "icon": "https://render.guildwars2.com/file/7665039BCA57C84EC87A3561256277F610422E65/1876524.png",
+    "dye_slots": [
+      {
+        "color_id": 583,
+        "material": "fur"
+      },
+      {
+        "color_id": 587,
+        "material": "fur"
+      },
+      {
+        "color_id": 29,
+        "material": "fur"
+      },
+      {
+        "color_id": 590,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 32,
+    "name": "Codaspino del Burrone",
+    "icon": "https://render.guildwars2.com/file/6F1E304AB430CCBA7780624CA864C22876C2EAC6/1876587.png",
+    "dye_slots": [
+      {
+        "color_id": 371,
+        "material": "leather"
+      },
+      {
+        "color_id": 1149,
+        "material": "leather"
+      },
+      {
+        "color_id": 344,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 33,
+    "name": "Sabbie Gemelle",
+    "icon": "https://render.guildwars2.com/file/B90EB4EAEFCB40F91D104B4275ABD57DB05AE756/1876761.png",
+    "dye_slots": [
+      {
+        "color_id": 628,
+        "material": "metal"
+      },
+      {
+        "color_id": 64,
+        "material": "leather"
+      },
+      {
+        "color_id": 81,
+        "material": "leather"
+      },
+      {
+        "color_id": 625,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 34,
+    "name": "Albanella degli Altopiani",
+    "icon": "https://render.guildwars2.com/file/A0DF66E70BCA1B33D9BDF7966A785DDEFE742D48/1876414.png",
+    "dye_slots": [
+      {
+        "color_id": 1153,
+        "material": "cloth"
+      },
+      {
+        "color_id": 714,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1456,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1354,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 35,
+    "name": "Tricorno Striato",
+    "icon": "https://render.guildwars2.com/file/A9D1B90D34990DDD4CD62254025907DA6829162A/1876586.png",
+    "dye_slots": [
+      {
+        "color_id": 338,
+        "material": "leather"
+      },
+      {
+        "color_id": 442,
+        "material": "leather"
+      },
+      {
+        "color_id": 591,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 36,
+    "name": "Pinnello Luminoso",
+    "icon": "https://render.guildwars2.com/file/0AEC0DBF1961BAC853A8F6F5BBF4615178797D45/1876590.png",
+    "dye_slots": [
+      {
+        "color_id": 80,
+        "material": "leather"
+      },
+      {
+        "color_id": 668,
+        "material": "leather"
+      },
+      {
+        "color_id": 1158,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 37,
+    "name": "Manta dell'Oasi",
+    "icon": "https://render.guildwars2.com/file/4911622D0F70BD290FB627FAF9734D247FDD37D5/1876589.png",
+    "dye_slots": [
+      {
+        "color_id": 143,
+        "material": "leather"
+      },
+      {
+        "color_id": 650,
+        "material": "leather"
+      },
+      {
+        "color_id": 112,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 38,
+    "name": "Lepre Cornuta Eloniana",
+    "icon": "https://render.guildwars2.com/file/401D2021512F0A5C0ECE43E0FA74CC02F50DB43F/1876526.png",
+    "dye_slots": [
+      {
+        "color_id": 1236,
+        "material": "cloth"
+      },
+      {
+        "color_id": 481,
+        "material": "cloth"
+      },
+      {
+        "color_id": 84,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1150,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 39,
+    "name": "Antico Incoronato",
+    "icon": "https://render.guildwars2.com/file/B05B5C544049E0075DECD775BA46C93C17C51016/1876769.png",
+    "dye_slots": [
+      {
+        "color_id": 631,
+        "material": "metal"
+      },
+      {
+        "color_id": 138,
+        "material": "leather"
+      },
+      {
+        "color_id": 1267,
+        "material": "leather"
+      },
+      {
+        "color_id": 694,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 40,
+    "name": "Corvo Nuvolo",
+    "icon": "https://render.guildwars2.com/file/3C549F484878A7C9F2A705716AD7399F0FED3D5A/1876487.png",
+    "dye_slots": [
+      {
+        "color_id": 1233,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1549,
+        "material": "cloth"
+      },
+      {
+        "color_id": 87,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1357,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 41,
+    "name": "Lepre Primitiva",
+    "icon": "https://render.guildwars2.com/file/770E07724C67F7F11C1E1ACF097A5234DD58BAB5/1876523.png",
+    "dye_slots": [
+      {
+        "color_id": 1357,
+        "material": "cloth"
+      },
+      {
+        "color_id": 68,
+        "material": "metal"
+      },
+      {
+        "color_id": 69,
+        "material": "fur"
+      },
+      {
+        "color_id": 112,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 42,
+    "name": "Lepre Fulva",
+    "icon": "https://render.guildwars2.com/file/D097950813235F583EDD0BAE03F90C0DB8A66DF5/1876489.png",
+    "dye_slots": [
+      {
+        "color_id": 453,
+        "material": "fur"
+      },
+      {
+        "color_id": 611,
+        "material": "fur"
+      },
+      {
+        "color_id": 21,
+        "material": "fur"
+      },
+      {
+        "color_id": 28,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 43,
+    "name": "Orecchione del Deserto",
+    "icon": "https://render.guildwars2.com/file/E8075D18EE08D33269623ABFD8B1C0D6DC46046D/1876525.png",
+    "dye_slots": [
+      {
+        "color_id": 113,
+        "material": "cloth"
+      },
+      {
+        "color_id": 366,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1152,
+        "material": "cloth"
+      },
+      {
+        "color_id": 134,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 44,
+    "name": "Ala di Falena Fluviale",
+    "icon": "https://render.guildwars2.com/file/221CD8DFE4B87694760AB701E549F1F357AD2913/1876606.png",
+    "dye_slots": [
+      {
+        "color_id": 78,
+        "material": "leather"
+      },
+      {
+        "color_id": 594,
+        "material": "leather"
+      },
+      {
+        "color_id": 9,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 45,
+    "name": "Codalunga Spinata",
+    "icon": "https://render.guildwars2.com/file/140803DFCE05AE01FABC6B6710794AE7C5582334/1876607.png",
+    "dye_slots": [
+      {
+        "color_id": 25,
+        "material": "leather"
+      },
+      {
+        "color_id": 590,
+        "material": "leather"
+      },
+      {
+        "color_id": 623,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 46,
+    "name": "Cane da Guerra Riforgiato",
+    "icon": "https://render.guildwars2.com/file/CCD2DF5105BE2625E7C377CE5742120AB64B7347/1876746.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 597,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      },
+      {
+        "color_id": 1149,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 47,
+    "name": "Lanterna del Dajkah",
+    "icon": "https://render.guildwars2.com/file/455A65350780289AEBE0DF60256D92E392FD332C/1876594.png",
+    "dye_slots": [
+      {
+        "color_id": 1350,
+        "material": "leather"
+      },
+      {
+        "color_id": 1275,
+        "material": "leather"
+      },
+      {
+        "color_id": 117,
+        "material": "leather"
+      },
+      {
+        "color_id": 700,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 48,
+    "name": "Atterrafiamma",
+    "icon": "https://render.guildwars2.com/file/2C0BFBE176E6DE4AF460971E4A7AD17C934F6F68/1876531.png",
+    "dye_slots": [
+      {
+        "color_id": 583,
+        "material": "leather"
+      },
+      {
+        "color_id": 483,
+        "material": "leather"
+      },
+      {
+        "color_id": 375,
+        "material": "leather"
+      },
+      {
+        "color_id": 616,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 49,
+    "name": "Polvere di Stelle",
+    "icon": "https://render.guildwars2.com/file/C009453D9442C1E9A1A71DC6411FB54C703FAD2E/1876868.png",
+    "dye_slots": [
+      {
+        "color_id": 27,
+        "material": "metal"
+      },
+      {
+        "color_id": 1159,
+        "material": "metal"
+      },
+      {
+        "color_id": 664,
+        "material": "metal"
+      },
+      {
+        "color_id": 678,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 50,
+    "name": "Rapace dei Calanchi",
+    "icon": "https://render.guildwars2.com/file/5366FF60CD9B75E33D03720FDA352D1EAF68A413/1876486.png",
+    "dye_slots": [
+      {
+        "color_id": 1149,
+        "material": "cloth"
+      },
+      {
+        "color_id": 596,
+        "material": "cloth"
+      },
+      {
+        "color_id": 141,
+        "material": "cloth"
+      },
+      {
+        "color_id": 482,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 52,
+    "name": "Manta Confortevole del Giorno Invernale",
+    "icon": "https://render.guildwars2.com/file/A9267E4C3496CACC44D1D13CDDE5527D6FF50161/1915364.png",
+    "dye_slots": [
+      {
+        "color_id": 640,
+        "material": "leather"
+      },
+      {
+        "color_id": 1363,
+        "material": "cloth"
+      },
+      {
+        "color_id": 708,
+        "material": "cloth"
+      },
+      {
+        "color_id": 708,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 53,
+    "name": "Grifone Confortevole del Giorno Invernale",
+    "icon": "https://render.guildwars2.com/file/52D3B5B25E48B620155F69036106A6FA29795694/1915285.png",
+    "dye_slots": [
+      {
+        "color_id": 640,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1363,
+        "material": "fur"
+      },
+      {
+        "color_id": 708,
+        "material": "cloth"
+      },
+      {
+        "color_id": 708,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 56,
+    "name": "Sciacallo Confortevole del Giorno Invernale",
+    "icon": "https://render.guildwars2.com/file/F6B09307FA912B3268F7F8A60BA5030997E9137B/1915381.png",
+    "dye_slots": [
+      {
+        "color_id": 640,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1363,
+        "material": "fur"
+      },
+      {
+        "color_id": 708,
+        "material": "fur"
+      },
+      {
+        "color_id": 708,
+        "material": "fur"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 57,
+    "name": "Demone Ombra",
+    "icon": "https://render.guildwars2.com/file/24AF2A30ACDD21E21DA07901085FE059D90A3D32/1915348.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "leather"
+      },
+      {
+        "color_id": 593,
+        "material": "leather"
+      },
+      {
+        "color_id": 20,
+        "material": "leather"
+      },
+      {
+        "color_id": 29,
+        "material": "fur"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 58,
+    "name": "Raptor Confortevole del Giorno Invernale",
+    "icon": "https://render.guildwars2.com/file/C30B5AC702377B4CCFC23971061BF73B0F4CE4CA/1915324.png",
+    "dye_slots": [
+      {
+        "color_id": 640,
+        "material": "leather"
+      },
+      {
+        "color_id": 1363,
+        "material": "cloth"
+      },
+      {
+        "color_id": 708,
+        "material": "cloth"
+      },
+      {
+        "color_id": 708,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 60,
+    "name": "Coniglio Confortevole del Giorno Invernale",
+    "icon": "https://render.guildwars2.com/file/73B203D0FC760900069937702F9D97032BC13E55/1915305.png",
+    "dye_slots": [
+      {
+        "color_id": 640,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1363,
+        "material": "fur"
+      },
+      {
+        "color_id": 708,
+        "material": "fur"
+      },
+      {
+        "color_id": 708,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 61,
+    "name": "Selvocorno della Cima di Pietra",
+    "icon": "https://render.guildwars2.com/file/3350445D950409C6B302A54DBDE52694445B9E31/1925546.png",
+    "dye_slots": [
+      {
+        "color_id": 362,
+        "material": "fur"
+      },
+      {
+        "color_id": 447,
+        "material": "fur"
+      },
+      {
+        "color_id": 473,
+        "material": "fur"
+      },
+      {
+        "color_id": 64,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 62,
+    "name": "Leone Maestoso",
+    "icon": "https://render.guildwars2.com/file/B075BBFE024814D3A928F3DE1B9E5CD74C44BC0F/1933059.png",
+    "dye_slots": [
+      {
+        "color_id": 64,
+        "material": "fur"
+      },
+      {
+        "color_id": 77,
+        "material": "fur"
+      },
+      {
+        "color_id": 67,
+        "material": "fur"
+      },
+      {
+        "color_id": 315,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 66,
+    "name": "Coniglio Marchiato",
+    "icon": "https://render.guildwars2.com/file/430B03960C33ECC39B0248F4A10DCE06407FCC45/1947483.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "cloth"
+      },
+      {
+        "color_id": 99,
+        "material": "fur"
+      },
+      {
+        "color_id": 143,
+        "material": "fur"
+      },
+      {
+        "color_id": 116,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 68,
+    "name": "Sciacallo Marchiato",
+    "icon": "https://render.guildwars2.com/file/BC300C9056151F0D286D7F4270991314E19BBDA1/1947579.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "cloth"
+      },
+      {
+        "color_id": 99,
+        "material": "fur"
+      },
+      {
+        "color_id": 143,
+        "material": "fur"
+      },
+      {
+        "color_id": 116,
+        "material": "fur"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 70,
+    "name": "Manta Marchiata",
+    "icon": "https://render.guildwars2.com/file/FDE007E67A61F7DC0EB820B35AD802279ABDE1C0/1947540.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "leather"
+      },
+      {
+        "color_id": 99,
+        "material": "cloth"
+      },
+      {
+        "color_id": 143,
+        "material": "cloth"
+      },
+      {
+        "color_id": 116,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 75,
+    "name": "Grifone Marchiato",
+    "icon": "https://render.guildwars2.com/file/4701BADF2254D8004A533FCFB30907FEB8F2261F/1947433.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "cloth"
+      },
+      {
+        "color_id": 99,
+        "material": "fur"
+      },
+      {
+        "color_id": 143,
+        "material": "cloth"
+      },
+      {
+        "color_id": 116,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 76,
+    "name": "Raptor Marchiato",
+    "icon": "https://render.guildwars2.com/file/1DC8BA14087FDFCB09E41657F6D658247FAD08AB/1947536.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "leather"
+      },
+      {
+        "color_id": 99,
+        "material": "leather"
+      },
+      {
+        "color_id": 143,
+        "material": "leather"
+      },
+      {
+        "color_id": 116,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 77,
+    "name": "Calvo Istano",
+    "icon": "https://render.guildwars2.com/file/DD5000E3C845F40302C6F3A2E6E3BCBA4DAD9D74/1964191.png",
+    "dye_slots": [
+      {
+        "color_id": 482,
+        "material": "cloth"
+      },
+      {
+        "color_id": 467,
+        "material": "cloth"
+      },
+      {
+        "color_id": 453,
+        "material": "cloth"
+      },
+      {
+        "color_id": 443,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 78,
+    "name": "Pelolungo di Issnur",
+    "icon": "https://render.guildwars2.com/file/063C680C4DAEF245BFD16178C2AA0C1BC194474D/1964337.png",
+    "dye_slots": [
+      {
+        "color_id": 436,
+        "material": "cloth"
+      },
+      {
+        "color_id": 591,
+        "material": "cloth"
+      },
+      {
+        "color_id": 16,
+        "material": "cloth"
+      },
+      {
+        "color_id": 134,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 79,
+    "name": "Tonante del Sargol",
+    "icon": "https://render.guildwars2.com/file/14B9D2A105B279FA0D5244B677D12F659DB9020D/1964331.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "fur"
+      },
+      {
+        "color_id": 143,
+        "material": "fur"
+      },
+      {
+        "color_id": 1159,
+        "material": "fur"
+      },
+      {
+        "color_id": 28,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 80,
+    "name": "Bandito del Cielo",
+    "icon": "https://render.guildwars2.com/file/175BBDA3625DC72425B19960B26CE278380FBEAC/1964237.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "cloth"
+      },
+      {
+        "color_id": 611,
+        "material": "cloth"
+      },
+      {
+        "color_id": 466,
+        "material": "cloth"
+      },
+      {
+        "color_id": 18,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 81,
+    "name": "Tigrato di Jarin",
+    "icon": "https://render.guildwars2.com/file/E0FCA8352B23D8DEBE1F2EE75AC63ADDA5D2EA6D/1964343.png",
+    "dye_slots": [
+      {
+        "color_id": 1376,
+        "material": "leather"
+      },
+      {
+        "color_id": 443,
+        "material": "leather"
+      },
+      {
+        "color_id": 473,
+        "material": "leather"
+      },
+      {
+        "color_id": 1550,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 82,
+    "name": "Primordiale",
+    "icon": "https://render.guildwars2.com/file/A6EA0D1E4F45525596F751A6E1D5754964C9C553/1964290.png",
+    "dye_slots": [
+      {
+        "color_id": 89,
+        "material": "fur"
+      },
+      {
+        "color_id": 614,
+        "material": "fur"
+      },
+      {
+        "color_id": 587,
+        "material": "fur"
+      },
+      {
+        "color_id": 714,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 83,
+    "name": "Codalarga Oceanico",
+    "icon": "https://render.guildwars2.com/file/794550495A5E0C3E3C5AC207085F599A4F806F91/1964460.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      },
+      {
+        "color_id": 443,
+        "material": "leather"
+      },
+      {
+        "color_id": 621,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 84,
+    "name": "Primus Beta",
+    "icon": "https://render.guildwars2.com/file/0DF87B1C5FDC912B7C29DF3D1C51E5A54A517DE8/1964389.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 88,
+        "material": "leather"
+      },
+      {
+        "color_id": 76,
+        "material": "leather"
+      },
+      {
+        "color_id": 625,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 85,
+    "name": "Deriva Stellare",
+    "icon": "https://render.guildwars2.com/file/7D1109D014DAD3C91824FCFBFB06C72217D9B598/1964440.png",
+    "dye_slots": [
+      {
+        "color_id": 644,
+        "material": "leather"
+      },
+      {
+        "color_id": 1457,
+        "material": "leather"
+      },
+      {
+        "color_id": 1305,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 86,
+    "name": "Cacciatore dell'Acquitrino di Lahtenda",
+    "icon": "https://render.guildwars2.com/file/02C3704F2BC1956201C578F6043D68E743C22D00/1964387.png",
+    "dye_slots": [
+      {
+        "color_id": 77,
+        "material": "leather"
+      },
+      {
+        "color_id": 350,
+        "material": "leather"
+      },
+      {
+        "color_id": 1538,
+        "material": "leather"
+      },
+      {
+        "color_id": 1151,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 87,
+    "name": "Primordiale",
+    "icon": "https://render.guildwars2.com/file/FC42BA6F4133144E93360191EF113EFB14C426DE/1964487.png",
+    "dye_slots": [
+      {
+        "color_id": 89,
+        "material": "metal"
+      },
+      {
+        "color_id": 614,
+        "material": "leather"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 714,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 88,
+    "name": "Scaglia Gelata di Dzalana",
+    "icon": "https://render.guildwars2.com/file/C0987CB24391C62E6EB90172605C91F844B00715/1964381.png",
+    "dye_slots": [
+      {
+        "color_id": 458,
+        "material": "leather"
+      },
+      {
+        "color_id": 1380,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1381,
+        "material": "fur"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 89,
+    "name": "Ghiaccio Fluido",
+    "icon": "https://render.guildwars2.com/file/5C28DD217C179D2A4B33FC9309F7FD0E1DB2DCC7/1964488.png",
+    "dye_slots": [
+      {
+        "color_id": 7,
+        "material": "metal"
+      },
+      {
+        "color_id": 585,
+        "material": "metal"
+      },
+      {
+        "color_id": 443,
+        "material": "metal"
+      },
+      {
+        "color_id": 712,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 90,
+    "name": "Taglio Ceylon",
+    "icon": "https://render.guildwars2.com/file/01CB941FA8935603C29841903BDA9D16A1297B12/1964523.png",
+    "dye_slots": [
+      {
+        "color_id": 481,
+        "material": "metal"
+      },
+      {
+        "color_id": 138,
+        "material": "leather"
+      },
+      {
+        "color_id": 585,
+        "material": "leather"
+      },
+      {
+        "color_id": 1149,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 91,
+    "name": "Sentinella Celeste Esaltata",
+    "icon": "https://render.guildwars2.com/file/5BAD46FD0333CB100305EBC7241A23614C6468C6/1964226.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "fur"
+      },
+      {
+        "color_id": 93,
+        "material": "fur"
+      },
+      {
+        "color_id": 1338,
+        "material": "fur"
+      },
+      {
+        "color_id": 665,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 92,
+    "name": "Coniglio Esotuta",
+    "icon": "https://render.guildwars2.com/file/7903AC141E08090AEB45A4A1C2265EDE0E74135D/1977955.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "cloth"
+      },
+      {
+        "color_id": 72,
+        "material": "fur"
+      },
+      {
+        "color_id": 1369,
+        "material": "fur"
+      },
+      {
+        "color_id": 1301,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 93,
+    "name": "Sciacallo Esotuta",
+    "icon": "https://render.guildwars2.com/file/0B25A37ECA97E99B2180C2E294245B01CFE69AC9/1977983.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "cloth"
+      },
+      {
+        "color_id": 72,
+        "material": "fur"
+      },
+      {
+        "color_id": 1369,
+        "material": "fur"
+      },
+      {
+        "color_id": 1154,
+        "material": "fur"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 94,
+    "name": "Raptor Esotuta",
+    "icon": "https://render.guildwars2.com/file/554674E7C57D0BAE3CAC7D6FF9050C0E64936B55/1977967.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 72,
+        "material": "leather"
+      },
+      {
+        "color_id": 1369,
+        "material": "leather"
+      },
+      {
+        "color_id": 1151,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 95,
+    "name": "Grifone Esotuta",
+    "icon": "https://render.guildwars2.com/file/4963A5A20437FF4CCA24F30EAB3B69E0089EEA36/1977921.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "cloth"
+      },
+      {
+        "color_id": 72,
+        "material": "fur"
+      },
+      {
+        "color_id": 1369,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1304,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 96,
+    "name": "Manta Esotuta",
+    "icon": "https://render.guildwars2.com/file/C10911E36B4AB753992DBA46BF0567F60A69E053/1977976.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 72,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1369,
+        "material": "cloth"
+      },
+      {
+        "color_id": 625,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 97,
+    "name": "Guardiano del Santuario",
+    "icon": "https://render.guildwars2.com/file/022EF667450E28E01E02DCBAF115E853EE02A3C1/1983607.png",
+    "dye_slots": [
+      {
+        "color_id": 443,
+        "material": "fur"
+      },
+      {
+        "color_id": 123,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1158,
+        "material": "cloth"
+      },
+      {
+        "color_id": 698,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 98,
+    "name": "Coniglio Risvegliato",
+    "icon": "https://render.guildwars2.com/file/C023CB0E5CE56DE5ED002D1D72F4D451ED13A97B/1991601.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "fur"
+      },
+      {
+        "color_id": 1365,
+        "material": "metal"
+      },
+      {
+        "color_id": 22,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1378,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 99,
+    "name": "Raptor Risvegliato",
+    "icon": "https://render.guildwars2.com/file/DE08BEF4D7B571C8751AC3084E260A1AB9D34DFF/1991634.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "leather"
+      },
+      {
+        "color_id": 1365,
+        "material": "leather"
+      },
+      {
+        "color_id": 22,
+        "material": "leather"
+      },
+      {
+        "color_id": 1378,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 100,
+    "name": "Grifone Risvegliato",
+    "icon": "https://render.guildwars2.com/file/5ED4EEB5ACE15B57EFE6371CB325063F74344B52/1991539.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1365,
+        "material": "fur"
+      },
+      {
+        "color_id": 22,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1378,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 101,
+    "name": "Manta Risvegliata",
+    "icon": "https://render.guildwars2.com/file/18AB62A009D0A2F0284AACD729AEB0EFBB0990BA/1991682.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "leather"
+      },
+      {
+        "color_id": 1365,
+        "material": "cloth"
+      },
+      {
+        "color_id": 22,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1378,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 102,
+    "name": "Sciacallo Risvegliato",
+    "icon": "https://render.guildwars2.com/file/451D68B13D0CA0081CA84960450B183BE749205A/1991739.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1365,
+        "material": "fur"
+      },
+      {
+        "color_id": 22,
+        "material": "fur"
+      },
+      {
+        "color_id": 1378,
+        "material": "fur"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 103,
+    "name": "Rotolottero",
+    "icon": "https://render.guildwars2.com/file/9E4E086CC9EE03D0F196A1FAE30AFF9123A8A0A6/1998894.png",
+    "dye_slots": [
+      {
+        "color_id": 700,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 104,
+    "name": "Armadillo Sismico",
+    "icon": "https://render.guildwars2.com/file/18C6FAB4E52563F43E1F440A949E59FCC80400C6/2010222.png",
+    "dye_slots": [
+      {
+        "color_id": 383,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      },
+      {
+        "color_id": 91,
+        "material": "leather"
+      },
+      {
+        "color_id": 700,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 105,
+    "name": "Scarabeo Funerario",
+    "icon": "https://render.guildwars2.com/file/2A6E0A11F9B97D6600B3C87DDE01280404C63195/2015201.png",
+    "dye_slots": [
+      {
+        "color_id": 1584,
+        "material": "metal"
+      },
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 436,
+        "material": "metal"
+      },
+      {
+        "color_id": 83,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 106,
+    "name": "Lepre di Kourna",
+    "icon": "https://render.guildwars2.com/file/390AF5BA0DAAEDABDA51D24137937395EEC5F137/2015390.png",
+    "dye_slots": [
+      {
+        "color_id": 67,
+        "material": "fur"
+      },
+      {
+        "color_id": 596,
+        "material": "fur"
+      },
+      {
+        "color_id": 451,
+        "material": "leather"
+      },
+      {
+        "color_id": 1246,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 107,
+    "name": "Mascherato a Specchio",
+    "icon": "https://render.guildwars2.com/file/F60846AC360C596A9EC1047A4CB0C0B20E554996/2015554.png",
+    "dye_slots": [
+      {
+        "color_id": 1249,
+        "material": "metal"
+      },
+      {
+        "color_id": 454,
+        "material": "metal"
+      },
+      {
+        "color_id": 667,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 108,
+    "name": "Primordiale",
+    "icon": "https://render.guildwars2.com/file/D5E4E45B73D637AECDB5D373F901C853D872CA9D/2015243.png",
+    "dye_slots": [
+      {
+        "color_id": 89,
+        "material": "leather"
+      },
+      {
+        "color_id": 614,
+        "material": "leather"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 714,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 109,
+    "name": "Inseguitempeste",
+    "icon": "https://render.guildwars2.com/file/7207BEB2502E0A0EC79AC1BB32C2FA5FB00E2451/2015342.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "fur"
+      },
+      {
+        "color_id": 143,
+        "material": "fur"
+      },
+      {
+        "color_id": 583,
+        "material": "fur"
+      },
+      {
+        "color_id": 28,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 110,
+    "name": "Notturno Crestato",
+    "icon": "https://render.guildwars2.com/file/1B63C407CFC4474FD32347802FB5FA187E1F0112/2015303.png",
+    "dye_slots": [
+      {
+        "color_id": 1378,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1579,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1357,
+        "material": "cloth"
+      },
+      {
+        "color_id": 623,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 111,
+    "name": "Squamaserpe Ntouka",
+    "icon": "https://render.guildwars2.com/file/C408AA2AFBDBB1F8CC090DFEFDF5CDAD2E047924/2015401.png",
+    "dye_slots": [
+      {
+        "color_id": 705,
+        "material": "leather"
+      },
+      {
+        "color_id": 1579,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      },
+      {
+        "color_id": 1303,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 112,
+    "name": "Martello Arido",
+    "icon": "https://render.guildwars2.com/file/E5EE6E1359AE4A040C09C20CDBF59E09547F6E2C/2015518.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 451,
+        "material": "leather"
+      },
+      {
+        "color_id": 21,
+        "material": "leather"
+      },
+      {
+        "color_id": 449,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 113,
+    "name": "Iceberg",
+    "icon": "https://render.guildwars2.com/file/09002BDC4D0F3E6D3A585807F278393A41F3E236/2015508.png",
+    "dye_slots": [
+      {
+        "color_id": 1582,
+        "material": "leather"
+      },
+      {
+        "color_id": 676,
+        "material": "leather"
+      },
+      {
+        "color_id": 23,
+        "material": "leather"
+      },
+      {
+        "color_id": 664,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 114,
+    "name": "Coccinella Colossale",
+    "icon": "https://render.guildwars2.com/file/30B9740DE7DE01D636F778C3C13611569F4023DD/2015188.png",
+    "dye_slots": [
+      {
+        "color_id": 123,
+        "material": "metal"
+      },
+      {
+        "color_id": 483,
+        "material": "metal"
+      },
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 442,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 115,
+    "name": "Piumato del Nord",
+    "icon": "https://render.guildwars2.com/file/BFEBBDCBA11EF84E98E7A8770B6BB4C276D3E1E8/2015347.png",
+    "dye_slots": [
+      {
+        "color_id": 705,
+        "material": "fur"
+      },
+      {
+        "color_id": 596,
+        "material": "fur"
+      },
+      {
+        "color_id": 85,
+        "material": "fur"
+      },
+      {
+        "color_id": 1154,
+        "material": "metal"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 116,
+    "name": "Pistafiamma",
+    "icon": "https://render.guildwars2.com/file/CCD7231EEB1CFFB8D8631D570DACF82B641539E7/2015295.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "metal"
+      },
+      {
+        "color_id": 673,
+        "material": "metal"
+      },
+      {
+        "color_id": 597,
+        "material": "metal"
+      },
+      {
+        "color_id": 1149,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 117,
+    "name": "Mastino delle Dune",
+    "icon": "https://render.guildwars2.com/file/9A2CA8D64D9DAD63B2AC59EE650B756CD5DDEF11/2015556.png",
+    "dye_slots": [
+      {
+        "color_id": 616,
+        "material": "metal"
+      },
+      {
+        "color_id": 315,
+        "material": "leather"
+      },
+      {
+        "color_id": 15,
+        "material": "leather"
+      },
+      {
+        "color_id": 375,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 118,
+    "name": "Mesa Dipinta",
+    "icon": "https://render.guildwars2.com/file/FC7EFC10CCF7390F71226B954257A6CC010740F9/2015366.png",
+    "dye_slots": [
+      {
+        "color_id": 479,
+        "material": "fur"
+      },
+      {
+        "color_id": 94,
+        "material": "fur"
+      },
+      {
+        "color_id": 66,
+        "material": "fur"
+      },
+      {
+        "color_id": 339,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 126,
+    "name": "Corazzato",
+    "icon": "https://render.guildwars2.com/file/EC2297F72AB9532CB0236B10036DEB07A8F50134/2038883.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "metal"
+      },
+      {
+        "color_id": 18,
+        "material": "cloth"
+      },
+      {
+        "color_id": 436,
+        "material": "cloth"
+      },
+      {
+        "color_id": 476,
+        "material": "metal"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 129,
+    "name": "Zanna della Notte",
+    "icon": "https://render.guildwars2.com/file/C333ED54B458457019E970AE29F87546CF27B7E3/2056455.png",
+    "dye_slots": [
+      {
+        "color_id": 75,
+        "material": "fur"
+      },
+      {
+        "color_id": 67,
+        "material": "fur"
+      },
+      {
+        "color_id": 476,
+        "material": "fur"
+      },
+      {
+        "color_id": 1621,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 130,
+    "name": "Manta del Regno Folle",
+    "icon": "https://render.guildwars2.com/file/3606744C0E7E0EEB460EF521E22EC1F3D9AB43F8/2056598.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "leather"
+      },
+      {
+        "color_id": 1357,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1382,
+        "material": "cloth"
+      },
+      {
+        "color_id": 381,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 131,
+    "name": "Sciacallo del Regno Folle",
+    "icon": "https://render.guildwars2.com/file/9235120B08EC042B09B1E8DC2C30C31E661E3D97/2056610.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1357,
+        "material": "fur"
+      },
+      {
+        "color_id": 1382,
+        "material": "fur"
+      },
+      {
+        "color_id": 381,
+        "material": "fur"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 132,
+    "name": "Grifone del Regno Folle",
+    "icon": "https://render.guildwars2.com/file/7D9AD1BEF8B0B1484E16807BDA23F8777F68EC32/2056456.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1357,
+        "material": "fur"
+      },
+      {
+        "color_id": 1382,
+        "material": "cloth"
+      },
+      {
+        "color_id": 381,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 133,
+    "name": "Raptor del Regno Folle",
+    "icon": "https://render.guildwars2.com/file/9DEB1C7FC11E7FC8D0090C22F2D3A17BE291745C/2056525.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "leather"
+      },
+      {
+        "color_id": 1357,
+        "material": "leather"
+      },
+      {
+        "color_id": 1382,
+        "material": "leather"
+      },
+      {
+        "color_id": 381,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 134,
+    "name": "Coniglio del Regno Folle",
+    "icon": "https://render.guildwars2.com/file/A4C0E5DFBD737170435A64FE93807D46EDC20C4D/2056501.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "fur"
+      },
+      {
+        "color_id": 1357,
+        "material": "leather"
+      },
+      {
+        "color_id": 1382,
+        "material": "cloth"
+      },
+      {
+        "color_id": 381,
+        "material": "leather"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 136,
+    "name": "Salamandra Aurea",
+    "icon": "https://render.guildwars2.com/file/7D524ACFC6C7360516C4C89A0DD73E0D00F20CE4/2069724.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 585,
+        "material": "leather"
+      },
+      {
+        "color_id": 451,
+        "material": "leather"
+      },
+      {
+        "color_id": 84,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 137,
+    "name": "Pinna Fascia d'Onda",
+    "icon": "https://render.guildwars2.com/file/A938CC01723D7F3917306C072AF46FF367FA4EB3/2069748.png",
+    "dye_slots": [
+      {
+        "color_id": 356,
+        "material": "leather"
+      },
+      {
+        "color_id": 6,
+        "material": "leather"
+      },
+      {
+        "color_id": 86,
+        "material": "leather"
+      },
+      {
+        "color_id": 628,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 138,
+    "name": "Predatore Luminoso",
+    "icon": "https://render.guildwars2.com/file/102EBC9F55B7B66948467D2CB70247945BFB27E2/2069721.png",
+    "dye_slots": [
+      {
+        "color_id": 61,
+        "material": "cloth"
+      },
+      {
+        "color_id": 80,
+        "material": "cloth"
+      },
+      {
+        "color_id": 638,
+        "material": "cloth"
+      },
+      {
+        "color_id": 709,
+        "material": "cloth"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 139,
+    "name": "Orecchione Krytano",
+    "icon": "https://render.guildwars2.com/file/0F5203507649B7D2355A5410FB7041B361C70557/2069677.png",
+    "dye_slots": [
+      {
+        "color_id": 601,
+        "material": "fur"
+      },
+      {
+        "color_id": 380,
+        "material": "fur"
+      },
+      {
+        "color_id": 1584,
+        "material": "leather"
+      },
+      {
+        "color_id": 45,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 140,
+    "name": "Panda Rosso Boschivo",
+    "icon": "https://render.guildwars2.com/file/5201CE4A37976C5329E5FE42DA2274A9BA185DB8/2069644.png",
+    "dye_slots": [
+      {
+        "color_id": 112,
+        "material": "fur"
+      },
+      {
+        "color_id": 85,
+        "material": "fur"
+      },
+      {
+        "color_id": 665,
+        "material": "fur"
+      },
+      {
+        "color_id": 355,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 141,
+    "name": "Rapace delle Nevi",
+    "icon": "https://render.guildwars2.com/file/026B0E197AE2EE472B2872AEE6EB26B4B0E3FA1C/2069608.png",
+    "dye_slots": [
+      {
+        "color_id": 446,
+        "material": "fur"
+      },
+      {
+        "color_id": 6,
+        "material": "fur"
+      },
+      {
+        "color_id": 473,
+        "material": "fur"
+      },
+      {
+        "color_id": 1238,
+        "material": "metal"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 142,
+    "name": "Siluro di Solaustral",
+    "icon": "https://render.guildwars2.com/file/B8ABB120E0A51E97F618F7CF609B7D673A55D2C6/2069805.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "leather"
+      },
+      {
+        "color_id": 143,
+        "material": "leather"
+      },
+      {
+        "color_id": 614,
+        "material": "leather"
+      },
+      {
+        "color_id": 588,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 143,
+    "name": "Cacciatore d'Energia Esaltato",
+    "icon": "https://render.guildwars2.com/file/BAFD460E0F5753B68078CE55B10DE3E772326B25/2069818.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "metal"
+      },
+      {
+        "color_id": 93,
+        "material": "metal"
+      },
+      {
+        "color_id": 1338,
+        "material": "metal"
+      },
+      {
+        "color_id": 665,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 144,
+    "name": "Seghettato Kournano",
+    "icon": "https://render.guildwars2.com/file/372C5BD60273FBEC1A93E4B2F8EC0F6DBD730763/2069536.png",
+    "dye_slots": [
+      {
+        "color_id": 19,
+        "material": "metal"
+      },
+      {
+        "color_id": 709,
+        "material": "metal"
+      },
+      {
+        "color_id": 48,
+        "material": "metal"
+      },
+      {
+        "color_id": 442,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 145,
+    "name": "Costrutto in Lega",
+    "icon": "https://render.guildwars2.com/file/67BA20BF7F162EC0F906B4679F59D796EE9308AB/2069391.png",
+    "dye_slots": [
+      {
+        "color_id": 1368,
+        "material": "metal"
+      },
+      {
+        "color_id": 1489,
+        "material": "metal"
+      },
+      {
+        "color_id": 1489,
+        "material": "metal"
+      },
+      {
+        "color_id": 1599,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 146,
+    "name": "Animato dalla Sabbia",
+    "icon": "https://render.guildwars2.com/file/600ADD14FA304C3FC37C99D3DB1D91169EDA651E/2069556.png",
+    "dye_slots": [
+      {
+        "color_id": 23,
+        "material": "leather"
+      },
+      {
+        "color_id": 336,
+        "material": "leather"
+      },
+      {
+        "color_id": 476,
+        "material": "metal"
+      },
+      {
+        "color_id": 622,
+        "material": "metal"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 147,
+    "name": "Tigrato di Bahdzan",
+    "icon": "https://render.guildwars2.com/file/3749A3B5544E9EDE2BDDDF7A5D31E19A50B3170C/2069388.png",
+    "dye_slots": [
+      {
+        "color_id": 382,
+        "material": "leather"
+      },
+      {
+        "color_id": 1354,
+        "material": "leather"
+      },
+      {
+        "color_id": 584,
+        "material": "leather"
+      },
+      {
+        "color_id": 110,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 148,
+    "name": "Stella Cadente",
+    "icon": "https://render.guildwars2.com/file/A823001832784C0D9A21A3EAEAF471049A26EB7F/2069671.png",
+    "dye_slots": [
+      {
+        "color_id": 118,
+        "material": "fur"
+      },
+      {
+        "color_id": 1457,
+        "material": "fur"
+      },
+      {
+        "color_id": 1305,
+        "material": "fur"
+      },
+      {
+        "color_id": 142,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 149,
+    "name": "Levriero Liminale",
+    "icon": "https://render.guildwars2.com/file/72CBAF440A16A6E54C3197BDAC770FD58077D6C6/2069843.png",
+    "dye_slots": [
+      {
+        "color_id": 20,
+        "material": "leather"
+      },
+      {
+        "color_id": 627,
+        "material": "leather"
+      },
+      {
+        "color_id": 15,
+        "material": "metal"
+      },
+      {
+        "color_id": 1305,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 150,
+    "name": "Pileato delle Cimefredde",
+    "icon": "https://render.guildwars2.com/file/A1050263D17533CC5CA7CE05DA7FA9A91C630B52/2069551.png",
+    "dye_slots": [
+      {
+        "color_id": 1308,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1350,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1619,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1303,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 152,
+    "name": "Geco del Tempio del Sole",
+    "icon": "https://render.guildwars2.com/file/967A29CB2E1BAAF77945AEBA4E0E4EE4B3FD6851/2075812.png",
+    "dye_slots": [
+      {
+        "color_id": 379,
+        "material": "fur"
+      },
+      {
+        "color_id": 100,
+        "material": "fur"
+      },
+      {
+        "color_id": 133,
+        "material": "fur"
+      },
+      {
+        "color_id": 700,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 153,
+    "name": "Sciacallo delle Cimefredde",
+    "icon": "https://render.guildwars2.com/file/BA59BA592FDF807C19D0107CBE650A7E5A125223/2083711.png",
+    "dye_slots": [
+      {
+        "color_id": 5,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      },
+      {
+        "color_id": 457,
+        "material": "leather"
+      },
+      {
+        "color_id": 72,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 154,
+    "name": "Manta delle Cimefredde",
+    "icon": "https://render.guildwars2.com/file/C2F87E50A37E425E97E20AE5F70C3E0309690CF9/2083708.png",
+    "dye_slots": [
+      {
+        "color_id": 5,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      },
+      {
+        "color_id": 457,
+        "material": "leather"
+      },
+      {
+        "color_id": 72,
+        "material": "metal"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 155,
+    "name": "Grifone delle Cimefredde",
+    "icon": "https://render.guildwars2.com/file/C9F9985A58C790266EB7764303DA93803EE4BFB1/2083618.png",
+    "dye_slots": [
+      {
+        "color_id": 5,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      },
+      {
+        "color_id": 457,
+        "material": "leather"
+      },
+      {
+        "color_id": 72,
+        "material": "metal"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 157,
+    "name": "Coniglio delle Cimefredde",
+    "icon": "https://render.guildwars2.com/file/3BBC9460D058C7C4DEAE037C537A0BC5BB14609A/2083665.png",
+    "dye_slots": [
+      {
+        "color_id": 5,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      },
+      {
+        "color_id": 457,
+        "material": "leather"
+      },
+      {
+        "color_id": 72,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 158,
+    "name": "Raptor delle Cimefredde",
+    "icon": "https://render.guildwars2.com/file/ACDF26100E4067187E9BFBE861D42D420678EFB8/2083673.png",
+    "dye_slots": [
+      {
+        "color_id": 5,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      },
+      {
+        "color_id": 457,
+        "material": "leather"
+      },
+      {
+        "color_id": 72,
+        "material": "metal"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 161,
+    "name": "Artiglio Bellico",
+    "icon": "https://render.guildwars2.com/file/3E1C0A4FB27ED0CCAB304A13AAF16AA24F37D606/2109664.png",
+    "dye_slots": [
+      {
+        "color_id": 123,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 162,
+    "name": "Artiglio Bellico d'Assalto",
+    "icon": "https://render.guildwars2.com/file/547FA19F26185161FF532F13C8ACEED711B7B5BB/2110060.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 5,
+        "material": "metal"
+      },
+      {
+        "color_id": 674,
+        "material": "cloth"
+      },
+      {
+        "color_id": 23,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 163,
+    "name": "Artiglio Bellico Battistrada",
+    "icon": "https://render.guildwars2.com/file/03D4BB64FD0FC857D045D053E14624B19CCCB098/2110071.png",
+    "dye_slots": [
+      {
+        "color_id": 332,
+        "material": "cloth"
+      },
+      {
+        "color_id": 103,
+        "material": "cloth"
+      },
+      {
+        "color_id": 475,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1358,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 164,
+    "name": "Artiglio Bellico Marchiato",
+    "icon": "https://render.guildwars2.com/file/BFFFD4805F0B16082013B402DBF65ABFB5E438BE/2109996.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "metal"
+      },
+      {
+        "color_id": 99,
+        "material": "metal"
+      },
+      {
+        "color_id": 143,
+        "material": "cloth"
+      },
+      {
+        "color_id": 116,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 165,
+    "name": "Artiglio Bellico d'Avanguardia",
+    "icon": "https://render.guildwars2.com/file/4CE10BAE99BA773842DD5A9A5C95CC640AB9951D/2110070.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 25,
+        "material": "metal"
+      },
+      {
+        "color_id": 380,
+        "material": "cloth"
+      },
+      {
+        "color_id": 17,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 166,
+    "name": "Artiglio Bellico Crine di Brace",
+    "icon": "https://render.guildwars2.com/file/CCFE08DC20A4A56402A35A09ED0A0FF3FAA0E967/2109995.png",
+    "dye_slots": [
+      {
+        "color_id": 1582,
+        "material": "cloth"
+      },
+      {
+        "color_id": 68,
+        "material": "cloth"
+      },
+      {
+        "color_id": 26,
+        "material": "metal"
+      },
+      {
+        "color_id": 586,
+        "material": "metal"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 168,
+    "name": "Colibrì Magnifico",
+    "icon": "https://render.guildwars2.com/file/000C15C808969853039ACE5AA508C9B803E0782D/2124223.png",
+    "dye_slots": [
+      {
+        "color_id": 55,
+        "material": "leather"
+      },
+      {
+        "color_id": 80,
+        "material": "leather"
+      },
+      {
+        "color_id": 39,
+        "material": "leather"
+      },
+      {
+        "color_id": 698,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 169,
+    "name": "Codaferrata in Lega",
+    "icon": "https://render.guildwars2.com/file/38D2C4B0E4310EDAE461AA0A0DA993CCD756BD74/2127434.png",
+    "dye_slots": [
+      {
+        "color_id": 358,
+        "material": "metal"
+      },
+      {
+        "color_id": 442,
+        "material": "metal"
+      },
+      {
+        "color_id": 1582,
+        "material": "metal"
+      },
+      {
+        "color_id": 1618,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 170,
+    "name": "Guscio di Stella",
+    "icon": "https://render.guildwars2.com/file/C8EC7EF15649B0E3E702F5CA970148294AEA7E22/2127441.png",
+    "dye_slots": [
+      {
+        "color_id": 118,
+        "material": "metal"
+      },
+      {
+        "color_id": 1457,
+        "material": "metal"
+      },
+      {
+        "color_id": 1305,
+        "material": "metal"
+      },
+      {
+        "color_id": 142,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 171,
+    "name": "Animato dalla Sabbia",
+    "icon": "https://render.guildwars2.com/file/201F03636EA2E0393463034EDDE5BCB9D47EB8F0/2127436.png",
+    "dye_slots": [
+      {
+        "color_id": 480,
+        "material": "leather"
+      },
+      {
+        "color_id": 462,
+        "material": "leather"
+      },
+      {
+        "color_id": 1367,
+        "material": "leather"
+      },
+      {
+        "color_id": 1575,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 172,
+    "name": "Guscioserpe Ntouka",
+    "icon": "https://render.guildwars2.com/file/54726D1BBB174F0B3257E93CFD084EA8E5A8A83D/2127442.png",
+    "dye_slots": [
+      {
+        "color_id": 367,
+        "material": "metal"
+      },
+      {
+        "color_id": 646,
+        "material": "metal"
+      },
+      {
+        "color_id": 88,
+        "material": "metal"
+      },
+      {
+        "color_id": 470,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 173,
+    "name": "Guardiano di Porta Esaltato",
+    "icon": "https://render.guildwars2.com/file/CA90BCEA31432D590176D95E9B43BC5B53414CB8/2127438.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "leather"
+      },
+      {
+        "color_id": 93,
+        "material": "leather"
+      },
+      {
+        "color_id": 1338,
+        "material": "leather"
+      },
+      {
+        "color_id": 665,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 174,
+    "name": "Orchidea Maculata",
+    "icon": "https://render.guildwars2.com/file/314B3E42767212184F664ED5E83CA31806EDE913/2127437.png",
+    "dye_slots": [
+      {
+        "color_id": 673,
+        "material": "leather"
+      },
+      {
+        "color_id": 1495,
+        "material": "leather"
+      },
+      {
+        "color_id": 668,
+        "material": "leather"
+      },
+      {
+        "color_id": 699,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 175,
+    "name": "Raptor Primitivo",
+    "icon": "https://render.guildwars2.com/file/7A9EE5FCF2B6681B0E9D9E109CC73A0C03087874/2127440.png",
+    "dye_slots": [
+      {
+        "color_id": 1054,
+        "material": "leather"
+      },
+      {
+        "color_id": 54,
+        "material": "leather"
+      },
+      {
+        "color_id": 611,
+        "material": "leather"
+      },
+      {
+        "color_id": 1155,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 176,
+    "name": "Lega di Mercurio",
+    "icon": "https://render.guildwars2.com/file/D7AF465173096AE0AADDFA3E990D7AFFA95F0FCC/2127432.png",
+    "dye_slots": [
+      {
+        "color_id": 1368,
+        "material": "metal"
+      },
+      {
+        "color_id": 1489,
+        "material": "metal"
+      },
+      {
+        "color_id": 474,
+        "material": "metal"
+      },
+      {
+        "color_id": 612,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 177,
+    "name": "Codalucente Kournano",
+    "icon": "https://render.guildwars2.com/file/16010CB4D84062F0124AE71DB57BEC3F31F56239/2127429.png",
+    "dye_slots": [
+      {
+        "color_id": 377,
+        "material": "fur"
+      },
+      {
+        "color_id": 1154,
+        "material": "fur"
+      },
+      {
+        "color_id": 1579,
+        "material": "fur"
+      },
+      {
+        "color_id": 85,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 178,
+    "name": "Codapennello di Brisban",
+    "icon": "https://render.guildwars2.com/file/0EDA3B5FFF50520807C56B45C29931CCB1EFB832/2127433.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 477,
+        "material": "leather"
+      },
+      {
+        "color_id": 480,
+        "material": "leather"
+      },
+      {
+        "color_id": 339,
+        "material": "leather"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 179,
+    "name": "Corridore Mascherato",
+    "icon": "https://render.guildwars2.com/file/16076E08202CA6DC69FA2307C11A3C362F545476/2127439.png",
+    "dye_slots": [
+      {
+        "color_id": 82,
+        "material": "leather"
+      },
+      {
+        "color_id": 614,
+        "material": "leather"
+      },
+      {
+        "color_id": 446,
+        "material": "leather"
+      },
+      {
+        "color_id": 443,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 180,
+    "name": "Primordiale",
+    "icon": "https://render.guildwars2.com/file/67697CFA702022D17F60A2555D24B43C45A70C45/2127430.png",
+    "dye_slots": [
+      {
+        "color_id": 89,
+        "material": "leather"
+      },
+      {
+        "color_id": 614,
+        "material": "leather"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 714,
+        "material": "leather"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 181,
+    "name": "Alagelata Arctico",
+    "icon": "https://render.guildwars2.com/file/19D42BB5B15293690FA799CA22A74526C5A864F5/2127428.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "fur"
+      },
+      {
+        "color_id": 458,
+        "material": "fur"
+      },
+      {
+        "color_id": 1380,
+        "material": "fur"
+      },
+      {
+        "color_id": 28,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 182,
+    "name": "Tigrato della Savana",
+    "icon": "https://render.guildwars2.com/file/25793B73440264FB7CD204F53B3A5F394630CDE9/2127435.png",
+    "dye_slots": [
+      {
+        "color_id": 66,
+        "material": "fur"
+      },
+      {
+        "color_id": 21,
+        "material": "fur"
+      },
+      {
+        "color_id": 1584,
+        "material": "fur"
+      },
+      {
+        "color_id": 1495,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 183,
+    "name": "Zampalieve Vabbiano",
+    "icon": "https://render.guildwars2.com/file/FC990BA53AFAE0A916C822D2ED40E6C5B6910C72/2127431.png",
+    "dye_slots": [
+      {
+        "color_id": 590,
+        "material": "leather"
+      },
+      {
+        "color_id": 1379,
+        "material": "leather"
+      },
+      {
+        "color_id": 467,
+        "material": "leather"
+      },
+      {
+        "color_id": 595,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 186,
+    "name": "Scaglia Celeste",
+    "icon": "https://render.guildwars2.com/file/461C02AE745D07C69EC2FBC1AE10E140D8E3E96B/2140530.png",
+    "dye_slots": [
+      {
+        "color_id": 385,
+        "material": "metal"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 191,
+    "name": "Ala Scintillante",
+    "icon": "https://render.guildwars2.com/file/589290137DE9D8620E06A9EBCBC36B31E554E312/2156027.png",
+    "dye_slots": [
+      {
+        "color_id": 9,
+        "material": "metal"
+      },
+      {
+        "color_id": 614,
+        "material": "metal"
+      },
+      {
+        "color_id": 666,
+        "material": "metal"
+      },
+      {
+        "color_id": 143,
+        "material": "metal"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 193,
+    "name": "Scaglia Celeste Mascellascia",
+    "icon": "https://render.guildwars2.com/file/F1254255BD356FD00853420F0A632A096155690A/2163409.png",
+    "dye_slots": [
+      {
+        "color_id": 686,
+        "material": "leather"
+      },
+      {
+        "color_id": 44,
+        "material": "leather"
+      },
+      {
+        "color_id": 600,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 194,
+    "name": "Scaglia celeste della Caldera",
+    "icon": "https://render.guildwars2.com/file/63919895AC2142A5C266065B67040153BB54707E/2163318.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "fur"
+      },
+      {
+        "color_id": 655,
+        "material": "leather"
+      },
+      {
+        "color_id": 1595,
+        "material": "metal"
+      },
+      {
+        "color_id": 11,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 195,
+    "name": "Scaglia Celeste Marchiato",
+    "icon": "https://render.guildwars2.com/file/CDC2286809EFE2D315CF4E3735C4A32AF9F3A506/2163304.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "fur"
+      },
+      {
+        "color_id": 99,
+        "material": "leather"
+      },
+      {
+        "color_id": 143,
+        "material": "metal"
+      },
+      {
+        "color_id": 116,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 196,
+    "name": "Scaglia Celeste Bioluminescente",
+    "icon": "https://render.guildwars2.com/file/4977E8800537016541F16109B56427C635FB3604/2163339.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "leather"
+      },
+      {
+        "color_id": 1377,
+        "material": "leather"
+      },
+      {
+        "color_id": 1337,
+        "material": "leather"
+      },
+      {
+        "color_id": 1378,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 198,
+    "name": "Scaglia Celeste dal Marchio Brillante",
+    "icon": "https://render.guildwars2.com/file/9C1B21140211400DA12AB92CFC58BB07EA65D116/2163338.png",
+    "dye_slots": [
+      {
+        "color_id": 1489,
+        "material": "leather"
+      },
+      {
+        "color_id": 442,
+        "material": "leather"
+      },
+      {
+        "color_id": 22,
+        "material": "leather"
+      },
+      {
+        "color_id": 1305,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 200,
+    "name": "Portaluce Intrepido",
+    "icon": "https://render.guildwars2.com/file/FAD82C2F2DA12CF716EDFDF6C114470F7EE00BC8/2179770.png",
+    "dye_slots": [
+      {
+        "color_id": 477,
+        "material": "fur"
+      },
+      {
+        "color_id": 2,
+        "material": "metal"
+      },
+      {
+        "color_id": 677,
+        "material": "cloth"
+      },
+      {
+        "color_id": 44,
+        "material": "metal"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 202,
+    "name": "Toro Cornolargo",
+    "icon": "https://render.guildwars2.com/file/E71976197800DECBD70997FD27B07C085BE5450B/2191099.png",
+    "dye_slots": [
+      {
+        "color_id": 377,
+        "material": "leather"
+      },
+      {
+        "color_id": 482,
+        "material": "leather"
+      },
+      {
+        "color_id": 62,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 203,
+    "name": "Crestato Folgorite",
+    "icon": "https://render.guildwars2.com/file/DAD69507EB4DCA30C7A8050693C008550DBA599A/2191103.png",
+    "dye_slots": [
+      {
+        "color_id": 39,
+        "material": "leather"
+      },
+      {
+        "color_id": 458,
+        "material": "metal"
+      },
+      {
+        "color_id": 464,
+        "material": "leather"
+      },
+      {
+        "color_id": 590,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 204,
+    "name": "Gladiatore Brutale",
+    "icon": "https://render.guildwars2.com/file/990501A42071A0B5176E47E4A8E724102FDDCCFE/2191097.png",
+    "dye_slots": [
+      {
+        "color_id": 332,
+        "material": "metal"
+      },
+      {
+        "color_id": 480,
+        "material": "metal"
+      },
+      {
+        "color_id": 1366,
+        "material": "cloth"
+      },
+      {
+        "color_id": 123,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 205,
+    "name": "Litosuolo",
+    "icon": "https://render.guildwars2.com/file/1A00323B7F721EBA0B6FDFD85A9C9D9FF6C0D3CA/2191108.png",
+    "dye_slots": [
+      {
+        "color_id": 91,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1584,
+        "material": "cloth"
+      },
+      {
+        "color_id": 74,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1155,
+        "material": "cloth"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 206,
+    "name": "Radura Paludosa",
+    "icon": "https://render.guildwars2.com/file/9204FA176FD724B8E4AD3FC20856903FE63F7DDF/2191098.png",
+    "dye_slots": [
+      {
+        "color_id": 57,
+        "material": "leather"
+      },
+      {
+        "color_id": 621,
+        "material": "leather"
+      },
+      {
+        "color_id": 105,
+        "material": "leather"
+      },
+      {
+        "color_id": 1348,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 207,
+    "name": "Artiglio Stellare",
+    "icon": "https://render.guildwars2.com/file/3C96BD4DE40DB83F49C6FE03F704F1BCBDD3D728/2191096.png",
+    "dye_slots": [
+      {
+        "color_id": 50,
+        "material": "metal"
+      },
+      {
+        "color_id": 1458,
+        "material": "metal"
+      },
+      {
+        "color_id": 1305,
+        "material": "metal"
+      },
+      {
+        "color_id": 691,
+        "material": "metal"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 208,
+    "name": "Lepre di Maguuma",
+    "icon": "https://render.guildwars2.com/file/BA973BF10F41464892B74CAE3E16B8F6C1010963/2191105.png",
+    "dye_slots": [
+      {
+        "color_id": 332,
+        "material": "fur"
+      },
+      {
+        "color_id": 85,
+        "material": "fur"
+      },
+      {
+        "color_id": 1584,
+        "material": "fur"
+      },
+      {
+        "color_id": 670,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 209,
+    "name": "Rasoio Artico",
+    "icon": "https://render.guildwars2.com/file/0CDB12062623E02DAA27E0F04B01D2BC992C63A9/2191110.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "metal"
+      },
+      {
+        "color_id": 664,
+        "material": "metal"
+      },
+      {
+        "color_id": 8,
+        "material": "metal"
+      },
+      {
+        "color_id": 713,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 210,
+    "name": "Pescatore Aereo Incoronato",
+    "icon": "https://render.guildwars2.com/file/0AAA639ADA3532FEC00BFEF2A5FB0EC0CE641AC7/2191101.png",
+    "dye_slots": [
+      {
+        "color_id": 77,
+        "material": "fur"
+      },
+      {
+        "color_id": 1538,
+        "material": "fur"
+      },
+      {
+        "color_id": 113,
+        "material": "fur"
+      },
+      {
+        "color_id": 1579,
+        "material": "metal"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 211,
+    "name": "Fiamma Incarnata",
+    "icon": "https://render.guildwars2.com/file/349AD625C0ACFCFD740D1C7F7CD802ECE8E3C96A/2191100.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "fur"
+      },
+      {
+        "color_id": 122,
+        "material": "leather"
+      },
+      {
+        "color_id": 1541,
+        "material": "metal"
+      },
+      {
+        "color_id": 1538,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 213,
+    "name": "Inseguitore del Sole",
+    "icon": "https://render.guildwars2.com/file/5A01A30D0C1453EFD42C6230FF0E037625440967/2191102.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "leather"
+      },
+      {
+        "color_id": 52,
+        "material": "leather"
+      },
+      {
+        "color_id": 23,
+        "material": "metal"
+      },
+      {
+        "color_id": 1538,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 215,
+    "name": "Pastore delle Cascate",
+    "icon": "https://render.guildwars2.com/file/964AE8D09B74C4F1C1A826E7B1C0A507EFD60F47/2191104.png",
+    "dye_slots": [
+      {
+        "color_id": 442,
+        "material": "fur"
+      },
+      {
+        "color_id": 1350,
+        "material": "fur"
+      },
+      {
+        "color_id": 380,
+        "material": "leather"
+      },
+      {
+        "color_id": 1537,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 216,
+    "name": "Scarabeo del Deserto Profondo",
+    "icon": "https://render.guildwars2.com/file/2CACF39C007BC23A3F614D01C7239AFB7A350714/2191109.png",
+    "dye_slots": [
+      {
+        "color_id": 1378,
+        "material": "leather"
+      },
+      {
+        "color_id": 1381,
+        "material": "leather"
+      },
+      {
+        "color_id": 1597,
+        "material": "leather"
+      },
+      {
+        "color_id": 1378,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 217,
+    "name": "Razza Luminosa",
+    "icon": "https://render.guildwars2.com/file/D4D5DA651402F105D7B6CCBA76CCBE242F196DE6/2191106.png",
+    "dye_slots": [
+      {
+        "color_id": 60,
+        "material": "leather"
+      },
+      {
+        "color_id": 80,
+        "material": "leather"
+      },
+      {
+        "color_id": 617,
+        "material": "leather"
+      },
+      {
+        "color_id": 709,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 218,
+    "name": "Geode Vitale",
+    "icon": "https://render.guildwars2.com/file/D43C096AACC0F7CD5BF67AB1BE3E5BFA69107299/2191107.png",
+    "dye_slots": [
+      {
+        "color_id": 615,
+        "material": "leather"
+      },
+      {
+        "color_id": 139,
+        "material": "leather"
+      },
+      {
+        "color_id": 616,
+        "material": "leather"
+      },
+      {
+        "color_id": 626,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 220,
+    "name": "Spirito Primordiale",
+    "icon": "https://render.guildwars2.com/file/260E152215E2A4CE454F53EAFF07ACABA9DD514E/2199306.png",
+    "dye_slots": [
+      {
+        "color_id": 53,
+        "material": "fur"
+      },
+      {
+        "color_id": 67,
+        "material": "cloth"
+      },
+      {
+        "color_id": 67,
+        "material": "cloth"
+      },
+      {
+        "color_id": 134,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 222,
+    "name": "Manta del Re Folle",
+    "icon": "https://render.guildwars2.com/file/EEE0F69130CD3676FE119E77CAB5EAA719DBA7D5/2213196.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 62,
+        "material": "cloth"
+      },
+      {
+        "color_id": 482,
+        "material": "leather"
+      },
+      {
+        "color_id": 1537,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 223,
+    "name": "Grifone del Re Folle",
+    "icon": "https://render.guildwars2.com/file/2119C004C1D0F74E04070C414420459F7DCA99AB/2213109.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 62,
+        "material": "cloth"
+      },
+      {
+        "color_id": 482,
+        "material": "fur"
+      },
+      {
+        "color_id": 1537,
+        "material": "metal"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 224,
+    "name": "Sciacallo del Re Folle",
+    "icon": "https://render.guildwars2.com/file/2A1F76C6371AF07FA42742EE06DF0E74C44DAC39/2213255.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "cloth"
+      },
+      {
+        "color_id": 62,
+        "material": "fur"
+      },
+      {
+        "color_id": 21,
+        "material": "fur"
+      },
+      {
+        "color_id": 1537,
+        "material": "fur"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 225,
+    "name": "Coniglio del Re Folle",
+    "icon": "https://render.guildwars2.com/file/483BBCA6BB0D3101512643E015F6943B04071E59/2213172.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "fur"
+      },
+      {
+        "color_id": 62,
+        "material": "leather"
+      },
+      {
+        "color_id": 85,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1537,
+        "material": "leather"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 226,
+    "name": "Raptor del Re Folle",
+    "icon": "https://render.guildwars2.com/file/99DDA84832960AE4B7AEC9E3230D91B82AEDD50D/2213173.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 62,
+        "material": "cloth"
+      },
+      {
+        "color_id": 482,
+        "material": "leather"
+      },
+      {
+        "color_id": 1537,
+        "material": "metal"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 231,
+    "name": "Orrore Infernale",
+    "icon": "https://render.guildwars2.com/file/34F73CECCD03C13FC0C67A0B163BB636DFDD506B/2220626.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "fur"
+      },
+      {
+        "color_id": 358,
+        "material": "fur"
+      },
+      {
+        "color_id": 1383,
+        "material": "fur"
+      },
+      {
+        "color_id": 1149,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 234,
+    "name": "Rotolottero Marchiato",
+    "icon": "https://render.guildwars2.com/file/AC78DE071E1F76C5EDAE425C96D520C509E44668/2237028.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "metal"
+      },
+      {
+        "color_id": 99,
+        "material": "metal"
+      },
+      {
+        "color_id": 143,
+        "material": "metal"
+      },
+      {
+        "color_id": 116,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 235,
+    "name": "Scaglia Celeste Confortevole del Giorno Invenale",
+    "icon": "https://render.guildwars2.com/file/C900E75ECCF51628BE73B2DFAB4E95F859753E72/2237173.png",
+    "dye_slots": [
+      {
+        "color_id": 640,
+        "material": "leather"
+      },
+      {
+        "color_id": 1363,
+        "material": "leather"
+      },
+      {
+        "color_id": 708,
+        "material": "leather"
+      },
+      {
+        "color_id": 708,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 236,
+    "name": "Saccheggiatore Forgiato dal Ghiaccio",
+    "icon": "https://render.guildwars2.com/file/D89035E0F5030F6CC0E560E73F2DB4AC6C599A71/2237024.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "cloth"
+      },
+      {
+        "color_id": 362,
+        "material": "cloth"
+      },
+      {
+        "color_id": 597,
+        "material": "metal"
+      },
+      {
+        "color_id": 664,
+        "material": "metal"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 237,
+    "name": "Primordiale",
+    "icon": "https://render.guildwars2.com/file/2AB0BA663D2C247FF2642F1E0BE39DA4D50A0967/2237307.png",
+    "dye_slots": [
+      {
+        "color_id": 89,
+        "material": "leather"
+      },
+      {
+        "color_id": 614,
+        "material": "leather"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 714,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 238,
+    "name": "Scaglia Celelste con Ali Striate",
+    "icon": "https://render.guildwars2.com/file/D12C75720CD68019BCF6B243E49DC807BD680EC6/2237096.png",
+    "dye_slots": [
+      {
+        "color_id": 377,
+        "material": "fur"
+      },
+      {
+        "color_id": 596,
+        "material": "leather"
+      },
+      {
+        "color_id": 473,
+        "material": "metal"
+      },
+      {
+        "color_id": 1644,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 239,
+    "name": "Nautiloide",
+    "icon": "https://render.guildwars2.com/file/3EF0BB0AF2BD5A5993D4F7AA73D1F1667A0A78F5/2237081.png",
+    "dye_slots": [
+      {
+        "color_id": 686,
+        "material": "metal"
+      },
+      {
+        "color_id": 1481,
+        "material": "metal"
+      },
+      {
+        "color_id": 1237,
+        "material": "metal"
+      },
+      {
+        "color_id": 7,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 240,
+    "name": "Corridore delle Pianure Crestato",
+    "icon": "https://render.guildwars2.com/file/15FB31CEFC9F0E2D0326D2E86623E50DE6254899/2237326.png",
+    "dye_slots": [
+      {
+        "color_id": 472,
+        "material": "leather"
+      },
+      {
+        "color_id": 336,
+        "material": "leather"
+      },
+      {
+        "color_id": 15,
+        "material": "leather"
+      },
+      {
+        "color_id": 1644,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 241,
+    "name": "Artiglio Tempesta",
+    "icon": "https://render.guildwars2.com/file/242B350545DCCA52C8504932FC9277703B941B0B/2236982.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "cloth"
+      },
+      {
+        "color_id": 143,
+        "material": "cloth"
+      },
+      {
+        "color_id": 583,
+        "material": "metal"
+      },
+      {
+        "color_id": 28,
+        "material": "metal"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 242,
+    "name": "Zannacorta Maculata",
+    "icon": "https://render.guildwars2.com/file/BC71C7324828F4484FB87403DD3B0245AE0F7439/2237139.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "leather"
+      },
+      {
+        "color_id": 99,
+        "material": "leather"
+      },
+      {
+        "color_id": 622,
+        "material": "leather"
+      },
+      {
+        "color_id": 1158,
+        "material": "metal"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 243,
+    "name": "Codacorta di Caledon",
+    "icon": "https://render.guildwars2.com/file/6575CC5EED98987FEAF0C8B6D8EEA2E9D8404058/2237258.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "fur"
+      },
+      {
+        "color_id": 70,
+        "material": "fur"
+      },
+      {
+        "color_id": 17,
+        "material": "leather"
+      },
+      {
+        "color_id": 634,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 244,
+    "name": "Cacciatore Luminoso",
+    "icon": "https://render.guildwars2.com/file/E83DE2A69AB4E8B0F01C03FD97900B23D629920B/2237201.png",
+    "dye_slots": [
+      {
+        "color_id": 60,
+        "material": "leather"
+      },
+      {
+        "color_id": 80,
+        "material": "leather"
+      },
+      {
+        "color_id": 617,
+        "material": "leather"
+      },
+      {
+        "color_id": 709,
+        "material": "leather"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 245,
+    "name": "Volteggiatore d'Energia Esaltato",
+    "icon": "https://render.guildwars2.com/file/4205965106634FAC51076133F7C75A2E3B4727A7/2237284.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "metal"
+      },
+      {
+        "color_id": 93,
+        "material": "metal"
+      },
+      {
+        "color_id": 1338,
+        "material": "metal"
+      },
+      {
+        "color_id": 665,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 246,
+    "name": "Corvus Puntuto",
+    "icon": "https://render.guildwars2.com/file/C4DDC91D7140E83C324BF69BA50244E675DEFAA7/2237192.png",
+    "dye_slots": [
+      {
+        "color_id": 77,
+        "material": "fur"
+      },
+      {
+        "color_id": 1584,
+        "material": "fur"
+      },
+      {
+        "color_id": 588,
+        "material": "fur"
+      },
+      {
+        "color_id": 622,
+        "material": "metal"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 247,
+    "name": "Sabbie Lucenti",
+    "icon": "https://render.guildwars2.com/file/044EE5B7392C9649A542F1627C706720DE0BF054/2236593.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "metal"
+      },
+      {
+        "color_id": 1354,
+        "material": "metal"
+      },
+      {
+        "color_id": 1337,
+        "material": "metal"
+      },
+      {
+        "color_id": 1378,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 248,
+    "name": "Litosuolo",
+    "icon": "https://render.guildwars2.com/file/D0AD0D5A20425CF80901CCB209170B2BCCCA3579/2237367.png",
+    "dye_slots": [
+      {
+        "color_id": 101,
+        "material": "leather"
+      },
+      {
+        "color_id": 692,
+        "material": "fur"
+      },
+      {
+        "color_id": 652,
+        "material": "fur"
+      },
+      {
+        "color_id": 1338,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 250,
+    "name": "Pegaso Sacro",
+    "icon": "https://render.guildwars2.com/file/BCDE5F4E93A3561840B6E6CF0419D562E8C0ECB8/2247649.png",
+    "dye_slots": [
+      {
+        "color_id": 443,
+        "material": "fur"
+      },
+      {
+        "color_id": 605,
+        "material": "fur"
+      },
+      {
+        "color_id": 379,
+        "material": "fur"
+      },
+      {
+        "color_id": 10,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 251,
+    "name": "Artiglio Bellico Cavaliere della Gilda",
+    "icon": "https://render.guildwars2.com/file/351BC8662C20CD66C1FE62E89EAF40F4E4234A65/2261402.png",
+    "dye_slots": [
+      {
+        "color_id": 587,
+        "material": "fur"
+      },
+      {
+        "color_id": 3,
+        "material": "fur"
+      },
+      {
+        "color_id": 364,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1239,
+        "material": "metal"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 252,
+    "name": "Predone Devastato dalla Guerra",
+    "icon": "https://render.guildwars2.com/file/3FFD5932BF9DF4BBF94DEC74E85238C4326DFC6B/2261471.png",
+    "dye_slots": [
+      {
+        "color_id": 444,
+        "material": "metal"
+      },
+      {
+        "color_id": 1594,
+        "material": "metal"
+      },
+      {
+        "color_id": 450,
+        "material": "cloth"
+      },
+      {
+        "color_id": 473,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 264,
+    "name": "Super Raptor Fuorilegge",
+    "icon": "https://render.guildwars2.com/file/7735A2A427E0A3D5FAB040927E3A000EDCA579A3/2282049.png",
+    "dye_slots": [
+      {
+        "color_id": 632,
+        "material": "cloth"
+      },
+      {
+        "color_id": 451,
+        "material": "cloth"
+      },
+      {
+        "color_id": 366,
+        "material": "cloth"
+      },
+      {
+        "color_id": 586,
+        "material": "cloth"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 265,
+    "name": "Scaglia Celeste del Marchio Falena",
+    "icon": "https://render.guildwars2.com/file/B6061BFC16EC79C9172E5248E65F1B9833E860DE/2286537.png",
+    "dye_slots": [
+      {
+        "color_id": 1584,
+        "material": "leather"
+      },
+      {
+        "color_id": 473,
+        "material": "leather"
+      },
+      {
+        "color_id": 99,
+        "material": "leather"
+      },
+      {
+        "color_id": 592,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 266,
+    "name": "Velocista Camaleonte Tigre",
+    "icon": "https://render.guildwars2.com/file/635C9D47AA0D5F4C761FAB4E3C0632095001FF54/2286658.png",
+    "dye_slots": [
+      {
+        "color_id": 23,
+        "material": "leather"
+      },
+      {
+        "color_id": 138,
+        "material": "leather"
+      },
+      {
+        "color_id": 1634,
+        "material": "leather"
+      },
+      {
+        "color_id": 674,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 267,
+    "name": "Litosuolo",
+    "icon": "https://render.guildwars2.com/file/2BF7950A4B082F23534F76F6969DF707D093972C/2286640.png",
+    "dye_slots": [
+      {
+        "color_id": 101,
+        "material": "cloth"
+      },
+      {
+        "color_id": 692,
+        "material": "fur"
+      },
+      {
+        "color_id": 652,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1338,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  }{
+    "id": 268,
+    "name": "Razza Vulcanica",
+    "icon": "https://render.guildwars2.com/file/6DAEBD1106CC575466F9F457C49E72D2AFE80C4F/2286738.png",
+    "dye_slots": [
+      {
+        "color_id": 482,
+        "material": "leather"
+      },
+      {
+        "color_id": 101,
+        "material": "leather"
+      },
+      {
+        "color_id": 1639,
+        "material": "leather"
+      },
+      {
+        "color_id": 1538,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 269,
+    "name": "Campione delle Nebbie Esaltato",
+    "icon": "https://render.guildwars2.com/file/AA9FB4095CDA06AAEAB5A8A09B3EAD276506D55A/2286402.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "cloth"
+      },
+      {
+        "color_id": 93,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1338,
+        "material": "metal"
+      },
+      {
+        "color_id": 665,
+        "material": "metal"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 270,
+    "name": "Levriero di Nebbia Oscura",
+    "icon": "https://render.guildwars2.com/file/EBEB5A626860625F45DA0076DE904032D7146695/2286746.png",
+    "dye_slots": [
+      {
+        "color_id": 1376,
+        "material": "leather"
+      },
+      {
+        "color_id": 379,
+        "material": "leather"
+      },
+      {
+        "color_id": 1235,
+        "material": "metal"
+      },
+      {
+        "color_id": 613,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 271,
+    "name": "Occhio di Falco Gendarriano",
+    "icon": "https://render.guildwars2.com/file/31C6FFDDA8B7C2F941681228120ABB3717F1CA6A/2286617.png",
+    "dye_slots": [
+      {
+        "color_id": 138,
+        "material": "cloth"
+      },
+      {
+        "color_id": 621,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1054,
+        "material": "cloth"
+      },
+      {
+        "color_id": 653,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 272,
+    "name": "Corridune Slanciato",
+    "icon": "https://render.guildwars2.com/file/E6C5EC3AB86A6BB5990CBE201BB60897E5BCC2FC/2286745.png",
+    "dye_slots": [
+      {
+        "color_id": 665,
+        "material": "leather"
+      },
+      {
+        "color_id": 78,
+        "material": "leather"
+      },
+      {
+        "color_id": 11,
+        "material": "metal"
+      },
+      {
+        "color_id": 351,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 273,
+    "name": "Raptor Bioluminescente",
+    "icon": "https://render.guildwars2.com/file/7C242703CF000D4725F40958F1F809E946C71478/2286664.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "leather"
+      },
+      {
+        "color_id": 1377,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1337,
+        "material": "fur"
+      },
+      {
+        "color_id": 1378,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 275,
+    "name": "Grancorno Velenoso",
+    "icon": "https://render.guildwars2.com/file/F0F3139F275B2EA7475CE2D245060D90AB9F2A35/2286616.png",
+    "dye_slots": [
+      {
+        "color_id": 612,
+        "material": "leather"
+      },
+      {
+        "color_id": 88,
+        "material": "leather"
+      },
+      {
+        "color_id": 1579,
+        "material": "leather"
+      },
+      {
+        "color_id": 1594,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 276,
+    "name": "Geode Vitale",
+    "icon": "https://render.guildwars2.com/file/244F593C6622A9D61FA7C2BAB49D52785BAE41B8/2286657.png",
+    "dye_slots": [
+      {
+        "color_id": 615,
+        "material": "metal"
+      },
+      {
+        "color_id": 139,
+        "material": "metal"
+      },
+      {
+        "color_id": 616,
+        "material": "metal"
+      },
+      {
+        "color_id": 626,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 277,
+    "name": "Rotante Luminoso",
+    "icon": "https://render.guildwars2.com/file/0F07059A0E090CF74901C4AE220B47A2DDE0CFAB/2286528.png",
+    "dye_slots": [
+      {
+        "color_id": 61,
+        "material": "metal"
+      },
+      {
+        "color_id": 80,
+        "material": "metal"
+      },
+      {
+        "color_id": 638,
+        "material": "metal"
+      },
+      {
+        "color_id": 709,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 278,
+    "name": "Rotolottero Risvegliato",
+    "icon": "https://render.guildwars2.com/file/3F4637BB7A0D0348381F0CFC60CFF86BF6DB73CF/2286432.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "metal"
+      },
+      {
+        "color_id": 1365,
+        "material": "metal"
+      },
+      {
+        "color_id": 22,
+        "material": "metal"
+      },
+      {
+        "color_id": 1378,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 279,
+    "name": "Artiglio Sciabola Vigile",
+    "icon": "https://render.guildwars2.com/file/2693794414BB25C57A29ACB0A33927E22947FC9B/2286430.png",
+    "dye_slots": [
+      {
+        "color_id": 623,
+        "material": "cloth"
+      },
+      {
+        "color_id": 651,
+        "material": "cloth"
+      },
+      {
+        "color_id": 711,
+        "material": "cloth"
+      },
+      {
+        "color_id": 64,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 280,
+    "name": "Scaglia Celeste Animagelida",
+    "icon": "https://render.guildwars2.com/file/FE5403700051AF0D1CC675740DC34697E0B8D7EA/2286593.png",
+    "dye_slots": [
+      {
+        "color_id": 583,
+        "material": "fur"
+      },
+      {
+        "color_id": 664,
+        "material": "leather"
+      },
+      {
+        "color_id": 29,
+        "material": "metal"
+      },
+      {
+        "color_id": 28,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 287,
+    "name": "Mordrem Alfa",
+    "icon": "https://render.guildwars2.com/file/7377FC244D6F0A06063512A69F9638AA9A0E742D/2303399.png",
+    "dye_slots": [
+      {
+        "color_id": 645,
+        "material": "fur"
+      },
+      {
+        "color_id": 370,
+        "material": "cloth"
+      },
+      {
+        "color_id": 376,
+        "material": "cloth"
+      },
+      {
+        "color_id": 591,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 292,
+    "name": "Monarca Oscuro",
+    "icon": "https://render.guildwars2.com/file/B13ED717CF456CB399DC20B192F5D00CB436EEDB/2306899.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "metal"
+      },
+      {
+        "color_id": 30,
+        "material": "metal"
+      },
+      {
+        "color_id": 1348,
+        "material": "metal"
+      },
+      {
+        "color_id": 1658,
+        "material": "metal"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 293,
+    "name": "Girociclo Sinergetico",
+    "icon": "https://render.guildwars2.com/file/063DCC0D2FC51F27E12EC2F0AB2A8078E0E4A00D/2309886.png",
+    "dye_slots": [
+      {
+        "color_id": 25,
+        "material": "leather"
+      },
+      {
+        "color_id": 1641,
+        "material": "leather"
+      },
+      {
+        "color_id": 1582,
+        "material": "leather"
+      },
+      {
+        "color_id": 1629,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 294,
+    "name": "Tricorno Selvaggio",
+    "icon": "https://render.guildwars2.com/file/0E16E36FB030AB59C4455B4B40CF75397C087715/2314545.png",
+    "dye_slots": [
+      {
+        "color_id": 1151,
+        "material": "leather"
+      },
+      {
+        "color_id": 597,
+        "material": "leather"
+      },
+      {
+        "color_id": 1579,
+        "material": "leather"
+      },
+      {
+        "color_id": 1335,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 298,
+    "name": "Raptor Prismatico di Aurene",
+    "icon": "https://render.guildwars2.com/file/73146D303976FC6C645DC5356904EF6D320E7FD8/2329256.png",
+    "dye_slots": [
+      {
+        "color_id": 1308,
+        "material": "leather"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 642,
+        "material": "leather"
+      },
+      {
+        "color_id": 600,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 299,
+    "name": "Collembolo Maculato",
+    "icon": "https://render.guildwars2.com/file/E6D3DF0B0B73CF56A83123CACCFA5F0D270A1E17/2329247.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "cloth"
+      },
+      {
+        "color_id": 622,
+        "material": "fur"
+      },
+      {
+        "color_id": 373,
+        "material": "fur"
+      },
+      {
+        "color_id": 473,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 300,
+    "name": "Manta Primordiale",
+    "icon": "https://render.guildwars2.com/file/3AAD44F107011CB1110CDAAE263C53684BECBE4D/2329328.png",
+    "dye_slots": [
+      {
+        "color_id": 89,
+        "material": "leather"
+      },
+      {
+        "color_id": 614,
+        "material": "cloth"
+      },
+      {
+        "color_id": 587,
+        "material": "cloth"
+      },
+      {
+        "color_id": 714,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 301,
+    "name": "Grancorno Assaltatore",
+    "icon": "https://render.guildwars2.com/file/F737FE32C259F877DFA160154E56DDE2C0C5AE1E/2329140.png",
+    "dye_slots": [
+      {
+        "color_id": 484,
+        "material": "metal"
+      },
+      {
+        "color_id": 475,
+        "material": "metal"
+      },
+      {
+        "color_id": 484,
+        "material": "cloth"
+      },
+      {
+        "color_id": 145,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 302,
+    "name": "Sciacallo Kintsugi",
+    "icon": "https://render.guildwars2.com/file/0754530738A2C7D00D76B33CB8640150D234ACC0/2329401.png",
+    "dye_slots": [
+      {
+        "color_id": 477,
+        "material": "metal"
+      },
+      {
+        "color_id": 1376,
+        "material": "metal"
+      },
+      {
+        "color_id": 28,
+        "material": "metal"
+      },
+      {
+        "color_id": 67,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 303,
+    "name": "Rotolottero Esotuta",
+    "icon": "https://render.guildwars2.com/file/BBBEBCD2204F3165C16A00C1E79BA70AB66E28C0/2329141.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 72,
+        "material": "metal"
+      },
+      {
+        "color_id": 1369,
+        "material": "metal"
+      },
+      {
+        "color_id": 49,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 304,
+    "name": "Artiglio Bellico del Regno Folle",
+    "icon": "https://render.guildwars2.com/file/09C301FE44EC3A95F7A5CB5440217571E909E59F/2329079.png",
+    "dye_slots": [
+      {
+        "color_id": 1381,
+        "material": "metal"
+      },
+      {
+        "color_id": 1357,
+        "material": "metal"
+      },
+      {
+        "color_id": 1382,
+        "material": "cloth"
+      },
+      {
+        "color_id": 381,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 305,
+    "name": "Drago Barbuto",
+    "icon": "https://render.guildwars2.com/file/A7B209C31A48A82C7515C935E80D38A9A9E8B6D9/2329196.png",
+    "dye_slots": [
+      {
+        "color_id": 1576,
+        "material": "fur"
+      },
+      {
+        "color_id": 17,
+        "material": "leather"
+      },
+      {
+        "color_id": 377,
+        "material": "metal"
+      },
+      {
+        "color_id": 479,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 306,
+    "name": "Scaglia Notturna Frammentata",
+    "icon": "https://render.guildwars2.com/file/4E289A41089BF4120DD50121FACE1E7692425952/2329165.png",
+    "dye_slots": [
+      {
+        "color_id": 8,
+        "material": "fur"
+      },
+      {
+        "color_id": 69,
+        "material": "leather"
+      },
+      {
+        "color_id": 125,
+        "material": "metal"
+      },
+      {
+        "color_id": 1380,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 307,
+    "name": "Imperatore Celeste Esaltato",
+    "icon": "https://render.guildwars2.com/file/B8E795335904BD22CADC35DB91F9BAE7F27519C1/2329195.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "cloth"
+      },
+      {
+        "color_id": 93,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1338,
+        "material": "metal"
+      },
+      {
+        "color_id": 665,
+        "material": "metal"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 308,
+    "name": "Salamandra delle Paludi",
+    "icon": "https://render.guildwars2.com/file/805B44E080B533E1320DB3AF943424CFFF97A1D0/2329248.png",
+    "dye_slots": [
+      {
+        "color_id": 1582,
+        "material": "leather"
+      },
+      {
+        "color_id": 673,
+        "material": "cloth"
+      },
+      {
+        "color_id": 381,
+        "material": "cloth"
+      },
+      {
+        "color_id": 139,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 309,
+    "name": "Sciacallo Luminoso",
+    "icon": "https://render.guildwars2.com/file/B4AF35CC20DE0CB360B31D750AEC29187808CA45/2329400.png",
+    "dye_slots": [
+      {
+        "color_id": 61,
+        "material": "cloth"
+      },
+      {
+        "color_id": 80,
+        "material": "fur"
+      },
+      {
+        "color_id": 638,
+        "material": "fur"
+      },
+      {
+        "color_id": 709,
+        "material": "fur"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 310,
+    "name": "Geode Vitale",
+    "icon": "https://render.guildwars2.com/file/646B3B7C5D4CEE099793ED01A9B86BD97D265CE6/2329078.png",
+    "dye_slots": [
+      {
+        "color_id": 615,
+        "material": "metal"
+      },
+      {
+        "color_id": 139,
+        "material": "metal"
+      },
+      {
+        "color_id": 616,
+        "material": "cloth"
+      },
+      {
+        "color_id": 626,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 311,
+    "name": "Guscio Surfista",
+    "icon": "https://render.guildwars2.com/file/A8BBC13202C4D2501DE9101CD4071EF3A357C303/2329331.png",
+    "dye_slots": [
+      {
+        "color_id": 66,
+        "material": "leather"
+      },
+      {
+        "color_id": 1269,
+        "material": "leather"
+      },
+      {
+        "color_id": 669,
+        "material": "leather"
+      },
+      {
+        "color_id": 1239,
+        "material": "fur"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 312,
+    "name": "Cavalcaonde Eloniano",
+    "icon": "https://render.guildwars2.com/file/79CF30940F02BFEBCC4FBD009AC7DAB15A586D97/2329318.png",
+    "dye_slots": [
+      {
+        "color_id": 443,
+        "material": "leather"
+      },
+      {
+        "color_id": 673,
+        "material": "leather"
+      },
+      {
+        "color_id": 2,
+        "material": "leather"
+      },
+      {
+        "color_id": 625,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 313,
+    "name": "Averla di Nebbia Oscura",
+    "icon": "https://render.guildwars2.com/file/BA0E04D70BBB5BE17180AC31ECC7540995035101/2329239.png",
+    "dye_slots": [
+      {
+        "color_id": 1376,
+        "material": "cloth"
+      },
+      {
+        "color_id": 379,
+        "material": "fur"
+      },
+      {
+        "color_id": 1235,
+        "material": "cloth"
+      },
+      {
+        "color_id": 630,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 316,
+    "name": "Leone della Sabbia",
+    "icon": "https://render.guildwars2.com/file/D52A4136346BB816C2672E7269ED97ED9136327C/2343761.png",
+    "dye_slots": [
+      {
+        "color_id": 622,
+        "material": "metal"
+      },
+      {
+        "color_id": 470,
+        "material": "metal"
+      },
+      {
+        "color_id": 450,
+        "material": "cloth"
+      },
+      {
+        "color_id": 336,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 329,
+    "name": "Roadrunner",
+    "icon": "https://render.guildwars2.com/file/B501D9066B2E04790ED7CA400CA820A5CF5F112A/2352258.png",
+    "dye_slots": [
+      {
+        "color_id": 336,
+        "material": "cloth"
+      },
+      {
+        "color_id": 4,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1576,
+        "material": "cloth"
+      },
+      {
+        "color_id": 673,
+        "material": "cloth"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 330,
+    "name": "Grifone Peluche",
+    "icon": "https://render.guildwars2.com/file/6F045A38040363C53D0575450FCF4D656209B8E8/2377383.png",
+    "dye_slots": [
+      {
+        "color_id": 596,
+        "material": "fur"
+      },
+      {
+        "color_id": 479,
+        "material": "fur"
+      },
+      {
+        "color_id": 339,
+        "material": "fur"
+      },
+      {
+        "color_id": 123,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 331,
+    "name": "Folletto delle Terre Verdeggianti",
+    "icon": "https://render.guildwars2.com/file/95210A94A2EE02B36AC13276B94A07AFAD3360CB/2384409.png",
+    "dye_slots": [
+      {
+        "color_id": 479,
+        "material": "fur"
+      },
+      {
+        "color_id": 455,
+        "material": "fur"
+      },
+      {
+        "color_id": 16,
+        "material": "fur"
+      },
+      {
+        "color_id": 1621,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 332,
+    "name": "Uro Nobile",
+    "icon": "https://render.guildwars2.com/file/0C3377DCDE0F2E594ACD275A9AB64EB21E1D3332/2394026.png",
+    "dye_slots": [
+      {
+        "color_id": 1240,
+        "material": "fur"
+      },
+      {
+        "color_id": 608,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1155,
+        "material": "cloth"
+      },
+      {
+        "color_id": 376,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 336,
+    "name": "Scaglia Celeste dalla Criniera Lunare",
+    "icon": "https://render.guildwars2.com/file/3914F21C0C44CDAF307C2F28325CA598CBDE250D/2408477.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 90,
+        "material": "metal"
+      },
+      {
+        "color_id": 443,
+        "material": "metal"
+      },
+      {
+        "color_id": 8,
+        "material": "metal"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 343,
+    "name": "Shiba del Deserto",
+    "icon": "https://render.guildwars2.com/file/47076F47A29B0C7FE8479BD22606A0D26E4CF244/2419394.png",
+    "dye_slots": [
+      {
+        "color_id": 479,
+        "material": "leather"
+      },
+      {
+        "color_id": 70,
+        "material": "leather"
+      },
+      {
+        "color_id": 117,
+        "material": "leather"
+      },
+      {
+        "color_id": 611,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 344,
+    "name": "Camaleonte Velato",
+    "icon": "https://render.guildwars2.com/file/A571060BCE0C9AE868B6BA7C1C7A056B91EA5C7E/2419303.png",
+    "dye_slots": [
+      {
+        "color_id": 593,
+        "material": "leather"
+      },
+      {
+        "color_id": 697,
+        "material": "leather"
+      },
+      {
+        "color_id": 362,
+        "material": "leather"
+      },
+      {
+        "color_id": 611,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 345,
+    "name": "Glaucus di Mare Aperto",
+    "icon": "https://render.guildwars2.com/file/F267125405D32FEAD8A570324E7622AE2553D9AB/2419319.png",
+    "dye_slots": [
+      {
+        "color_id": 1654,
+        "material": "leather"
+      },
+      {
+        "color_id": 29,
+        "material": "leather"
+      },
+      {
+        "color_id": 2,
+        "material": "leather"
+      },
+      {
+        "color_id": 611,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 346,
+    "name": "Crestato Meridionale",
+    "icon": "https://render.guildwars2.com/file/C515EA48CE3D510217920A353D1A7D425103715E/2419173.png",
+    "dye_slots": [
+      {
+        "color_id": 5,
+        "material": "fur"
+      },
+      {
+        "color_id": 585,
+        "material": "fur"
+      },
+      {
+        "color_id": 1374,
+        "material": "fur"
+      },
+      {
+        "color_id": 582,
+        "material": "fur"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 347,
+    "name": "Falco Pescatore Fosforeo",
+    "icon": "https://render.guildwars2.com/file/0DBE41ABCBE449A6E95EE550484BCD9864D7CD7D/2419153.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1377,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1481,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1378,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 348,
+    "name": "Rotolottero Verniciato a Fiamme",
+    "icon": "https://render.guildwars2.com/file/F53D2D6209405A77610CF6CF791C9E09B7E0A6A1/2419014.png",
+    "dye_slots": [
+      {
+        "color_id": 377,
+        "material": "leather"
+      },
+      {
+        "color_id": 1154,
+        "material": "leather"
+      },
+      {
+        "color_id": 473,
+        "material": "leather"
+      },
+      {
+        "color_id": 1154,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 349,
+    "name": "Guardastelle",
+    "icon": "https://render.guildwars2.com/file/0CB4F6D0DCACB850771AFD3C757C4C15FA56EB1E/2419035.png",
+    "dye_slots": [
+      {
+        "color_id": 1249,
+        "material": "fur"
+      },
+      {
+        "color_id": 1454,
+        "material": "leather"
+      },
+      {
+        "color_id": 1378,
+        "material": "metal"
+      },
+      {
+        "color_id": 603,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 350,
+    "name": "Predatore di Nebbia Oscura",
+    "icon": "https://render.guildwars2.com/file/7D09665C0EAA665BA6099602FD0AC101C4674A07/2419285.png",
+    "dye_slots": [
+      {
+        "color_id": 1376,
+        "material": "leather"
+      },
+      {
+        "color_id": 379,
+        "material": "leather"
+      },
+      {
+        "color_id": 1235,
+        "material": "leather"
+      },
+      {
+        "color_id": 613,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 351,
+    "name": "Felino Sinistro",
+    "icon": "https://render.guildwars2.com/file/C5F3CFA6F72E4928992ED2457E2DE2EC030626C3/2419188.png",
+    "dye_slots": [
+      {
+        "color_id": 356,
+        "material": "fur"
+      },
+      {
+        "color_id": 100,
+        "material": "fur"
+      },
+      {
+        "color_id": 79,
+        "material": "leather"
+      },
+      {
+        "color_id": 622,
+        "material": "metal"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 352,
+    "name": "Sentinella Marina Esaltata",
+    "icon": "https://render.guildwars2.com/file/BAED63651A309FCB910162F8E12607CD67967942/2419306.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "leather"
+      },
+      {
+        "color_id": 93,
+        "material": "leather"
+      },
+      {
+        "color_id": 1338,
+        "material": "leather"
+      },
+      {
+        "color_id": 665,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 353,
+    "name": "Scaglia Celeste Prismatica di Aurene",
+    "icon": "https://render.guildwars2.com/file/759B2CC6094BAA51ED550FB5D191A29DBA7B6433/2419092.png",
+    "dye_slots": [
+      {
+        "color_id": 1308,
+        "material": "fur"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 642,
+        "material": "metal"
+      },
+      {
+        "color_id": 600,
+        "material": "cloth"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 354,
+    "name": "Megera della Tundra",
+    "icon": "https://render.guildwars2.com/file/CFE34DCB2CE4772EC3CAC0DF2AB2F9697E5774ED/2418982.png",
+    "dye_slots": [
+      {
+        "color_id": 1352,
+        "material": "cloth"
+      },
+      {
+        "color_id": 371,
+        "material": "cloth"
+      },
+      {
+        "color_id": 102,
+        "material": "cloth"
+      },
+      {
+        "color_id": 365,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 355,
+    "name": "Zampalieve di Marea",
+    "icon": "https://render.guildwars2.com/file/08CCA59EA66E5B11FE5CC1209E9349D832D9C2A2/2419387.png",
+    "dye_slots": [
+      {
+        "color_id": 1309,
+        "material": "leather"
+      },
+      {
+        "color_id": 348,
+        "material": "leather"
+      },
+      {
+        "color_id": 103,
+        "material": "metal"
+      },
+      {
+        "color_id": 625,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 356,
+    "name": "Razziatore Luminoso",
+    "icon": "https://render.guildwars2.com/file/7A150E54A50177946DA9496E5B5E36BF6111AE90/2418979.png",
+    "dye_slots": [
+      {
+        "color_id": 61,
+        "material": "metal"
+      },
+      {
+        "color_id": 80,
+        "material": "metal"
+      },
+      {
+        "color_id": 638,
+        "material": "cloth"
+      },
+      {
+        "color_id": 709,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 357,
+    "name": "Zannacorta Dorata",
+    "icon": "https://render.guildwars2.com/file/62649BD16825B36BB45551274B67B692965BCD38/2419031.png",
+    "dye_slots": [
+      {
+        "color_id": 381,
+        "material": "leather"
+      },
+      {
+        "color_id": 377,
+        "material": "leather"
+      },
+      {
+        "color_id": 697,
+        "material": "leather"
+      },
+      {
+        "color_id": 136,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 358,
+    "name": "Dorso Muschioso",
+    "icon": "https://render.guildwars2.com/file/3B3D9FFE9FBD18F7FC089CA03E15E4F3330E1C91/2449463.png",
+    "dye_slots": [
+      {
+        "color_id": 385,
+        "material": "leather"
+      },
+      {
+        "color_id": 615,
+        "material": "leather"
+      },
+      {
+        "color_id": 366,
+        "material": "leather"
+      },
+      {
+        "color_id": 55,
+        "material": "fur"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 359,
+    "name": "Sciacallo Anubi Reale",
+    "icon": "https://render.guildwars2.com/file/982C93C7333751C6F21A9DE068A4EE03692BCF5A/2453981.png",
+    "dye_slots": [
+      {
+        "color_id": 454,
+        "material": "fur"
+      },
+      {
+        "color_id": 147,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1279,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1537,
+        "material": "leather"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 360,
+    "name": "Raptor Canthano",
+    "icon": "https://render.guildwars2.com/file/1228A2E7FA0A0BDE4CF901BD6241AA13D579354E/2472356.png",
+    "dye_slots": [
+      {
+        "color_id": 1155,
+        "material": "leather"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 49,
+        "material": "leather"
+      },
+      {
+        "color_id": 49,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 361,
+    "name": "Ara dell'Alba",
+    "icon": "https://render.guildwars2.com/file/3F0508E920BE64A80D9A2194ADA3BA18AFA9D76C/2485579.png",
+    "dye_slots": [
+      {
+        "color_id": 698,
+        "material": "cloth"
+      },
+      {
+        "color_id": 585,
+        "material": "cloth"
+      },
+      {
+        "color_id": 139,
+        "material": "cloth"
+      },
+      {
+        "color_id": 6,
+        "material": "cloth"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 362,
+    "name": "Cercavia Esaltato",
+    "icon": "https://render.guildwars2.com/file/06F4CF3C28E9050D0E14D02F242A92FD7344F3F8/2485589.png",
+    "dye_slots": [
+      {
+        "color_id": 714,
+        "material": "metal"
+      },
+      {
+        "color_id": 93,
+        "material": "metal"
+      },
+      {
+        "color_id": 1338,
+        "material": "metal"
+      },
+      {
+        "color_id": 665,
+        "material": "leather"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 363,
+    "name": "Artiglio Bellico Rinnegato",
+    "icon": "https://render.guildwars2.com/file/52F9DD329C034EA5781109F06B12E24E49FE0C62/2485661.png",
+    "dye_slots": [
+      {
+        "color_id": 582,
+        "material": "metal"
+      },
+      {
+        "color_id": 1357,
+        "material": "metal"
+      },
+      {
+        "color_id": 2,
+        "material": "cloth"
+      },
+      {
+        "color_id": 1312,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 364,
+    "name": "Megera Tigrata",
+    "icon": "https://render.guildwars2.com/file/D1D32A535402F7EF44AA9ADC0F912C620D3B80A6/2485641.png",
+    "dye_slots": [
+      {
+        "color_id": 1308,
+        "material": "metal"
+      },
+      {
+        "color_id": 708,
+        "material": "metal"
+      },
+      {
+        "color_id": 351,
+        "material": "cloth"
+      },
+      {
+        "color_id": 590,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 365,
+    "name": "Grande Carapace Lavico",
+    "icon": "https://render.guildwars2.com/file/B20501E8C0A9A573C2F5EE0245BF026D260504E8/2485591.png",
+    "dye_slots": [
+      {
+        "color_id": 4,
+        "material": "metal"
+      },
+      {
+        "color_id": 582,
+        "material": "metal"
+      },
+      {
+        "color_id": 473,
+        "material": "metal"
+      },
+      {
+        "color_id": 592,
+        "material": "metal"
+      }
+    ],
+    "mount": "roller_beetle"
+  },
+  {
+    "id": 366,
+    "name": "Scaglia Tempesta",
+    "icon": "https://render.guildwars2.com/file/AF0098D50F5636CEE3970BABC8E2339F213274D1/2485573.png",
+    "dye_slots": [
+      {
+        "color_id": 372,
+        "material": "leather"
+      },
+      {
+        "color_id": 143,
+        "material": "leather"
+      },
+      {
+        "color_id": 583,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 367,
+    "name": "Raptor di Materia Oscura",
+    "icon": "https://render.guildwars2.com/file/221E344C6AE79C7B3ED3693FF77CAEC86261451B/2485585.png",
+    "dye_slots": [
+      {
+        "color_id": 1352,
+        "material": "leather"
+      },
+      {
+        "color_id": 1356,
+        "material": "leather"
+      },
+      {
+        "color_id": 1381,
+        "material": "leather"
+      },
+      {
+        "color_id": 1354,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 368,
+    "name": "Manta Seducente",
+    "icon": "https://render.guildwars2.com/file/542F36CE4CE941EC225035122CBD3AA66CEB631D/2485583.png",
+    "dye_slots": [
+      {
+        "color_id": 125,
+        "material": "leather"
+      },
+      {
+        "color_id": 642,
+        "material": "leather"
+      },
+      {
+        "color_id": 117,
+        "material": "leather"
+      },
+      {
+        "color_id": 118,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  },
+  {
+    "id": 369,
+    "name": "Terrore di Nebbia Oscura",
+    "icon": "https://render.guildwars2.com/file/2A5D060EA29F48A75ACFC4CF2BF40B56925333F2/2485575.png",
+    "dye_slots": [
+      {
+        "color_id": 1376,
+        "material": "leather"
+      },
+      {
+        "color_id": 379,
+        "material": "leather"
+      },
+      {
+        "color_id": 1235,
+        "material": "leather"
+      },
+      {
+        "color_id": 613,
+        "material": "leather"
+      }
+    ],
+    "mount": "skyscale"
+  },
+  {
+    "id": 370,
+    "name": "Grifone Prismatico di Aurene",
+    "icon": "https://render.guildwars2.com/file/1A66BB9163D09239CBD6503268BD09AEFB344AD3/2485577.png",
+    "dye_slots": [
+      {
+        "color_id": 1308,
+        "material": "leather"
+      },
+      {
+        "color_id": 587,
+        "material": "leather"
+      },
+      {
+        "color_id": 642,
+        "material": "leather"
+      },
+      {
+        "color_id": 600,
+        "material": "leather"
+      }
+    ],
+    "mount": "griffon"
+  },
+  {
+    "id": 371,
+    "name": "Artiglio Bellico Esotuta",
+    "icon": "https://render.guildwars2.com/file/B334B6431BD594BFA41F1B1ACD1C21681D0E6FD8/2485571.png",
+    "dye_slots": [
+      {
+        "color_id": 69,
+        "material": "metal"
+      },
+      {
+        "color_id": 72,
+        "material": "metal"
+      },
+      {
+        "color_id": 1369,
+        "material": "cloth"
+      },
+      {
+        "color_id": 123,
+        "material": "cloth"
+      }
+    ],
+    "mount": "warclaw"
+  },
+  {
+    "id": 372,
+    "name": "Lupino della Taiga",
+    "icon": "https://render.guildwars2.com/file/B5010FB04A752110025A564B67FB597CDC45E57C/2486037.png",
+    "dye_slots": [
+      {
+        "color_id": 473,
+        "material": "metal"
+      },
+      {
+        "color_id": 443,
+        "material": "leather"
+      },
+      {
+        "color_id": 648,
+        "material": "leather"
+      },
+      {
+        "color_id": 485,
+        "material": "metal"
+      }
+    ],
+    "mount": "jackal"
+  },
+  {
+    "id": 373,
+    "name": "Orecchio Lungo Lucente",
+    "icon": "https://render.guildwars2.com/file/35AD430A69120D4EC8524A29122903B799A0BBC8/2485581.png",
+    "dye_slots": [
+      {
+        "color_id": 483,
+        "material": "fur"
+      },
+      {
+        "color_id": 1377,
+        "material": "fur"
+      },
+      {
+        "color_id": 1337,
+        "material": "fur"
+      },
+      {
+        "color_id": 1378,
+        "material": "fur"
+      }
+    ],
+    "mount": "springer"
+  },
+  {
+    "id": 374,
+    "name": "Raptor Kintsugi",
+    "icon": "https://render.guildwars2.com/file/A6BB98D726BD490B0F90C8005D57F2C0C8950649/2485587.png",
+    "dye_slots": [
+      {
+        "color_id": 477,
+        "material": "leather"
+      },
+      {
+        "color_id": 67,
+        "material": "leather"
+      },
+      {
+        "color_id": 28,
+        "material": "leather"
+      },
+      {
+        "color_id": 31,
+        "material": "leather"
+      }
+    ],
+    "mount": "raptor"
+  },
+  {
+    "id": 375,
+    "name": "Glaucus Screziato della Barriera Corallina",
+    "icon": "https://render.guildwars2.com/file/F9B1F3B996ECB3FDECE2C267367ECE7D43564A55/2486014.png",
+    "dye_slots": [
+      {
+        "color_id": 2,
+        "material": "leather"
+      },
+      {
+        "color_id": 1668,
+        "material": "leather"
+      },
+      {
+        "color_id": 443,
+        "material": "leather"
+      },
+      {
+        "color_id": 1538,
+        "material": "leather"
+      }
+    ],
+    "mount": "skimmer"
+  }]
