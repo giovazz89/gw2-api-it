@@ -947,15 +947,15 @@
   {
     "id": 26,
     "name": "Sincronizzazione Stazioni delle Legioni Unite",
-    "requirement": "Viagga nella Costa Boscopioggerella per sbloccare.",
+    "requirement": "Viagga nella Costa del Bosco Piovigginoso per sbloccare.",
     "order": 5,
     "background": "https://render.guildwars2.com/file/AB79F9789F16B8F8B99D0D22E16A60630C33FDCC/2293646.png",
     "region": "Tundra",
     "levels": [
       {
         "name": "Impulso Elettromagico",
-        "description": "Interagisci con le Stazioni delle Legioni Unite lungo la Costa Boscopioggerella, e ottieni l'azione speciale Impulso Elettromagico dalla Legione di Cenere.",
-        "instruction": "Ora puoi interagire con le Stazioni delle Legioni Unite lungo la Costa Boscopioggerella e ottenere l'azione speciale IEM della Legione di Cenere.",
+        "description": "Interagisci con le Stazioni delle Legioni Unite lungo la Costa del Bosco Piovigginoso, e ottieni l'azione speciale Impulso Elettromagico dalla Legione di Cenere.",
+        "instruction": "Ora puoi interagire con le Stazioni delle Legioni Unite lungo la Costa del Bosco Piovigginoso e ottenere l'azione speciale IEM della Legione di Cenere.",
         "icon": "https://render.guildwars2.com/file/374F08B7AE09540E5DB0D2B057303FC10854BE2B/2293636.png",
         "point_cost": 1,
         "exp_cost": 381000
